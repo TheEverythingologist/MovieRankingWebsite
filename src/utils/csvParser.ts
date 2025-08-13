@@ -7,7 +7,7 @@ export interface MovieData {
 
 export const parseCSV = (text: string): MovieData[] => {
   const lines = text.trim().split(/\r?\n/);
-  const [header, ...rows] = lines;
+  const [, ...rows] = lines;
 
   return rows.map((line) => {
     const cells = line.split(/,(?=(?:[^"]*"[^"]*")*(?![^"]*"))/g)
