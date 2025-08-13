@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: #6f00ff;
+  margin: 0;
+  padding: 0;
+}
+
+.custom-row:hover {
+  background-color: #e0f7ff;
+}
+
+.custom-cell {
+  border: 1px solid #4a90e2;
+  padding: 8px;
+  font-size: 14px;
+}
