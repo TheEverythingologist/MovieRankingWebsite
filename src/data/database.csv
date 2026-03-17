@@ -354,20 +354,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 353,"Brave",2012,962,14,https://letterboxd.com/film/brave-2012/,https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg
 354,"The Mask",1994,962,14,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
 355,"Cloudy with a Chance of Meatballs",2009,962,14,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
-356,"Ace Ventura: When Nature Calls",1995,961,13,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
-357,"An Extremely Goofy Movie",2000,961,14,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
-358,"Star Wars: Episode I - The Phantom Menace",1999,959,14,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
-359,"Final Destination 3",2006,958,14,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
-360,"Despicable Me",2010,956,14,https://letterboxd.com/film/despicable-me/,https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg
-361,"Monsters vs. Aliens",2009,956,14,https://letterboxd.com/film/monsters-vs-aliens/,https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg
-362,"Chronicles of Narnia: Prince Caspian",2008,954,14,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
-363,"Kick-Ass",2010,954,14,https://letterboxd.com/film/kick-ass/,https://image.tmdb.org/t/p/w500/iHMbrTHJwocsNvo5murCBw0CwTo.jpg
-364,"Star Wars: Episode VIII - The Last Jedi",2017,953,14,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
-365,"Ted",2012,953,14,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
-366,"Enchanted",2007,952,14,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
-367,"21",2008,950,14,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
-368,"Spiral: From the Book of Saw",2021,950,14,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
-369,"The Jungle Book",1967,950,15,https://letterboxd.com/film/the-jungle-book/,https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg
+356,"The Jungle Book",1967,962,16,https://letterboxd.com/film/the-jungle-book/,https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg
+357,"Ace Ventura: When Nature Calls",1995,961,13,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
+358,"An Extremely Goofy Movie",2000,961,14,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
+359,"Star Wars: Episode I - The Phantom Menace",1999,959,14,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
+360,"Final Destination 3",2006,958,14,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
+361,"Despicable Me",2010,956,14,https://letterboxd.com/film/despicable-me/,https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg
+362,"Monsters vs. Aliens",2009,956,14,https://letterboxd.com/film/monsters-vs-aliens/,https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg
+363,"Chronicles of Narnia: Prince Caspian",2008,954,14,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
+364,"Kick-Ass",2010,954,14,https://letterboxd.com/film/kick-ass/,https://image.tmdb.org/t/p/w500/iHMbrTHJwocsNvo5murCBw0CwTo.jpg
+365,"Star Wars: Episode VIII - The Last Jedi",2017,953,14,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+366,"Ted",2012,953,14,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
+367,"Enchanted",2007,952,14,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
+368,"21",2008,950,14,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+369,"Spiral: From the Book of Saw",2021,950,14,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
 370,"Venom",2018,949,13,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
 371,"Man of Steel",2013,947,14,https://letterboxd.com/film/man-of-steel/,https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg
 372,"Space Jam",1996,946,14,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
@@ -455,18 +455,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 454,"Tremors 3: Back to Perfection",2001,864,14,https://letterboxd.com/film/tremors-3-back-to-perfection/,https://image.tmdb.org/t/p/w500/mnMryfLgC2fuW3nfY36QfWx0hBL.jpg
 455,"Let it Shine",2012,863,14,https://letterboxd.com/film/let-it-shine/,https://image.tmdb.org/t/p/w500/rmYB5cqacaYhIcLjAD9QRob7luz.jpg
 456,"Looney Tunes: Back in Action",2003,861,13,https://letterboxd.com/film/looney-tunes-back-in-action/,https://image.tmdb.org/t/p/w500/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg
-457,"Rio",2011,860,13,https://letterboxd.com/film/rio-2011/,https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg
-458,"Zathura: A Space Adventure",2005,858,14,https://letterboxd.com/film/zathura-a-space-adventure/,https://image.tmdb.org/t/p/w500/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg
-459,"High School Musical 2",2007,857,14,https://letterboxd.com/film/high-school-musical-2/,https://image.tmdb.org/t/p/w500/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg
-460,"Meet Dave",2008,856,13,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
-461,"Horton Hears a Who!",2008,856,14,https://letterboxd.com/film/horton-hears-a-who-2008/,https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg
-462,"Flamin' Hot",2023,855,13,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
-463,"Superman Returns",2006,854,14,https://letterboxd.com/film/superman-returns/,https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg
-464,"Madagascar",2005,852,13,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
-465,"Return to Never Land",2002,851,13,https://letterboxd.com/film/return-to-never-land/,https://image.tmdb.org/t/p/w500/wB3r2b8sxUZspqNyr8copMlt7se.jpg
-466,"Shanghai Knights",2003,851,14,https://letterboxd.com/film/shanghai-knights/,https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg
-467,"Shrek the Third",2007,850,14,https://letterboxd.com/film/shrek-the-third/,https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg
-468,"Diary of a Wimpy Kid",2010,850,14,https://letterboxd.com/film/diary-of-a-wimpy-kid/,https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg
+457,"Zathura: A Space Adventure",2005,858,14,https://letterboxd.com/film/zathura-a-space-adventure/,https://image.tmdb.org/t/p/w500/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg
+458,"High School Musical 2",2007,857,14,https://letterboxd.com/film/high-school-musical-2/,https://image.tmdb.org/t/p/w500/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg
+459,"Meet Dave",2008,856,13,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
+460,"Horton Hears a Who!",2008,856,14,https://letterboxd.com/film/horton-hears-a-who-2008/,https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg
+461,"Flamin' Hot",2023,855,13,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
+462,"Superman Returns",2006,854,14,https://letterboxd.com/film/superman-returns/,https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg
+463,"Madagascar",2005,852,13,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
+464,"Return to Never Land",2002,851,13,https://letterboxd.com/film/return-to-never-land/,https://image.tmdb.org/t/p/w500/wB3r2b8sxUZspqNyr8copMlt7se.jpg
+465,"Shanghai Knights",2003,851,14,https://letterboxd.com/film/shanghai-knights/,https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg
+466,"Shrek the Third",2007,850,14,https://letterboxd.com/film/shrek-the-third/,https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg
+467,"Diary of a Wimpy Kid",2010,850,14,https://letterboxd.com/film/diary-of-a-wimpy-kid/,https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg
+468,"Rio",2011,848,14,https://letterboxd.com/film/rio-2011/,https://image.tmdb.org/t/p/w500/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg
 469,"The Human Centipede (First Sequence)",2009,848,20,https://letterboxd.com/film/the-human-centipede-first-sequence/,https://image.tmdb.org/t/p/w500/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg
 470,"How to Lose a Guy in 10 Days",2003,846,13,https://letterboxd.com/film/how-to-lose-a-guy-in-10-days/,https://image.tmdb.org/t/p/w500/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg
 471,"Fantastic Four",2005,845,14,https://letterboxd.com/film/fantastic-four-2005/,https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg
