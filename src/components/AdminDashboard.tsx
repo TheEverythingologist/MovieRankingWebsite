@@ -194,7 +194,6 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({
           password,
           winnerName: winner.MovieName,
           loserName: loser.MovieName,
-          movies: moviePool,
         }),
       });
 

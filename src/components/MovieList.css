@@ -163,7 +163,7 @@
 .movie-poster {
   width: 100%;
   flex: 1;
-  object-fit: cover;
+  object-fit: contain;
   min-height: 0;
 }
 

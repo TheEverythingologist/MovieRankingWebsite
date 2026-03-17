@@ -123,12 +123,17 @@ function moviesToCsv(movies: Movie[]): string {
 
 // ─── GitHub Helpers ───────────────────────────────────────────────────────────
 
-async function getFileSha(
+interface GitHubFileResponse {
+  content: string;
+  sha: string;
+}
+
+async function getFileData(
   owner: string,
   repo: string,
   path: string,
   token: string
-): Promise<string> {
+): Promise<{ csv: string; sha: string }> {
   const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
   const res = await fetch(url, {
     headers: {
@@ -137,9 +142,32 @@ async function getFileSha(
     },
   });
   if (!res.ok)
-    throw new Error(`Failed to get SHA for ${repo}/${path}: ${res.status}`);
-  const json = await res.json();
-  return json.sha;
+    throw new Error(`Failed to get file ${repo}/${path}: ${res.status}`);
+  const json = (await res.json()) as GitHubFileResponse;
+  const csv = Buffer.from(json.content, "base64").toString("utf-8");
+  return { csv, sha: json.sha };
+}
+
+function parseCSVToMovies(csv: string): Movie[] {
+  const lines = csv.trim().split("\n");
+  const headers = lines[0].split(",").map((h) => h.trim());
+  return lines.slice(1).map((line) => {
+    const cols =
+      line.match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g) ?? line.split(",");
+    const clean = (i: number) =>
+      cols[i] ? cols[i].replace(/^"|"$/g, "").trim() : "";
+    const row: Record<string, string> = {};
+    headers.forEach((h, i) => { row[h] = clean(i); });
+    return {
+      Rank: parseInt(row["Rank"], 10),
+      MovieName: row["MovieName"],
+      ReleaseYear: parseInt(row["ReleaseYear"], 10),
+      EloRating: parseFloat(row["EloRating"]),
+      TimesCompeted: parseInt(row["TimesCompeted"], 10),
+      LetterboxdLink: row["LetterboxdLink"],
+      PosterUrl: row["PosterUrl"] ?? "",
+    };
+  });
 }
 
 async function commitCsv(
@@ -191,18 +219,29 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   if (req.method === "POST") {
     // Record a match result and commit updated CSV to both repos
-    const { password, winnerName, loserName, movies } = req.body;
+    const { password, winnerName, loserName } = req.body;
 
     if (password !== process.env.ADMIN_PASSWORD) {
       return res.status(401).json({ error: "Unauthorized" });
     }
 
-    if (!winnerName || !loserName || !movies) {
+    if (!winnerName || !loserName) {
       return res.status(400).json({ error: "Missing required fields" });
     }
 
     try {
-      const updatedMovies: Movie[] = movies.map((m: Movie) => ({ ...m }));
+      const token = process.env.GITHUB_TOKEN!;
+      const owner = process.env.GITHUB_OWNER!;
+
+      // Always read fresh from GitHub — never trust the frontend movie list
+      const { csv, sha: dataSha } = await getFileData(
+        owner,
+        process.env.GITHUB_DATA_REPO!,
+        process.env.GITHUB_DATA_PATH!,
+        token
+      );
+
+      const updatedMovies = parseCSVToMovies(csv);
       const winner = updatedMovies.find((m) => m.MovieName === winnerName);
       const loser = updatedMovies.find((m) => m.MovieName === loserName);
 
@@ -224,22 +263,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
       // Re-sort by ELO descending and reassign ranks
       updatedMovies.sort((a, b) => b.EloRating - a.EloRating);
-      updatedMovies.forEach((m, i) => {
-        m.Rank = i + 1;
-      });
+      updatedMovies.forEach((m, i) => { m.Rank = i + 1; });
 
       const csvContent = moviesToCsv(updatedMovies);
-      const token = process.env.GITHUB_TOKEN!;
-      const owner = process.env.GITHUB_OWNER!;
       const commitMessage = `Update rankings: ${winnerName} beat ${loserName}`;
 
-      // Commit to data repo
-      const dataSha = await getFileSha(
-        owner,
-        process.env.GITHUB_DATA_REPO!,
-        process.env.GITHUB_DATA_PATH!,
-        token
-      );
+      // Commit to data repo (sha already fetched above)
       await commitCsv(
         owner,
         process.env.GITHUB_DATA_REPO!,
@@ -251,7 +280,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       );
 
       // Commit to frontend repo
-      const frontendSha = await getFileSha(
+      const { sha: frontendSha } = await getFileData(
         owner,
         process.env.GITHUB_FRONTEND_REPO!,
         process.env.GITHUB_FRONTEND_PATH!,
