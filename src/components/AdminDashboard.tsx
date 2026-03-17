@@ -101,23 +101,17 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({
 
   // ── Auth ──────────────────────────────────────────────────
 
-  const handleLogin = async (e: React.FormEvent) => {
-    e.preventDefault();
-    // Verify by attempting a real API call that checks the password
-    const res = await fetch("/api/movies");
-    if (!res.ok) {
-      setAuthError("Could not reach server.");
-      return;
-    }
-    // Password is verified server-side on actual mutations;
-    // here we just gate the UI with a quick smoke-test
-    if (password.trim() === "") {
-      setAuthError("Please enter a password.");
-      return;
-    }
-    setAuthed(true);
-    setAuthError("");
-  };
+ const handleLogin = async (e: React.FormEvent) => {
+  e.preventDefault();
+  if (!password.trim()) { setAuthError("Please enter a password."); return; }
+  const res = await fetch("/api/verify-password", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ password }),
+  });
+  if (!res.ok) { setAuthError("Incorrect password."); return; }
+  setAuthed(true);
+};
 
   // ── Load matchup pool once authed ─────────────────────────
 
