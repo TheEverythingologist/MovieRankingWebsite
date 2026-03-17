@@ -1,0 +1,473 @@
+/* ── Root ─────────────────────────────────────────────────── */
+.admin-root {
+  min-height: 100vh;
+  background: #120022;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 2rem 1rem;
+  font-family: sans-serif;
+}
+
+/* ── Login Card ───────────────────────────────────────────── */
+.admin-login-card {
+  background: rgba(37, 13, 54, 0.95);
+  border: 1px solid rgba(255, 0, 255, 0.2);
+  border-radius: 16px;
+  padding: 2.5rem 2rem;
+  width: 100%;
+  max-width: 380px;
+  text-align: center;
+  box-shadow: 0 8px 40px rgba(255, 0, 255, 0.12);
+  margin-top: 6rem;
+}
+
+.admin-login-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.admin-login-title {
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 900;
+  margin: 0 0 0.25rem;
+}
+
+.admin-login-sub {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.85rem;
+  margin: 0 0 1.5rem;
+}
+
+.admin-login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.admin-back-link {
+  display: inline-block;
+  margin-top: 1.25rem;
+  color: rgba(255, 255, 255, 0.35);
+  font-size: 0.82rem;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.admin-back-link:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* ── Dashboard Shell ──────────────────────────────────────── */
+.admin-dashboard {
+  width: 100%;
+  max-width: 960px;
+}
+
+/* ── Header ───────────────────────────────────────────────── */
+.admin-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.admin-header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.admin-logo {
+  font-size: 1.6rem;
+}
+
+.admin-title {
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: 900;
+  margin: 0;
+  text-shadow: 0 0 16px rgba(255, 0, 255, 0.4);
+}
+
+.admin-match-count {
+  background: rgba(255, 0, 255, 0.15);
+  border: 1px solid rgba(255, 0, 255, 0.3);
+  color: rgba(255, 0, 255, 0.9);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 999px;
+}
+
+.admin-header-right {
+  display: flex;
+  gap: 0.5rem;
+}
+
+/* ── Tabs ─────────────────────────────────────────────────── */
+.admin-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(255, 0, 255, 0.15);
+  padding-bottom: 0;
+}
+
+.admin-tab {
+  padding: 0.6rem 1.25rem;
+  border: none;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.admin-tab:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.admin-tab--active {
+  color: #fff;
+  border-bottom-color: rgba(255, 0, 255, 0.8);
+}
+
+/* ── Panel ────────────────────────────────────────────────── */
+.admin-panel {
+  background: rgba(37, 13, 54, 0.6);
+  border: 1px solid rgba(255, 0, 255, 0.12);
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+.admin-panel-hint {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.85rem;
+  margin: 0 0 1.5rem;
+}
+
+/* ── Shared Controls ──────────────────────────────────────── */
+.admin-input {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 0, 255, 0.25);
+  background: rgba(255, 255, 255, 0.05);
+  color: #fff;
+  font-size: 0.95rem;
+  outline: none;
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.admin-input::placeholder {
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.admin-input:focus {
+  border-color: rgba(255, 0, 255, 0.6);
+  box-shadow: 0 0 0 3px rgba(255, 0, 255, 0.1);
+}
+
+.admin-label {
+  display: block;
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.35rem;
+}
+
+.admin-btn {
+  padding: 0.55rem 1.25rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.15s;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.admin-btn--primary {
+  background: rgba(255, 0, 255, 0.75);
+  color: #fff;
+  border-color: rgba(255, 0, 255, 0.9);
+}
+
+.admin-btn--primary:hover:not(:disabled) {
+  background: rgba(255, 0, 255, 0.95);
+  box-shadow: 0 4px 16px rgba(255, 0, 255, 0.35);
+}
+
+.admin-btn--secondary {
+  background: rgba(255, 255, 255, 0.07);
+  color: rgba(255, 255, 255, 0.8);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.admin-btn--secondary:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.admin-btn--ghost {
+  background: transparent;
+  color: rgba(255, 255, 255, 0.45);
+  border-color: rgba(255, 255, 255, 0.15);
+  font-size: 0.82rem;
+}
+
+.admin-btn--ghost:hover {
+  color: rgba(255, 255, 255, 0.8);
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.admin-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.admin-error {
+  color: #ff6b6b;
+  font-size: 0.85rem;
+  margin: 0.5rem 0 0;
+}
+
+.admin-status {
+  color: #6bffb8;
+  font-size: 0.85rem;
+  margin: 0.5rem 0 0;
+}
+
+.admin-status--error {
+  color: #ff6b6b;
+}
+
+.admin-loading {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  padding: 3rem 0;
+  font-size: 0.95rem;
+}
+
+/* ── Matchup Arena ────────────────────────────────────────── */
+.matchup-arena {
+  display: flex;
+  align-items: stretch;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.matchup-card {
+  position: relative;
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px;
+  background: rgba(18, 0, 34, 0.8);
+  border: 2px solid rgba(255, 0, 255, 0.2);
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  padding: 0;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.matchup-card:hover:not(:disabled) {
+  border-color: rgba(255, 0, 255, 0.8);
+  transform: scale(1.02);
+  box-shadow: 0 8px 32px rgba(255, 0, 255, 0.25);
+}
+
+.matchup-pick-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 0, 255, 0.18);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.matchup-card:hover:not(:disabled) .matchup-pick-overlay {
+  opacity: 1;
+}
+
+.matchup-poster {
+  width: 100%;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+  display: block;
+}
+
+.matchup-poster-placeholder {
+  width: 100%;
+  aspect-ratio: 2/3;
+  background: linear-gradient(135deg, #2a0045 0%, #1a0030 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.35);
+  font-size: 0.85rem;
+  padding: 1rem;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.matchup-card-info {
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  background: rgba(18, 0, 34, 0.95);
+}
+
+.matchup-card-title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+
+.matchup-card-year {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.75rem;
+}
+
+.matchup-card-elo {
+  color: rgba(255, 0, 255, 0.7);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.matchup-vs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.25);
+  font-size: 1.2rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  flex-shrink: 0;
+}
+
+.matchup-actions {
+  margin-top: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* ── Add Movie Form ───────────────────────────────────────── */
+.add-movie-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 600px;
+}
+
+.add-movie-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.add-movie-field {
+  flex: 1;
+  min-width: 180px;
+  display: flex;
+  flex-direction: column;
+}
+
+.add-movie-field--small {
+  max-width: 120px;
+}
+
+.add-movie-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.add-movie-preview {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 0, 255, 0.15);
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 0.5rem;
+}
+
+.add-movie-preview-poster {
+  width: 80px;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.add-movie-preview-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.add-movie-preview-title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.add-movie-preview-year {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.82rem;
+  margin: 0;
+}
+
+.add-movie-preview-note {
+  color: rgba(255, 0, 255, 0.6);
+  font-size: 0.78rem;
+  margin: 0.25rem 0 0;
+}
+
+/* ── Mobile ───────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .admin-root {
+    padding: 1rem 0.75rem;
+  }
+
+  .matchup-arena {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .matchup-card {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .matchup-vs {
+    padding: 0.5rem 0;
+  }
+
+  .add-movie-field--small {
+    max-width: 100%;
+  }
+}
