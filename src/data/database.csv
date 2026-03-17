@@ -478,18 +478,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 477,"Cats & Dogs",2001,839,14,https://letterboxd.com/film/cats-dogs/,https://image.tmdb.org/t/p/w500/wUWoat7L4vvQburQ8pVEJhRG9L5.jpg
 478,"Transformers",2007,839,14,https://letterboxd.com/film/transformers/,https://image.tmdb.org/t/p/w500/4N4sipl8T72tNE4earcctQa2Kw2.jpg
 479,"The Waterboy",1998,839,13,https://letterboxd.com/film/the-waterboy/,https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg
-480,"Shanghai Knights",2003,838,13,https://letterboxd.com/film/shanghai-knights/,https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg
-481,"The Santa Clause 3: The Escape Clause",2006,836,13,https://letterboxd.com/film/the-santa-clause-3-the-escape-clause/,https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg
-482,"The Ant Bully",2006,836,14,https://letterboxd.com/film/the-ant-bully/,https://image.tmdb.org/t/p/w500/oFuqX0inTvbA1XAFv2x3CQnI65m.jpg
-483,"Star Wars: The Rise of Skywalker",2019,835,14,https://letterboxd.com/film/star-wars-the-rise-of-skywalker/,https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg
-484,"Battleship",2012,834,14,https://letterboxd.com/film/battleship/,https://image.tmdb.org/t/p/w500/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg
-485,"Jurassic World: Rebirth",2025,832,14,https://letterboxd.com/film/jurassic-world-rebirth/,https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg
-486,"We're the Millers",2013,830,14,https://letterboxd.com/film/were-the-millers/,https://image.tmdb.org/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg
-487,"Alice in Wonderland",2010,829,14,https://letterboxd.com/film/alice-in-wonderland-2010/,https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg
-488,"Shark Tale",2004,826,14,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
-489,"Sing 2",2021,825,14,https://letterboxd.com/film/sing-2/,https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg
-490,"Jurassic World: Fallen Kingdom",2018,825,14,https://letterboxd.com/film/jurassic-world-fallen-kingdom/,https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg
-491,"Open Season",2006,825,13,https://letterboxd.com/film/open-season/,https://image.tmdb.org/t/p/w500/w5Lctmkc1yah215Luxmci4djaiW.jpg
+480,"Open Season",2006,839,14,https://letterboxd.com/film/open-season/,https://image.tmdb.org/t/p/w500/w5Lctmkc1yah215Luxmci4djaiW.jpg
+481,"Shanghai Knights",2003,838,13,https://letterboxd.com/film/shanghai-knights/,https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg
+482,"The Santa Clause 3: The Escape Clause",2006,836,13,https://letterboxd.com/film/the-santa-clause-3-the-escape-clause/,https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg
+483,"The Ant Bully",2006,836,14,https://letterboxd.com/film/the-ant-bully/,https://image.tmdb.org/t/p/w500/oFuqX0inTvbA1XAFv2x3CQnI65m.jpg
+484,"Star Wars: The Rise of Skywalker",2019,835,14,https://letterboxd.com/film/star-wars-the-rise-of-skywalker/,https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg
+485,"Battleship",2012,834,14,https://letterboxd.com/film/battleship/,https://image.tmdb.org/t/p/w500/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg
+486,"Jurassic World: Rebirth",2025,832,14,https://letterboxd.com/film/jurassic-world-rebirth/,https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg
+487,"We're the Millers",2013,830,14,https://letterboxd.com/film/were-the-millers/,https://image.tmdb.org/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg
+488,"Alice in Wonderland",2010,829,14,https://letterboxd.com/film/alice-in-wonderland-2010/,https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg
+489,"Shark Tale",2004,826,14,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
+490,"Sing 2",2021,825,14,https://letterboxd.com/film/sing-2/,https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg
+491,"Jurassic World: Fallen Kingdom",2018,825,14,https://letterboxd.com/film/jurassic-world-fallen-kingdom/,https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg
 492,"Cars 2",2011,824,14,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
 493,"Divergent",2014,821,13,https://letterboxd.com/film/divergent/,https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg
 494,"Ice Age: Continental Drift",2012,820,13,https://letterboxd.com/film/ice-age-continental-drift/,https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg
@@ -531,21 +531,21 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 530,"Legally Blondes",2009,778,13,https://letterboxd.com/film/legally-blondes/,https://image.tmdb.org/t/p/w500/wZnEw0avASZwBWcJo5F1pdJnmO2.jpg
 531,"Leroy and Stitch",2006,777,13,https://letterboxd.com/film/leroy-and-stitch/,https://image.tmdb.org/t/p/w500/1LCfRArffse3PnqkACooOHkWcry.jpg
 532,"Twilight",2008,777,13,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
-533,"Tooth Fairy",2010,777,13,https://letterboxd.com/film/tooth-fairy-2010/,https://image.tmdb.org/t/p/w500/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg
-534,"Rio 2",2014,776,14,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
-535,"Red One",2024,775,14,https://letterboxd.com/film/red-one/,https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg
-536,"Zenon: Z3",2004,775,14,https://letterboxd.com/film/zenon-z3/,https://image.tmdb.org/t/p/w500/mnX94DJ9GVXEOmbdN97Yh5hGifT.jpg
-537,"Cats & Dogs: The Revenge of Kitty Galore",2010,775,14,https://letterboxd.com/film/cats-dogs-the-revenge-of-kitty-galore/,https://image.tmdb.org/t/p/w500/syV2naEnz7wbakOOk7XanPX8MjL.jpg
-538,"Dr. Dolittle 2",2001,775,14,https://letterboxd.com/film/dr-dolittle-2/,https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg
-539,"Wendy Wu: Homecoming Warrior",2006,774,14,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
-540,"Tremors 4: The Legend Begins",2004,774,14,https://letterboxd.com/film/tremors-4-the-legend-begins/,https://image.tmdb.org/t/p/w500/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg
-541,"Spy Kids 2: Island of Lost Dreams",2002,772,14,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
-542,"Robocop",2014,772,13,https://letterboxd.com/film/robocop-2014/,https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg
-543,"Transformers: Revenge of the Fallen",2009,772,14,https://letterboxd.com/film/transformers-revenge-of-the-fallen/,https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg
-544,"Good Luck Charlie, It's Christmas!",2011,769,14,https://letterboxd.com/film/good-luck-charlie-its-christmas/,https://image.tmdb.org/t/p/w500/ecuJMYZM3HQ96mnWtmyXoHb7s7T.jpg
-545,"Emilia Pérez",2023,768,14,https://letterboxd.com/film/emilia-perez/,
-546,"The Meg",2018,766,14,https://letterboxd.com/film/the-meg/,https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
-547,"Open Season 2",2008,765,14,https://letterboxd.com/film/open-season-2/,https://image.tmdb.org/t/p/w500/lM4bahouPblYcfngZtnNSkaWxCU.jpg
+533,"Rio 2",2014,776,14,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
+534,"Red One",2024,775,14,https://letterboxd.com/film/red-one/,https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg
+535,"Zenon: Z3",2004,775,14,https://letterboxd.com/film/zenon-z3/,https://image.tmdb.org/t/p/w500/mnX94DJ9GVXEOmbdN97Yh5hGifT.jpg
+536,"Cats & Dogs: The Revenge of Kitty Galore",2010,775,14,https://letterboxd.com/film/cats-dogs-the-revenge-of-kitty-galore/,https://image.tmdb.org/t/p/w500/syV2naEnz7wbakOOk7XanPX8MjL.jpg
+537,"Dr. Dolittle 2",2001,775,14,https://letterboxd.com/film/dr-dolittle-2/,https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg
+538,"Wendy Wu: Homecoming Warrior",2006,774,14,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
+539,"Tremors 4: The Legend Begins",2004,774,14,https://letterboxd.com/film/tremors-4-the-legend-begins/,https://image.tmdb.org/t/p/w500/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg
+540,"Spy Kids 2: Island of Lost Dreams",2002,772,14,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
+541,"Robocop",2014,772,13,https://letterboxd.com/film/robocop-2014/,https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg
+542,"Transformers: Revenge of the Fallen",2009,772,14,https://letterboxd.com/film/transformers-revenge-of-the-fallen/,https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg
+543,"Good Luck Charlie, It's Christmas!",2011,769,14,https://letterboxd.com/film/good-luck-charlie-its-christmas/,https://image.tmdb.org/t/p/w500/ecuJMYZM3HQ96mnWtmyXoHb7s7T.jpg
+544,"Emilia Pérez",2023,768,14,https://letterboxd.com/film/emilia-perez/,
+545,"The Meg",2018,766,14,https://letterboxd.com/film/the-meg/,https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
+546,"Open Season 2",2008,765,14,https://letterboxd.com/film/open-season-2/,https://image.tmdb.org/t/p/w500/lM4bahouPblYcfngZtnNSkaWxCU.jpg
+547,"Tooth Fairy",2010,763,14,https://letterboxd.com/film/tooth-fairy-2010/,https://image.tmdb.org/t/p/w500/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg
 548,"Minions",2015,761,14,https://letterboxd.com/film/minions/,https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg
 549,"The Final Destination",2009,758,14,https://letterboxd.com/film/the-final-destination/,https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg
 550,"Beverly Hills Chihuahua",2008,758,14,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
