@@ -21,15 +21,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 20,"Se7en",1995,1313,14,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
 21,"The Big Short",2015,1312,14,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 22,"Oppenheimer",2023,1311,14,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
-23,"Terminator 2: Judgment Day",1991,1306,14,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
-24,"The Godfather Part II",1974,1306,14,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
-25,"WALL-E",2008,1306,14,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
-26,"Everything Everywhere All At Once",2022,1306,14,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
-27,"Arrival",2016,1305,14,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
-28,"The Lord of the Rings: The Fellowship of the Ring",2001,1304,14,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
-29,"American Psycho",2000,1304,14,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
-30,"La La Land",2016,1301,14,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
-31,"The Martian",2015,1299,13,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+23,"The Martian",2015,1309,14,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+24,"Terminator 2: Judgment Day",1991,1306,14,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
+25,"The Godfather Part II",1974,1306,14,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+26,"WALL-E",2008,1306,14,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
+27,"Everything Everywhere All At Once",2022,1306,14,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
+28,"Arrival",2016,1305,14,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
+29,"The Lord of the Rings: The Fellowship of the Ring",2001,1304,14,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+30,"American Psycho",2000,1304,14,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+31,"La La Land",2016,1301,14,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
 32,"Star Wars: Episode IV - A New Hope",1977,1299,14,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
 33,"Spider-Man: Into the Spider-verse",2018,1299,14,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
 34,"A Quiet Place",2018,1296,14,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
@@ -122,15 +122,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 121,"Marty Supreme",2025,1170,14,https://letterboxd.com/film/marty-supreme/,https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
 122,"Slumdog Millionaire",2008,1170,14,https://letterboxd.com/film/slumdog-millionaire/,https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg
 123,"Brooklyn",2015,1170,14,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
-124,"Million Dollar Baby",2004,1169,13,https://letterboxd.com/film/million-dollar-baby/,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
-125,"The Princess Bride",1987,1168,14,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
-126,"Saw II",2005,1168,14,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
-127,"The Lion King",1994,1168,14,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
-128,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,1168,14,https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/,https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg
-129,"Inside Out",2015,1167,14,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
-130,"Back to the Future Part II",1989,1165,14,https://letterboxd.com/film/back-to-the-future-part-ii/,https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg
-131,"Jojo Rabbit",2019,1165,14,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
-132,"Monsters, Inc.",2001,1165,14,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
+124,"The Princess Bride",1987,1168,14,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
+125,"Saw II",2005,1168,14,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
+126,"The Lion King",1994,1168,14,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
+127,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,1168,14,https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/,https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg
+128,"Inside Out",2015,1167,14,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
+129,"Back to the Future Part II",1989,1165,14,https://letterboxd.com/film/back-to-the-future-part-ii/,https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg
+130,"Jojo Rabbit",2019,1165,14,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
+131,"Monsters, Inc.",2001,1165,14,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
+132,"Million Dollar Baby",2004,1159,14,https://letterboxd.com/film/million-dollar-baby/,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
 133,"Batman Begins",2005,1158,14,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
 134,"Glass Onion: A Knives Out Mystery",2022,1157,14,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
 135,"Molly's Game",2017,1155,14,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
