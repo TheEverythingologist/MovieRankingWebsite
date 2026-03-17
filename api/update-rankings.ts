@@ -12,6 +12,7 @@ interface Movie {
   EloRating: number;
   TimesCompeted: number;
   LetterboxdLink: string;
+  PosterUrl: string;
 }
 
 // ─── ELO Calculation ─────────────────────────────────────────────────────────
@@ -112,10 +113,10 @@ function getRandomCompetitors(movies: Movie[]): [Movie, Movie] {
 
 function moviesToCsv(movies: Movie[]): string {
   const headers =
-    "Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink";
+    "Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl";
   const rows = movies.map(
     (m) =>
-      `${m.Rank},"${m.MovieName}",${m.ReleaseYear},${m.EloRating},${m.TimesCompeted},${m.LetterboxdLink}`
+      `${m.Rank},"${m.MovieName}",${m.ReleaseYear},${m.EloRating},${m.TimesCompeted},${m.LetterboxdLink},${m.PosterUrl ?? ""}`
   );
   return [headers, ...rows].join("\n");
 }
@@ -172,14 +173,14 @@ async function commitCsv(
 // ─── Handler ──────────────────────────────────────────────────────────────────
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
-  if (req.method === "GET") {
+  if (req.method === "POST" && req.body?.action === "matchup") {
     // Return a suggested matchup pair (called when admin dashboard loads)
-    const { movies } = req.query;
-    if (!movies || typeof movies !== "string") {
-      return res.status(400).json({ error: "movies query param required" });
+    const { movies } = req.body as { movies: Movie[] };
+    if (!movies) {
+      return res.status(400).json({ error: "movies is required" });
     }
     try {
-      const parsed: Movie[] = JSON.parse(movies);
+      const parsed: Movie[] = movies;
       const [player1, player2] = getRandomCompetitors(parsed);
       return res.status(200).json({ player1, player2 });
     } catch (err: unknown) {

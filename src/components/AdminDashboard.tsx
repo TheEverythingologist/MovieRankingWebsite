@@ -144,9 +144,11 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({
     setMatchupStatus("");
 
     try {
-      const res = await fetch(
-        `/api/update-rankings?movies=${encodeURIComponent(JSON.stringify(pool))}`
-      );
+      const res = await fetch("/api/update-rankings", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ action: "matchup", movies: pool }),
+      });
       const data = (await res.json()) as {
         player1: RawMovie;
         player2: RawMovie;
