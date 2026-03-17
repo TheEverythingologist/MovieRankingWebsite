@@ -337,14 +337,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 336,"Gremlins",1984,977,14,https://letterboxd.com/film/gremlins/,https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg
 337,"Murder on the Orient Express",2017,976,14,https://letterboxd.com/film/murder-on-the-orient-express-2017/,https://image.tmdb.org/t/p/w500/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg
 338,"Mamma Mia!",2008,975,14,https://letterboxd.com/film/mamma-mia/,https://image.tmdb.org/t/p/w500/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg
-339,"The Hobbit: The Battle of the Five Armies",2014,973,14,https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/,https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg
-340,"The Crucible",1996,971,13,https://letterboxd.com/film/the-crucible/,https://image.tmdb.org/t/p/w500/zv69Rev43me5gQ68x7fk1mQzhHn.jpg
-341,"Star Trek",2009,971,14,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
-342,"Kung Fu Panda 3",2016,970,14,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
-343,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,969,14,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
-344,"Minutemen",2008,967,14,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
-345,"Madagascar 3: Europe's Most Wanted",2012,966,14,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
-346,"Frozen 2",2019,966,13,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
+339,"Frozen 2",2019,975,14,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
+340,"The Hobbit: The Battle of the Five Armies",2014,973,14,https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/,https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg
+341,"The Crucible",1996,971,13,https://letterboxd.com/film/the-crucible/,https://image.tmdb.org/t/p/w500/zv69Rev43me5gQ68x7fk1mQzhHn.jpg
+342,"Star Trek",2009,971,14,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
+343,"Kung Fu Panda 3",2016,970,14,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
+344,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,969,14,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
+345,"Minutemen",2008,967,14,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
+346,"Madagascar 3: Europe's Most Wanted",2012,966,14,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
 347,"I, Robot",2004,966,14,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
 348,"Venom",2018,966,14,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
 349,"Charlie and the Chocolate Factory",2005,965,14,https://letterboxd.com/film/charlie-and-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg
@@ -519,11 +519,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 518,"Leo",2023,796,14,https://letterboxd.com/film/leo-2023/,https://image.tmdb.org/t/p/w500/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg
 519,"Sing",2016,795,14,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
 520,"Volcano",1997,794,14,https://letterboxd.com/film/volcano/,https://image.tmdb.org/t/p/w500/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg
-521,"White House Down",2013,794,13,https://letterboxd.com/film/white-house-down/,https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg
-522,"Twilight",2008,793,14,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
-523,"Jurassic World: Dominion",2022,790,14,https://letterboxd.com/film/jurassic-world-dominion/,https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg
-524,"Parental Guidance",2012,790,13,https://letterboxd.com/film/parental-guidance-2012/,https://image.tmdb.org/t/p/w500/815zxi87kTUvleFHjnE5SNzWmVZ.jpg
-525,"Ghostbusters",2016,787,14,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg
+521,"Twilight",2008,793,14,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
+522,"Jurassic World: Dominion",2022,790,14,https://letterboxd.com/film/jurassic-world-dominion/,https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg
+523,"Parental Guidance",2012,790,13,https://letterboxd.com/film/parental-guidance-2012/,https://image.tmdb.org/t/p/w500/815zxi87kTUvleFHjnE5SNzWmVZ.jpg
+524,"Ghostbusters",2016,787,14,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg
+525,"White House Down",2013,785,14,https://letterboxd.com/film/white-house-down/,https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg
 526,"Transformers: Dark of the Moon",2011,784,14,https://letterboxd.com/film/transformers-dark-of-the-moon/,https://image.tmdb.org/t/p/w500/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg
 527,"Wizards of Waverly Place: The Movie",2009,782,14,https://letterboxd.com/film/wizards-of-waverly-place-the-movie/,https://image.tmdb.org/t/p/w500/vrjLcGBLurVem5lXN8237qz4tyE.jpg
 528,"The Dog Who Saved Christmas",2009,782,14,https://letterboxd.com/film/the-dog-who-saved-christmas/,https://image.tmdb.org/t/p/w500/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg
