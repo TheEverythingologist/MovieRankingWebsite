@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#120022" stroke="#ff00ff" stroke-width="1.5"/>
+  
+  <!-- Outer film reel ring -->
+  <circle cx="16" cy="16" r="11" fill="none" stroke="#cc00cc" stroke-width="1.2"/>
+  
+  <!-- Center hub -->
+  <circle cx="16" cy="16" r="3.5" fill="#ff00ff" opacity="0.9"/>
+  <circle cx="16" cy="16" r="1.8" fill="#120022"/>
+  
+  <!-- Film sprocket holes (6 around the ring) -->
+  <circle cx="16" cy="5.5" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="16" cy="26.5" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="5.5" cy="16" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="26.5" cy="16" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="8.5" cy="8.5" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="23.5" cy="23.5" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="23.5" cy="8.5" r="1.6" fill="#ff00ff" opacity="0.85"/>
+  <circle cx="8.5" cy="23.5" r="1.6" fill="#ff00ff" opacity="0.85"/>
+
+  <!-- Glow effect on center -->
+  <circle cx="16" cy="16" r="3.5" fill="none" stroke="#ff00ff" stroke-width="1" opacity="0.5"/>
+</svg>
