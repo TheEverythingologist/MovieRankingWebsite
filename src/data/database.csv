@@ -5,7 +5,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 4,"The Lord of the Rings: The Return of the King",2003,1385,14,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
 5,"The Empire Strikes Back",1980,1371,14,https://letterboxd.com/film/the-empire-strikes-back/,https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg
 6,"Ratatouille",2007,1362,14,https://letterboxd.com/film/ratatouille/,https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg
-7,"The Silence of the Lambs",1991,1358,13,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
+7,"The Silence of the Lambs",1991,1361,14,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 8,"Whiplash",2014,1354,14,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 9,"Schindler's List",1993,1354,14,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
 10,"The Lord of the Rings: The Two Towers",2002,1352,14,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
@@ -340,10 +340,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 339,"Frozen 2",2019,975,14,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
 340,"The Jungle Book",1967,975,17,https://letterboxd.com/film/the-jungle-book/,https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg
 341,"The Hobbit: The Battle of the Five Armies",2014,973,14,https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/,https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg
-342,"The Crucible",1996,971,13,https://letterboxd.com/film/the-crucible/,https://image.tmdb.org/t/p/w500/zv69Rev43me5gQ68x7fk1mQzhHn.jpg
-343,"Star Trek",2009,971,14,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
-344,"Kung Fu Panda 3",2016,970,14,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
-345,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,969,14,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
+342,"Star Trek",2009,971,14,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
+343,"Kung Fu Panda 3",2016,970,14,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
+344,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,969,14,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
+345,"The Crucible",1996,968,14,https://letterboxd.com/film/the-crucible/,https://image.tmdb.org/t/p/w500/zv69Rev43me5gQ68x7fk1mQzhHn.jpg
 346,"Minutemen",2008,967,14,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
 347,"Madagascar 3: Europe's Most Wanted",2012,966,14,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
 348,"I, Robot",2004,966,14,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
