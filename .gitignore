@@ -27,3 +27,5 @@ dist-ssr
 .env.local
 .env.production
 node_modules
+.vercel
+.env*.local

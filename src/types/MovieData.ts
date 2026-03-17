@@ -1,6 +1,9 @@
 export interface MovieData {
+  rank: number;
   title: string;
-  ranking: number;
+  year: number;
   elo: number;
+  timesCompeted: number;
   letterboxd_url: string;
+  posterUrl: string;
 }
