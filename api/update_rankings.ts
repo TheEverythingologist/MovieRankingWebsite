@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
 const ELO_K_FACTOR = 32;
-const COMPETITOR_POOL_SIZE = 50;
+const COMPETITOR_POOL_SIZE = parseInt(process.env.COMPETITOR_POOL_SIZE ?? "30", 10);
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -182,8 +182,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       const parsed: Movie[] = JSON.parse(movies);
       const [player1, player2] = getRandomCompetitors(parsed);
       return res.status(200).json({ player1, player2 });
-    } catch (err: any) {
-      return res.status(500).json({ error: err.message });
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : "Unknown error";
+      return res.status(500).json({ error: message });
     }
   }
 
@@ -266,9 +267,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       );
 
       return res.status(200).json({ success: true, updatedMovies });
-    } catch (err: any) {
+    } catch (err: unknown) {
       console.error(err);
-      return res.status(500).json({ error: err.message });
+      const message = err instanceof Error ? err.message : "Unknown error";
+      return res.status(500).json({ error: message });
     }
   }
 
