@@ -9,8 +9,7 @@ interface MovieListProps {
 type SortKey = "rank" | "title" | "year" | "elo";
 
 const POSTER_CACHE: Record<string, string> = {};
-const CARD_HEIGHT = 320; // approximate rendered card height
-const OVERSCAN = 4;      // extra rows to render above/below viewport
+const OVERSCAN = 5;
 
 function usePoster(title: string, year: number, storedUrl: string): string {
   const key = `${title}__${year}`;
@@ -62,23 +61,28 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
   const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
   const [containerTop, setContainerTop] = useState(0);
   const [cols, setCols] = useState(1);
+  const [cardHeight, setCardHeight] = useState(300);
   const gridRef = useRef<HTMLDivElement>(null);
   const headerRef = useRef<HTMLDivElement>(null);
 
   // Track window scroll
   const handleScroll = useCallback(() => setScrollY(window.scrollY), []);
 
-  // Track viewport + layout measurements
+  // Measure layout — called after paint to ensure accurate positions
   const measure = useCallback(() => {
     setViewportHeight(window.innerHeight);
+    const isMobile = window.innerWidth <= 600;
+    setCardHeight(isMobile ? 260 : 300);
+
     if (gridRef.current) {
       const rect = gridRef.current.getBoundingClientRect();
       setContainerTop(rect.top + window.scrollY);
-      // Calculate columns from actual grid width
+
       const gridWidth = gridRef.current.offsetWidth;
-      const CARD_MIN_WIDTH = 220;
-      const GAP = 24;
-      const PADDING = 24;
+      // Use mobile card min-width on small screens
+      const CARD_MIN_WIDTH = isMobile ? 150 : 220;
+      const GAP = isMobile ? 16 : 24;
+      const PADDING = isMobile ? 16 : 24;
       const c = Math.max(1, Math.floor((gridWidth - PADDING * 2 + GAP) / (CARD_MIN_WIDTH + GAP)));
       setCols(c);
     }
@@ -87,16 +91,19 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
   useEffect(() => {
     window.addEventListener("scroll", handleScroll, { passive: true });
     window.addEventListener("resize", measure, { passive: true });
-    measure();
+    // Initial measure after first paint
+    const timer = setTimeout(measure, 100);
     return () => {
       window.removeEventListener("scroll", handleScroll);
       window.removeEventListener("resize", measure);
+      clearTimeout(timer);
     };
   }, [handleScroll, measure]);
 
-  // Re-measure when movies load or search/sort changes
+  // Re-measure after movies load or filters change — delay to ensure DOM is painted
   useEffect(() => {
-    requestAnimationFrame(measure);
+    const timer = setTimeout(measure, 100);
+    return () => clearTimeout(timer);
   }, [movies, search, sortKey, sortAsc, measure]);
 
   // Filter
@@ -115,21 +122,23 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
   });
 
   // Virtualisation using window scroll
-  const GAP = 24;
+  const isMobile = window.innerWidth <= 600;
+  const GAP = isMobile ? 16 : 24;
+  const ROW_HEIGHT = cardHeight + GAP;
   const rowCount = Math.ceil(sorted.length / cols);
-  const totalHeight = rowCount * (CARD_HEIGHT + GAP);
+  const totalHeight = rowCount * ROW_HEIGHT;
 
   // How far into the grid we've scrolled
   const scrollIntoGrid = Math.max(0, scrollY - containerTop);
 
-  const firstVisibleRow = Math.max(0, Math.floor(scrollIntoGrid / (CARD_HEIGHT + GAP)) - OVERSCAN);
+  const firstVisibleRow = Math.max(0, Math.floor(scrollIntoGrid / ROW_HEIGHT) - OVERSCAN);
   const lastVisibleRow = Math.min(
     rowCount - 1,
-    Math.ceil((scrollIntoGrid + viewportHeight) / (CARD_HEIGHT + GAP)) + OVERSCAN
+    Math.ceil((scrollIntoGrid + viewportHeight) / ROW_HEIGHT) + OVERSCAN
   );
 
   const visibleMovies = sorted.slice(firstVisibleRow * cols, (lastVisibleRow + 1) * cols);
-  const offsetY = firstVisibleRow * (CARD_HEIGHT + GAP);
+  const offsetY = firstVisibleRow * ROW_HEIGHT;
 
   const handleSortClick = (key: SortKey) => {
     if (sortKey === key) setSortAsc((a) => !a);
@@ -160,7 +169,7 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
             type="text"
             placeholder="Search movies…"
             value={search}
-            onChange={(e) => { setSearch(e.target.value); requestAnimationFrame(measure); }}
+            onChange={(e) => { setSearch(e.target.value); }}
           />
           <div className="sort-controls">
             <span className="sort-label">Sort:</span>
