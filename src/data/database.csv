@@ -21,9 +21,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 20,"City of God",2002,1321,15,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
 21,"Se7en",1995,1320,15,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
 22,"La La Land",2016,1317,16,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
-23,"Spider-Man: Into the Spider-verse",2018,1315,15,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-24,"The Lord of the Rings: The Fellowship of the Ring",2001,1313,15,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
-25,"The Martian",2015,1312,15,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+23,"The Martian",2015,1317,16,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+24,"Spider-Man: Into the Spider-verse",2018,1315,15,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+25,"The Lord of the Rings: The Fellowship of the Ring",2001,1313,15,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
 26,"American Psycho",2000,1311,15,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
 27,"Oppenheimer",2023,1310,16,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
 28,"A Quiet Place",2018,1309,15,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
@@ -259,11 +259,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 258,"The Right Stuff",1983,1043,16,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
 259,"Final Destination 2",2003,1041,16,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
 260,"Robots",2005,1039,15,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
-261,"Revenge of the Nerds",1984,1038,15,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
-262,"Pirates of the Caribbean: Dead Man's Chest",2006,1038,16,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg
-263,"Harry Potter and the Half-Blood Prince",2009,1036,16,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
-264,"The Super Mario Bros. Movie",2023,1035,16,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
-265,"Real Steel",2011,1034,15,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
+261,"Pirates of the Caribbean: Dead Man's Chest",2006,1038,16,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg
+262,"Harry Potter and the Half-Blood Prince",2009,1036,16,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
+263,"The Super Mario Bros. Movie",2023,1035,16,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
+264,"Real Steel",2011,1034,15,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
+265,"Revenge of the Nerds",1984,1033,16,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
 266,"Iron Lung",2026,1030,15,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
 267,"Arthur Christmas",2011,1030,16,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
 268,"The Lego Ninjago Movie",2017,1029,16,https://letterboxd.com/film/the-lego-ninjago-movie/,https://image.tmdb.org/t/p/w500/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg
