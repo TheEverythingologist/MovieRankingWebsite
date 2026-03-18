@@ -323,16 +323,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 322,"Spider-Man: Far From Home",2019,988,15,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
 323,"Mean Girls",2004,987,14,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
 324,"Toy Story 4",2019,986,15,https://letterboxd.com/film/toy-story-4/,https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg
-325,"Evolution",2001,985,14,https://letterboxd.com/film/evolution/,https://image.tmdb.org/t/p/w500/dwIrP544LxJtXToLpzkEa08pIMm.jpg
-326,"Top Gun",1986,983,15,https://letterboxd.com/film/top-gun/,https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg
-327,"Minutemen",2008,983,15,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
-328,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,983,15,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
-329,"Venom",2018,982,15,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-330,"Madagascar: Escape 2 Africa",2008,981,15,https://letterboxd.com/film/madagascar-escape-2-africa/,https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg
-331,"Annie",1982,980,14,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
-332,"Avengers: Age of Ultron",2015,980,14,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
-333,"Bee Movie",2007,979,15,https://letterboxd.com/film/bee-movie/,https://image.tmdb.org/t/p/w500/aWe27GmvfVYAd7p0KEtJZWwLWk5.jpg
-334,"Dirty Dancing",1987,978,14,https://letterboxd.com/film/dirty-dancing/,https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg
+325,"Dirty Dancing",1987,986,15,https://letterboxd.com/film/dirty-dancing/,https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg
+326,"Evolution",2001,985,14,https://letterboxd.com/film/evolution/,https://image.tmdb.org/t/p/w500/dwIrP544LxJtXToLpzkEa08pIMm.jpg
+327,"Top Gun",1986,983,15,https://letterboxd.com/film/top-gun/,https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg
+328,"Minutemen",2008,983,15,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
+329,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,983,15,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
+330,"Venom",2018,982,15,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+331,"Madagascar: Escape 2 Africa",2008,981,15,https://letterboxd.com/film/madagascar-escape-2-africa/,https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg
+332,"Annie",1982,980,14,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
+333,"Avengers: Age of Ultron",2015,980,14,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
+334,"Bee Movie",2007,979,15,https://letterboxd.com/film/bee-movie/,https://image.tmdb.org/t/p/w500/aWe27GmvfVYAd7p0KEtJZWwLWk5.jpg
 335,"Cloudy with a Chance of Meatballs",2009,978,15,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
 336,"Gremlins",1984,977,14,https://letterboxd.com/film/gremlins/,https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg
 337,"Saw VI",2009,976,15,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
@@ -523,11 +523,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 522,"Transformers: Revenge of the Fallen",2009,789,15,https://letterboxd.com/film/transformers-revenge-of-the-fallen/,https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg
 523,"Cow Belles",2006,788,15,https://letterboxd.com/film/cow-belles/,https://image.tmdb.org/t/p/w500/kA15KXpFHGKSqrRaJHAf0bhjQcT.jpg
 524,"G-Force",2009,787,15,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
-525,"White House Down",2013,785,14,https://letterboxd.com/film/white-house-down/,https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg
-526,"Girl vs. Monster",2012,780,14,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
-527,"Suicide Squad",2016,779,15,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
-528,"Volcano",1997,778,15,https://letterboxd.com/film/volcano/,https://image.tmdb.org/t/p/w500/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg
-529,"Tooth Fairy",2010,778,15,https://letterboxd.com/film/tooth-fairy-2010/,https://image.tmdb.org/t/p/w500/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg
+525,"Girl vs. Monster",2012,780,14,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
+526,"Suicide Squad",2016,779,15,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
+527,"Volcano",1997,778,15,https://letterboxd.com/film/volcano/,https://image.tmdb.org/t/p/w500/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg
+528,"Tooth Fairy",2010,778,15,https://letterboxd.com/film/tooth-fairy-2010/,https://image.tmdb.org/t/p/w500/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg
+529,"White House Down",2013,777,15,https://letterboxd.com/film/white-house-down/,https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg
 530,"Parental Guidance",2012,776,14,https://letterboxd.com/film/parental-guidance-2012/,https://image.tmdb.org/t/p/w500/815zxi87kTUvleFHjnE5SNzWmVZ.jpg
 531,"Rio 2",2014,776,14,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
 532,"Red One",2024,775,14,https://letterboxd.com/film/red-one/,https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg
