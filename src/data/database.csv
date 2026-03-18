@@ -40,11 +40,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 39,"Terminator 2: Judgment Day",1991,1290,15,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
 40,"Everything Everywhere All At Once",2022,1289,15,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
 41,"Inception",2010,1286,15,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
-42,"Monty Python and the Holy Grail",1975,1285,15,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
-43,"Goodfellas",1990,1284,15,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
-44,"Back to the Future",1985,1278,15,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
-45,"Full Metal Jacket",1987,1276,15,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-46,"12 Years a Slave",2013,1276,15,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
+42,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
+43,"Monty Python and the Holy Grail",1975,1285,15,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
+44,"Goodfellas",1990,1284,15,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
+45,"Back to the Future",1985,1278,15,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
+46,"Full Metal Jacket",1987,1276,15,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
 47,"Spirited Away",2001,1273,15,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
 48,"Sinners",2025,1271,15,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
 49,"Saw",2004,1271,15,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
@@ -153,13 +153,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 152,"Robot Dreams",2023,1138,15,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
 153,"District 9",2009,1136,15,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
 154,"Juno",2007,1136,15,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
-155,"Up",2009,1136,15,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
-156,"Office Space",1999,1135,15,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
-157,"Steve Jobs",2015,1133,16,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
-158,"The Death of Stalin",2017,1132,15,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
-159,"Iron Man",2008,1132,15,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
-160,"Back to the Future Part III",1990,1129,16,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
-161,"Hoppers",2026,1127,15,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
+155,"Office Space",1999,1135,15,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
+156,"Steve Jobs",2015,1133,16,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
+157,"The Death of Stalin",2017,1132,15,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
+158,"Iron Man",2008,1132,15,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
+159,"Back to the Future Part III",1990,1129,16,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
+160,"Hoppers",2026,1127,15,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
+161,"Up",2009,1126,16,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
 162,"The Batman",2022,1126,15,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
 163,"Deadpool",2016,1124,16,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
 164,"Thor: Ragnarok",2017,1124,16,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
