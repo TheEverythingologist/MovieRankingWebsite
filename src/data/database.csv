@@ -56,11 +56,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 55,"Mulan",1998,1251,15,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
 56,"Poor Things",2023,1250,15,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 57,"Fight Club",1999,1248,15,https://letterboxd.com/film/fight-club/,https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg
-58,"Kill Bill Vol. 1",2003,1245,15,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-59,"Midsommar",2019,1245,14,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
-60,"Battle Royale",2000,1243,14,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
-61,"The Incredibles",2004,1242,15,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
-62,"The Dark Knight Rises",2012,1242,14,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
+58,"The Dark Knight Rises",2012,1246,15,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
+59,"Kill Bill Vol. 1",2003,1245,15,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+60,"Midsommar",2019,1245,14,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
+61,"Battle Royale",2000,1243,14,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
+62,"The Incredibles",2004,1242,15,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
 63,"To Kill A Mockingbird",1962,1241,15,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
 64,"Conclave",2024,1239,15,https://letterboxd.com/film/conclave/,https://image.tmdb.org/t/p/w500/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
 65,"One Battle After Another",2025,1239,15,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
@@ -427,13 +427,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 426,"Incredibles 2",2018,890,14,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
 427,"High School Musical",2006,890,14,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
 428,"Madagascar",2005,889,15,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
-429,"Monster House",2006,887,14,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
-430,"The Dictator",2012,887,15,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
-431,"101 Dalmatians",1996,886,15,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
-432,"Spider-Man 3",2007,885,15,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
-433,"The Day After Tomorrow",2004,884,14,https://letterboxd.com/film/the-day-after-tomorrow/,https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg
-434,"Beauty and the Beast",2017,884,14,https://letterboxd.com/film/beauty-and-the-beast-2017/,https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg
-435,"Gnomeo and Juliet",2011,884,15,https://letterboxd.com/film/gnomeo-juliet/,https://image.tmdb.org/t/p/w500/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg
+429,"The Dictator",2012,887,15,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
+430,"101 Dalmatians",1996,886,15,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
+431,"Spider-Man 3",2007,885,15,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
+432,"The Day After Tomorrow",2004,884,14,https://letterboxd.com/film/the-day-after-tomorrow/,https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg
+433,"Beauty and the Beast",2017,884,14,https://letterboxd.com/film/beauty-and-the-beast-2017/,https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg
+434,"Gnomeo and Juliet",2011,884,15,https://letterboxd.com/film/gnomeo-juliet/,https://image.tmdb.org/t/p/w500/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg
+435,"Monster House",2006,883,15,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
 436,"Tremors II: Aftershocks",1996,883,15,https://letterboxd.com/film/tremors-ii-aftershocks/,https://image.tmdb.org/t/p/w500/hvBYCgG62Fk8cYIsUtrfP5iw3K8.jpg
 437,"Now You See Me",2013,882,15,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
 438,"The Incredible Hulk",2008,881,15,https://letterboxd.com/film/the-incredible-hulk/,https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg
