@@ -331,14 +331,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 330,"Sonic the Hedgehog",2020,983,16,https://letterboxd.com/film/sonic-the-hedgehog/,https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg
 331,"Death of a Unicorn",2025,983,16,https://letterboxd.com/film/death-of-a-unicorn/,https://image.tmdb.org/t/p/w500/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg
 332,"Top Gun",1986,983,15,https://letterboxd.com/film/top-gun/,https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg
-333,"Cloudy with a Chance of Meatballs",2009,978,15,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
-334,"Cars 3",2017,976,16,https://letterboxd.com/film/cars-3/,https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg
-335,"Happy Feet",2006,974,16,https://letterboxd.com/film/happy-feet/,https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg
-336,"Look Who's Back",2015,973,15,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
-337,"The Santa Clause",1994,973,16,https://letterboxd.com/film/the-santa-clause/,https://image.tmdb.org/t/p/w500/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg
-338,"Paranorman",2012,972,15,https://letterboxd.com/film/paranorman/,https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg
-339,"Dumb and Dumber",1994,972,15,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
-340,"Rudy",1993,969,15,https://letterboxd.com/film/rudy/,https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg
+333,"Rudy",1993,979,16,https://letterboxd.com/film/rudy/,https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg
+334,"Cloudy with a Chance of Meatballs",2009,978,15,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
+335,"Cars 3",2017,976,16,https://letterboxd.com/film/cars-3/,https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg
+336,"Happy Feet",2006,974,16,https://letterboxd.com/film/happy-feet/,https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg
+337,"Look Who's Back",2015,973,15,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
+338,"The Santa Clause",1994,973,16,https://letterboxd.com/film/the-santa-clause/,https://image.tmdb.org/t/p/w500/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg
+339,"Paranorman",2012,972,15,https://letterboxd.com/film/paranorman/,https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg
+340,"Dumb and Dumber",1994,972,15,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
 341,"Final Destination 3",2006,969,15,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
 342,"Minutemen",2008,968,16,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
 343,"Madagascar: Escape 2 Africa",2008,967,16,https://letterboxd.com/film/madagascar-escape-2-africa/,https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg
@@ -480,12 +480,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 479,"How to Lose a Guy in 10 Days",2003,840,16,https://letterboxd.com/film/how-to-lose-a-guy-in-10-days/,https://image.tmdb.org/t/p/w500/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg
 480,"High School Musical 2",2007,838,16,https://letterboxd.com/film/high-school-musical-2/,https://image.tmdb.org/t/p/w500/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg
 481,"Alice in Wonderland",2010,834,16,https://letterboxd.com/film/alice-in-wonderland-2010/,https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg
-482,"Shark Tale",2004,834,15,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
-483,"Return to Never Land",2002,831,15,https://letterboxd.com/film/return-to-never-land/,https://image.tmdb.org/t/p/w500/wB3r2b8sxUZspqNyr8copMlt7se.jpg
-484,"Jungle Cruise",2021,830,16,https://letterboxd.com/film/jungle-cruise/,https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg
-485,"Camp Rock",2008,829,16,https://letterboxd.com/film/camp-rock/,https://image.tmdb.org/t/p/w500/7IXMqZnwccogptThay3togKIFWw.jpg
-486,"Oz the Great and Powerful",2013,826,15,https://letterboxd.com/film/oz-the-great-and-powerful/,https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg
-487,"Cats & Dogs",2001,825,15,https://letterboxd.com/film/cats-dogs/,https://image.tmdb.org/t/p/w500/wUWoat7L4vvQburQ8pVEJhRG9L5.jpg
+482,"Return to Never Land",2002,831,15,https://letterboxd.com/film/return-to-never-land/,https://image.tmdb.org/t/p/w500/wB3r2b8sxUZspqNyr8copMlt7se.jpg
+483,"Jungle Cruise",2021,830,16,https://letterboxd.com/film/jungle-cruise/,https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg
+484,"Camp Rock",2008,829,16,https://letterboxd.com/film/camp-rock/,https://image.tmdb.org/t/p/w500/7IXMqZnwccogptThay3togKIFWw.jpg
+485,"Oz the Great and Powerful",2013,826,15,https://letterboxd.com/film/oz-the-great-and-powerful/,https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg
+486,"Cats & Dogs",2001,825,15,https://letterboxd.com/film/cats-dogs/,https://image.tmdb.org/t/p/w500/wUWoat7L4vvQburQ8pVEJhRG9L5.jpg
+487,"Shark Tale",2004,824,16,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
 488,"Star Wars: The Rise of Skywalker",2019,820,16,https://letterboxd.com/film/star-wars-the-rise-of-skywalker/,https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg
 489,"The Santa Clause 3: The Escape Clause",2006,819,15,https://letterboxd.com/film/the-santa-clause-3-the-escape-clause/,https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg
 490,"Lady and the Tramp",2019,819,15,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg
