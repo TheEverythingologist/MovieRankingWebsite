@@ -101,9 +101,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 100,"Jurassic Park",1993,1202,15,https://letterboxd.com/film/jurassic-park/,https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg
 101,"Avengers: Infinity War",2018,1202,15,https://letterboxd.com/film/avengers-infinity-war/,https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 102,"Whisper of the Heart",1995,1200,15,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
-103,"The Zone of Interest",2023,1199,14,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
-104,"Dunkirk",2017,1198,15,https://letterboxd.com/film/dunkirk-2017/,https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
-105,"The Sixth Sense",1999,1197,14,https://letterboxd.com/film/the-sixth-sense/,https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg
+103,"The Sixth Sense",1999,1200,15,https://letterboxd.com/film/the-sixth-sense/,https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg
+104,"The Zone of Interest",2023,1199,14,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
+105,"Dunkirk",2017,1198,15,https://letterboxd.com/film/dunkirk-2017/,https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
 106,"Nickel Boys",2024,1194,15,https://letterboxd.com/film/nickel-boys/,https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg
 107,"Little Women",2019,1193,15,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
 108,"Akira",1988,1189,15,https://letterboxd.com/film/akira/,https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg
@@ -501,13 +501,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 500,"The Game Plan",2007,813,14,https://letterboxd.com/film/the-game-plan/,https://image.tmdb.org/t/p/w500/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg
 501,"The Monuments Men",2014,811,14,https://letterboxd.com/film/the-monuments-men/,https://image.tmdb.org/t/p/w500/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg
 502,"Leo",2023,811,15,https://letterboxd.com/film/leo-2023/,https://image.tmdb.org/t/p/w500/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg
-503,"Coyote Ugly",2000,810,14,https://letterboxd.com/film/coyote-ugly/,https://image.tmdb.org/t/p/w500/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg
-504,"Hocus Pocus 2",2022,809,15,https://letterboxd.com/film/hocus-pocus-2/,https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg
-505,"The Fault in Our Stars",2014,808,15,https://letterboxd.com/film/the-fault-in-our-stars/,https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg
-506,"Cars 2",2011,808,15,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
-507,"Divergent",2014,808,14,https://letterboxd.com/film/divergent/,https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg
-508,"Home on the Range",2004,808,14,https://letterboxd.com/film/home-on-the-range/,https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg
-509,"Lady and the Tramp",2019,808,14,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg
+503,"Hocus Pocus 2",2022,809,15,https://letterboxd.com/film/hocus-pocus-2/,https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg
+504,"The Fault in Our Stars",2014,808,15,https://letterboxd.com/film/the-fault-in-our-stars/,https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg
+505,"Cars 2",2011,808,15,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
+506,"Divergent",2014,808,14,https://letterboxd.com/film/divergent/,https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg
+507,"Home on the Range",2004,808,14,https://letterboxd.com/film/home-on-the-range/,https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg
+508,"Lady and the Tramp",2019,808,14,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg
+509,"Coyote Ugly",2000,807,15,https://letterboxd.com/film/coyote-ugly/,https://image.tmdb.org/t/p/w500/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg
 510,"Chicken Little",2005,805,14,https://letterboxd.com/film/chicken-little/,https://image.tmdb.org/t/p/w500/87FpA4b90eTaw3U6zmCNikoPLir.jpg
 511,"Brother Bear",2003,804,14,https://letterboxd.com/film/brother-bear/,https://image.tmdb.org/t/p/w500/otptPbEY0vBostmo95xwiiumMJm.jpg
 512,"Lady and the Tramp II: Scamp's Adventure",2001,802,15,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
