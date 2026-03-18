@@ -41,13 +41,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 40,"Everything Everywhere All At Once",2022,1289,15,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
 41,"Inception",2010,1286,15,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
 42,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
-43,"Monty Python and the Holy Grail",1975,1285,15,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
-44,"Sinners",2025,1285,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
-45,"Goodfellas",1990,1284,15,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
-46,"Back to the Future",1985,1278,15,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
-47,"Full Metal Jacket",1987,1276,15,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-48,"Spirited Away",2001,1273,15,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
-49,"Saw",2004,1271,15,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
+43,"Saw",2004,1286,16,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
+44,"Monty Python and the Holy Grail",1975,1285,15,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
+45,"Sinners",2025,1285,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
+46,"Goodfellas",1990,1284,15,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
+47,"Back to the Future",1985,1278,15,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
+48,"Full Metal Jacket",1987,1276,15,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+49,"Spirited Away",2001,1273,15,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
 50,"Puss in Boots: The Last Wish",2022,1271,15,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
 51,"2001: A Space Odyssey",1968,1267,15,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
 52,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1266,15,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
@@ -65,19 +65,19 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 64,"Get Out",2017,1247,16,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
 65,"The Dark Knight Rises",2012,1246,15,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
 66,"The Incredibles",2004,1242,15,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
-67,"To Kill A Mockingbird",1962,1241,15,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
-68,"Conclave",2024,1239,15,https://letterboxd.com/film/conclave/,https://image.tmdb.org/t/p/w500/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
-69,"No Country For Old Men",2007,1236,15,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
-70,"Princess Mononoke",1997,1236,15,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
-71,"Moonlight",2016,1235,15,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
-72,"1917",2019,1234,15,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
-73,"The Great Dictator",1940,1234,15,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
-74,"Shrek 2",2004,1233,15,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
-75,"The Imitation Game",2014,1232,15,https://letterboxd.com/film/the-imitation-game/,https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
-76,"The Prestige",2006,1231,15,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
-77,"Kill Bill Vol. 1",2003,1229,16,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-78,"Hidden Figures",2016,1229,15,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
-79,"Anora",2024,1228,15,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
+67,"Conclave",2024,1239,15,https://letterboxd.com/film/conclave/,https://image.tmdb.org/t/p/w500/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
+68,"No Country For Old Men",2007,1236,15,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
+69,"Princess Mononoke",1997,1236,15,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
+70,"Moonlight",2016,1235,15,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
+71,"1917",2019,1234,15,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
+72,"The Great Dictator",1940,1234,15,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
+73,"Shrek 2",2004,1233,15,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
+74,"The Imitation Game",2014,1232,15,https://letterboxd.com/film/the-imitation-game/,https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
+75,"The Prestige",2006,1231,15,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
+76,"Kill Bill Vol. 1",2003,1229,16,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+77,"Hidden Figures",2016,1229,15,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
+78,"Anora",2024,1228,15,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
+79,"To Kill A Mockingbird",1962,1226,16,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
 80,"Raiders of the Lost Ark",1981,1218,15,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
 81,"All Quiet on the Western Front",2022,1218,16,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
 82,"Her",2013,1217,15,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
