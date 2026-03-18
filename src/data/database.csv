@@ -205,14 +205,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 204,"Black Panther",2018,1096,15,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
 205,"Casino Royale",2006,1096,15,https://letterboxd.com/film/casino-royale-2006/,https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg
 206,"Fried Green Tomatoes",1991,1094,15,https://letterboxd.com/film/fried-green-tomatoes/,https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg
-207,"Avatar: The Way of Water",2022,1093,15,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
-208,"Sixteen Candles",1984,1092,14,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
-209,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1091,15,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
-210,"Wreck-It Ralph",2012,1087,15,https://letterboxd.com/film/wreck-it-ralph/,https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg
-211,"Bridge of Spies",2015,1087,15,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
-212,"Bohemian Rhapsody",2018,1087,15,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
-213,"Guardians of the Galaxy",2014,1086,15,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
-214,"Chicago",2002,1084,14,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
+207,"Chicago",2002,1094,15,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
+208,"Avatar: The Way of Water",2022,1093,15,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+209,"Sixteen Candles",1984,1092,14,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
+210,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1091,15,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
+211,"Wreck-It Ralph",2012,1087,15,https://letterboxd.com/film/wreck-it-ralph/,https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg
+212,"Bridge of Spies",2015,1087,15,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
+213,"Bohemian Rhapsody",2018,1087,15,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
+214,"Guardians of the Galaxy",2014,1086,15,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
 215,"Finding Nemo",2003,1082,15,https://letterboxd.com/film/finding-nemo/,https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
 216,"The Emperor's New Groove",2000,1081,15,https://letterboxd.com/film/the-emperors-new-groove/,https://image.tmdb.org/t/p/w500/isA0acj3ONKBLp1pKadUNzxEPFv.jpg
 217,"Spider-Man 2",2004,1080,15,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
@@ -362,11 +362,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 361,"Despicable Me",2010,956,14,https://letterboxd.com/film/despicable-me/,https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg
 362,"I, Robot",2004,955,15,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
 363,"Kung Fu Panda 3",2016,954,15,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
-364,"Chronicles of Narnia: Prince Caspian",2008,954,14,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
-365,"Dick Tracy",1990,954,15,https://letterboxd.com/film/dick-tracy/,https://image.tmdb.org/t/p/w500/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg
-366,"An Extremely Goofy Movie",2000,947,15,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
-367,"Bolt",2008,945,14,https://letterboxd.com/film/bolt/,https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg
-368,"The Little Rascals",1994,945,15,https://letterboxd.com/film/the-little-rascals/,https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg
+364,"Dick Tracy",1990,954,15,https://letterboxd.com/film/dick-tracy/,https://image.tmdb.org/t/p/w500/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg
+365,"An Extremely Goofy Movie",2000,947,15,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
+366,"Bolt",2008,945,14,https://letterboxd.com/film/bolt/,https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg
+367,"The Little Rascals",1994,945,15,https://letterboxd.com/film/the-little-rascals/,https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg
+368,"Chronicles of Narnia: Prince Caspian",2008,944,15,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
 369,"Friday the 13th Part III",1982,944,15,https://letterboxd.com/film/friday-the-13th-part-iii/,https://image.tmdb.org/t/p/w500/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg
 370,"Peter Pan",1953,944,15,https://letterboxd.com/film/peter-pan/,https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg
 371,"Star Wars: Episode I - The Phantom Menace",1999,943,15,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
