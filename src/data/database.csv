@@ -64,20 +64,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 63,"Midsommar",2019,1245,14,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
 64,"Battle Royale",2000,1243,14,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
 65,"The Dark Knight Rises",2012,1242,14,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
-66,"Mulan",1998,1236,14,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
-67,"The Banshees of Inisherin",2022,1234,14,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
-68,"The Grand Budapest Hotel",2014,1233,14,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
-69,"Raiders of the Lost Ark",1981,1232,14,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
-70,"Get Out",2017,1231,14,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
-71,"Princess Mononoke",1997,1230,14,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
-72,"Her",2013,1230,14,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
-73,"To Kill A Mockingbird",1962,1229,14,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
-74,"Boyhood",2014,1227,14,https://letterboxd.com/film/boyhood/,https://image.tmdb.org/t/p/w500/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg
-75,"The Menu",2022,1225,14,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
-76,"Top Gun: Maverick",2022,1225,14,https://letterboxd.com/film/top-gun-maverick/,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
-77,"Shrek 2",2004,1224,14,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
-78,"The Great Dictator",1940,1223,14,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
-79,"Conclave",2024,1223,14,https://letterboxd.com/film/conclave/,https://image.tmdb.org/t/p/w500/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
+66,"Conclave",2024,1239,15,https://letterboxd.com/film/conclave/,https://image.tmdb.org/t/p/w500/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
+67,"Mulan",1998,1236,14,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
+68,"The Banshees of Inisherin",2022,1234,14,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
+69,"The Grand Budapest Hotel",2014,1233,14,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
+70,"Raiders of the Lost Ark",1981,1232,14,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
+71,"Get Out",2017,1231,14,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
+72,"Princess Mononoke",1997,1230,14,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
+73,"Her",2013,1230,14,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
+74,"To Kill A Mockingbird",1962,1229,14,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
+75,"Boyhood",2014,1227,14,https://letterboxd.com/film/boyhood/,https://image.tmdb.org/t/p/w500/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg
+76,"The Menu",2022,1225,14,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
+77,"Top Gun: Maverick",2022,1225,14,https://letterboxd.com/film/top-gun-maverick/,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
+78,"Shrek 2",2004,1224,14,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
+79,"The Great Dictator",1940,1223,14,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
 80,"Letters From Iwo Jima",2006,1222,14,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
 81,"Citizen Kane",1941,1221,14,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 82,"Hidden Figures",2016,1221,14,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
@@ -85,20 +85,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 84,"No Country For Old Men",2007,1221,14,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
 85,"Jurassic Park",1993,1218,14,https://letterboxd.com/film/jurassic-park/,https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg
 86,"The Iron Giant",1999,1218,14,https://letterboxd.com/film/the-iron-giant/,https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg
-87,"Whisper of the Heart",1995,1216,14,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
-88,"Alien",1979,1216,14,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
-89,"Jaws",1975,1215,14,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
-90,"Anora",2024,1214,14,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
-91,"A Real Pain",2024,1213,14,https://letterboxd.com/film/a-real-pain/,https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg
-92,"Little Women",2019,1210,14,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
-93,"The Holdovers",2023,1208,14,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
-94,"Wicked",2024,1208,14,https://letterboxd.com/film/wicked-2024/,https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg
-95,"My Neighbor Totoro",1988,1206,14,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
-96,"The Wind Rises",2013,1205,14,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
-97,"Akira",1988,1204,14,https://letterboxd.com/film/akira/,https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg
-98,"Shrek",2001,1202,14,https://letterboxd.com/film/shrek/,https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
-99,"South Park: Bigger Longer and Uncut",1999,1201,14,https://letterboxd.com/film/south-park-bigger-longer-uncut/,https://image.tmdb.org/t/p/w500/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg
-100,"How to Train Your Dragon",2010,1201,14,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg
+87,"Alien",1979,1216,14,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
+88,"Jaws",1975,1215,14,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
+89,"Anora",2024,1214,14,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
+90,"A Real Pain",2024,1213,14,https://letterboxd.com/film/a-real-pain/,https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg
+91,"Little Women",2019,1210,14,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
+92,"The Holdovers",2023,1208,14,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
+93,"Wicked",2024,1208,14,https://letterboxd.com/film/wicked-2024/,https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg
+94,"My Neighbor Totoro",1988,1206,14,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
+95,"The Wind Rises",2013,1205,14,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
+96,"Akira",1988,1204,14,https://letterboxd.com/film/akira/,https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg
+97,"Shrek",2001,1202,14,https://letterboxd.com/film/shrek/,https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
+98,"South Park: Bigger Longer and Uncut",1999,1201,14,https://letterboxd.com/film/south-park-bigger-longer-uncut/,https://image.tmdb.org/t/p/w500/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg
+99,"How to Train Your Dragon",2010,1201,14,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg
+100,"Whisper of the Heart",1995,1200,15,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
 101,"The Zone of Interest",2023,1199,14,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
 102,"The Lego Movie",2014,1199,14,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
 103,"The Mitchells vs. The Machines",2021,1197,14,https://letterboxd.com/film/the-mitchells-vs-the-machines/,https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg
