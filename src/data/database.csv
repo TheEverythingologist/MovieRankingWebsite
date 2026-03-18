@@ -55,10 +55,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 54,"Forrest Gump",1994,1263,15,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
 55,"Mad Max: Fury Road",2015,1259,15,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
 56,"Fight Club",1999,1259,16,https://letterboxd.com/film/fight-club/,https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg
-57,"Midsommar",2019,1255,15,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
-58,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
-59,"Mulan",1998,1251,15,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
-60,"Poor Things",2023,1250,15,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
+57,"Poor Things",2023,1259,16,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
+58,"Midsommar",2019,1255,15,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
+59,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
+60,"Mulan",1998,1251,15,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
 61,"The Banshees of Inisherin",2022,1250,15,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
 62,"Citizen Kane",1941,1249,16,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 63,"One Battle After Another",2025,1249,16,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
@@ -212,23 +212,23 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 211,"Elemental",2023,1083,15,https://letterboxd.com/film/elemental-2023/,https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
 212,"The Avengers",2012,1082,16,https://letterboxd.com/film/the-avengers-2012/,https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg
 213,"Finding Nemo",2003,1082,15,https://letterboxd.com/film/finding-nemo/,https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
-214,"Harry Potter and the Prisoner of Azkaban",2004,1082,15,https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/,https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg
-215,"Deadpool 2",2018,1082,16,https://letterboxd.com/film/deadpool-2/,https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
-216,"The Emperor's New Groove",2000,1081,15,https://letterboxd.com/film/the-emperors-new-groove/,https://image.tmdb.org/t/p/w500/isA0acj3ONKBLp1pKadUNzxEPFv.jpg
-217,"Nimona",2023,1080,16,https://letterboxd.com/film/nimona-2023/,https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg
-218,"Tangled",2010,1080,16,https://letterboxd.com/film/tangled-2010/,https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg
-219,"Spider-Man: Homecoming",2017,1080,16,https://letterboxd.com/film/spider-man-homecoming/,https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg
-220,"Zootopia 2",2025,1079,15,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
-221,"Rango",2011,1079,16,https://letterboxd.com/film/rango/,https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg
-222,"The Secret Life of Walter Mitty",2013,1079,16,https://letterboxd.com/film/the-secret-life-of-walter-mitty-2013/,https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg
-223,"Kung Fu Hustle",2004,1078,16,https://letterboxd.com/film/kung-fu-hustle/,https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg
-224,"Sixteen Candles",1984,1077,16,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
-225,"E.T. the Extra-Terrestrial",1982,1075,16,https://letterboxd.com/film/et-the-extra-terrestrial/,https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
-226,"Star Wars: Episode III - Revenge of the Sith",2005,1075,15,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg
-227,"The Hunger Games: Catching Fire",2013,1074,15,https://letterboxd.com/film/the-hunger-games-catching-fire/,https://image.tmdb.org/t/p/w500/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg
-228,"The Muppet Christmas Carol",1992,1074,15,https://letterboxd.com/film/the-muppet-christmas-carol/,https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg
-229,"Little Shop of Horrors",1986,1074,15,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
-230,"Shaun of the Dead",2004,1074,16,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
+214,"Deadpool 2",2018,1082,16,https://letterboxd.com/film/deadpool-2/,https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
+215,"The Emperor's New Groove",2000,1081,15,https://letterboxd.com/film/the-emperors-new-groove/,https://image.tmdb.org/t/p/w500/isA0acj3ONKBLp1pKadUNzxEPFv.jpg
+216,"Nimona",2023,1080,16,https://letterboxd.com/film/nimona-2023/,https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg
+217,"Tangled",2010,1080,16,https://letterboxd.com/film/tangled-2010/,https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg
+218,"Spider-Man: Homecoming",2017,1080,16,https://letterboxd.com/film/spider-man-homecoming/,https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg
+219,"Zootopia 2",2025,1079,15,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
+220,"Rango",2011,1079,16,https://letterboxd.com/film/rango/,https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg
+221,"The Secret Life of Walter Mitty",2013,1079,16,https://letterboxd.com/film/the-secret-life-of-walter-mitty-2013/,https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg
+222,"Kung Fu Hustle",2004,1078,16,https://letterboxd.com/film/kung-fu-hustle/,https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg
+223,"Sixteen Candles",1984,1077,16,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
+224,"E.T. the Extra-Terrestrial",1982,1075,16,https://letterboxd.com/film/et-the-extra-terrestrial/,https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
+225,"Star Wars: Episode III - Revenge of the Sith",2005,1075,15,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg
+226,"The Hunger Games: Catching Fire",2013,1074,15,https://letterboxd.com/film/the-hunger-games-catching-fire/,https://image.tmdb.org/t/p/w500/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg
+227,"The Muppet Christmas Carol",1992,1074,15,https://letterboxd.com/film/the-muppet-christmas-carol/,https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg
+228,"Little Shop of Horrors",1986,1074,15,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
+229,"Shaun of the Dead",2004,1074,16,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
+230,"Harry Potter and the Prisoner of Azkaban",2004,1073,16,https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/,https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg
 231,"The Searchers",1956,1071,16,https://letterboxd.com/film/the-searchers/,https://image.tmdb.org/t/p/w500/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg
 232,"Spider-Man 2",2004,1067,16,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
 233,"Batman",1989,1067,15,https://letterboxd.com/film/batman-1989/,https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg
