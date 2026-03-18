@@ -259,20 +259,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 258,"Eraserhead",1977,1043,15,https://letterboxd.com/film/eraserhead/,https://image.tmdb.org/t/p/w500/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg
 259,"Doctor Strange",2016,1043,15,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
 260,"The Hitchhiker's Guide to the Galaxy",2005,1041,15,https://letterboxd.com/film/the-hitchhikers-guide-to-the-galaxy-2005/,https://image.tmdb.org/t/p/w500/yr9A3KGQlxBh3yW0cmglsr8aMIz.jpg
-261,"Robots",2005,1039,15,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
-262,"Revenge of the Nerds",1984,1038,15,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
-263,"Hoodwinked!",2005,1038,15,https://letterboxd.com/film/hoodwinked/,https://image.tmdb.org/t/p/w500/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg
-264,"Tarzan",1999,1037,15,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
-265,"Mrs. Doubtfire",1993,1037,15,https://letterboxd.com/film/mrs-doubtfire/,https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg
-266,"Real Steel",2011,1034,15,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
-267,"Tremors",1990,1034,15,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
-268,"Onward",2020,1033,15,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
-269,"Harry Potter and the Goblet of Fire",2005,1033,15,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/,https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg
-270,"The Great Gatsby",2013,1033,15,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
-271,"Iron Lung",2026,1030,15,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
-272,"Big Hero 6",2014,1029,15,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-273,"Over the Hedge",2006,1028,15,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
-274,"Final Destination 2",2003,1027,15,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
+261,"Final Destination 2",2003,1041,16,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
+262,"Robots",2005,1039,15,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
+263,"Revenge of the Nerds",1984,1038,15,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
+264,"Hoodwinked!",2005,1038,15,https://letterboxd.com/film/hoodwinked/,https://image.tmdb.org/t/p/w500/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg
+265,"Tarzan",1999,1037,15,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
+266,"Mrs. Doubtfire",1993,1037,15,https://letterboxd.com/film/mrs-doubtfire/,https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg
+267,"Real Steel",2011,1034,15,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
+268,"Tremors",1990,1034,15,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
+269,"Onward",2020,1033,15,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
+270,"Harry Potter and the Goblet of Fire",2005,1033,15,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/,https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg
+271,"The Great Gatsby",2013,1033,15,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
+272,"Iron Lung",2026,1030,15,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
+273,"Big Hero 6",2014,1029,15,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
+274,"Over the Hedge",2006,1028,15,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
 275,"Big Fish",2003,1027,15,https://letterboxd.com/film/big-fish/,https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg
 276,"Pacific Rim",2013,1026,15,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
 277,"Ant-Man",2015,1026,15,https://letterboxd.com/film/ant-man/,https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg
@@ -331,19 +331,19 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 330,"Hocus Pocus",1993,985,15,https://letterboxd.com/film/hocus-pocus/,https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg
 331,"Top Gun",1986,983,15,https://letterboxd.com/film/top-gun/,https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg
 332,"Minutemen",2008,983,15,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
-333,"Madagascar: Escape 2 Africa",2008,981,15,https://letterboxd.com/film/madagascar-escape-2-africa/,https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg
-334,"Bee Movie",2007,979,15,https://letterboxd.com/film/bee-movie/,https://image.tmdb.org/t/p/w500/aWe27GmvfVYAd7p0KEtJZWwLWk5.jpg
-335,"Cloudy with a Chance of Meatballs",2009,978,15,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
-336,"Charlie and the Chocolate Factory",2005,977,15,https://letterboxd.com/film/charlie-and-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg
-337,"Saw VI",2009,976,15,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
-338,"Mr. Peabody and Sherman",2014,975,15,https://letterboxd.com/film/mr-peabody-sherman/,https://image.tmdb.org/t/p/w500/hPcImYndWESKHzT2GHVCDsUxzYg.jpg
-339,"The Mask",1994,974,15,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
-340,"Look Who's Back",2015,973,15,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
-341,"Paranorman",2012,972,15,https://letterboxd.com/film/paranorman/,https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg
-342,"Dumb and Dumber",1994,972,15,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
-343,"Monsters vs. Aliens",2009,972,15,https://letterboxd.com/film/monsters-vs-aliens/,https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg
-344,"Rudy",1993,969,15,https://letterboxd.com/film/rudy/,https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg
-345,"Final Destination 3",2006,969,15,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
+333,"Bee Movie",2007,979,15,https://letterboxd.com/film/bee-movie/,https://image.tmdb.org/t/p/w500/aWe27GmvfVYAd7p0KEtJZWwLWk5.jpg
+334,"Cloudy with a Chance of Meatballs",2009,978,15,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
+335,"Charlie and the Chocolate Factory",2005,977,15,https://letterboxd.com/film/charlie-and-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg
+336,"Saw VI",2009,976,15,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
+337,"Mr. Peabody and Sherman",2014,975,15,https://letterboxd.com/film/mr-peabody-sherman/,https://image.tmdb.org/t/p/w500/hPcImYndWESKHzT2GHVCDsUxzYg.jpg
+338,"The Mask",1994,974,15,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
+339,"Look Who's Back",2015,973,15,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
+340,"Paranorman",2012,972,15,https://letterboxd.com/film/paranorman/,https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg
+341,"Dumb and Dumber",1994,972,15,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
+342,"Monsters vs. Aliens",2009,972,15,https://letterboxd.com/film/monsters-vs-aliens/,https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg
+343,"Rudy",1993,969,15,https://letterboxd.com/film/rudy/,https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg
+344,"Final Destination 3",2006,969,15,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
+345,"Madagascar: Escape 2 Africa",2008,967,16,https://letterboxd.com/film/madagascar-escape-2-africa/,https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg
 346,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,967,16,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
 347,"Venom",2018,966,16,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
 348,"Annie",1982,966,15,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
