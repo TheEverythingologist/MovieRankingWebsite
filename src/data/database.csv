@@ -373,27 +373,27 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 372,"Enchanted",2007,940,16,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
 373,"Harry Potter and the Sorcerer's Stone",2001,940,15,https://letterboxd.com/film/harry-potter-and-the-sorcerers-stone/,https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg
 374,"The Greatest Showman",2017,940,16,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
-375,"Kick-Ass",2010,939,15,https://letterboxd.com/film/kick-ass/,https://image.tmdb.org/t/p/w500/iHMbrTHJwocsNvo5murCBw0CwTo.jpg
-376,"The Amazing Spider-Man",2012,939,15,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
-377,"Ammonite",2020,939,16,https://letterboxd.com/film/ammonite/,https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg
-378,"Ted",2012,938,15,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
-379,"Thor",2011,938,16,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
-380,"Idiocracy",2006,937,16,https://letterboxd.com/film/idiocracy/,https://image.tmdb.org/t/p/w500/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg
-381,"Man of Steel",2013,936,15,https://letterboxd.com/film/man-of-steel/,https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg
-382,"The Parent Trap",1998,935,15,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
-383,"Hotel Transylvania",2012,934,15,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
-384,"Maleficent",2014,934,16,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
-385,"21",2008,933,15,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
-386,"300",2006,932,15,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
-387,"Space Jam",1996,932,15,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
-388,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
-389,"Spiral: From the Book of Saw",2021,930,15,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
-390,"Ace Ventura: When Nature Calls",1995,930,15,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
-391,"Ice Age: Dawn of the Dinosaurs",2009,930,15,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
-392,"The Book of Life",2014,929,15,https://letterboxd.com/film/the-book-of-life-2014/,https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg
-393,"An Extremely Goofy Movie",2000,928,16,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
-394,"Iron Man 2",2010,927,15,https://letterboxd.com/film/iron-man-2/,https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg
-395,"Black Widow",2021,926,15,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
+375,"Black Widow",2021,940,16,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
+376,"Kick-Ass",2010,939,15,https://letterboxd.com/film/kick-ass/,https://image.tmdb.org/t/p/w500/iHMbrTHJwocsNvo5murCBw0CwTo.jpg
+377,"The Amazing Spider-Man",2012,939,15,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
+378,"Ammonite",2020,939,16,https://letterboxd.com/film/ammonite/,https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg
+379,"Ted",2012,938,15,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
+380,"Thor",2011,938,16,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
+381,"Idiocracy",2006,937,16,https://letterboxd.com/film/idiocracy/,https://image.tmdb.org/t/p/w500/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg
+382,"Man of Steel",2013,936,15,https://letterboxd.com/film/man-of-steel/,https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg
+383,"The Parent Trap",1998,935,15,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
+384,"Hotel Transylvania",2012,934,15,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
+385,"Maleficent",2014,934,16,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
+386,"21",2008,933,15,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+387,"300",2006,932,15,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
+388,"Space Jam",1996,932,15,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
+389,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
+390,"Spiral: From the Book of Saw",2021,930,15,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
+391,"Ace Ventura: When Nature Calls",1995,930,15,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
+392,"Ice Age: Dawn of the Dinosaurs",2009,930,15,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
+393,"The Book of Life",2014,929,15,https://letterboxd.com/film/the-book-of-life-2014/,https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg
+394,"An Extremely Goofy Movie",2000,928,16,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
+395,"Iron Man 2",2010,927,15,https://letterboxd.com/film/iron-man-2/,https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg
 396,"Hot Tub Time Machine",2010,926,16,https://letterboxd.com/film/hot-tub-time-machine/,https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg
 397,"Smart House",1999,924,16,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
 398,"The Jungle Book",2016,923,16,https://letterboxd.com/film/the-jungle-book-2016/,https://image.tmdb.org/t/p/w500/2Epx7F9X7DrFptn4seqn4mzBVks.jpg
@@ -432,20 +432,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 431,"The Amazing Spider-Man 2",2014,893,16,https://letterboxd.com/film/the-amazing-spider-man-2/,https://image.tmdb.org/t/p/w500/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg
 432,"My Girl",1991,891,15,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
 433,"The Waterboy",1998,891,16,https://letterboxd.com/film/the-waterboy/,https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg
-434,"minions rise of gru",2022,889,14,https://letterboxd.com/film/minions-the-rise-of-gru/,https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg
-435,"Kim Possible Movie: So the Drama",2005,889,15,https://letterboxd.com/film/kim-possible-movie-so-the-drama/,https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg
-436,"High School Musical",2006,888,15,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
-437,"The Dictator",2012,887,15,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
-438,"Men in Black 2",2002,887,16,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
-439,"101 Dalmatians",1996,886,15,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
-440,"Spider-Man 3",2007,885,15,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
-441,"The 40-Year-Old Virgin",2005,883,16,https://letterboxd.com/film/the-40-year-old-virgin/,https://image.tmdb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg
-442,"Now You See Me",2013,882,15,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
-443,"The Incredible Hulk",2008,881,15,https://letterboxd.com/film/the-incredible-hulk/,https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg
-444,"Small Soldiers",1998,881,15,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
-445,"Christopher Robin",2018,880,15,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
-446,"Beauty and the Beast",2017,880,16,https://letterboxd.com/film/beauty-and-the-beast-2017/,https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg
-447,"Ice Age",2002,878,16,https://letterboxd.com/film/ice-age/,https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg
+434,"Kim Possible Movie: So the Drama",2005,889,15,https://letterboxd.com/film/kim-possible-movie-so-the-drama/,https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg
+435,"High School Musical",2006,888,15,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
+436,"The Dictator",2012,887,15,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
+437,"Men in Black 2",2002,887,16,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
+438,"101 Dalmatians",1996,886,15,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
+439,"Spider-Man 3",2007,885,15,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
+440,"The 40-Year-Old Virgin",2005,883,16,https://letterboxd.com/film/the-40-year-old-virgin/,https://image.tmdb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg
+441,"Now You See Me",2013,882,15,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
+442,"The Incredible Hulk",2008,881,15,https://letterboxd.com/film/the-incredible-hulk/,https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg
+443,"Small Soldiers",1998,881,15,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
+444,"Christopher Robin",2018,880,15,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
+445,"Beauty and the Beast",2017,880,16,https://letterboxd.com/film/beauty-and-the-beast-2017/,https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg
+446,"Ice Age",2002,878,16,https://letterboxd.com/film/ice-age/,https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg
+447,"minions rise of gru",2022,875,15,https://letterboxd.com/film/minions-the-rise-of-gru/,https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg
 448,"Final Destination 5",2011,875,16,https://letterboxd.com/film/final-destination-5/,https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg
 449,"Gnomeo and Juliet",2011,870,16,https://letterboxd.com/film/gnomeo-juliet/,https://image.tmdb.org/t/p/w500/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg
 450,"Superman Returns",2006,869,15,https://letterboxd.com/film/superman-returns/,https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg
