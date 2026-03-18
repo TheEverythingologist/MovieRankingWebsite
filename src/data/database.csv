@@ -74,13 +74,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 73,"The Great Dictator",1940,1234,15,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
 74,"Shrek 2",2004,1233,15,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
 75,"The Imitation Game",2014,1232,15,https://letterboxd.com/film/the-imitation-game/,https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
-76,"The Prestige",2006,1231,15,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
-77,"Kill Bill Vol. 1",2003,1229,16,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-78,"Hidden Figures",2016,1229,15,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
-79,"To Kill A Mockingbird",1962,1226,16,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
-80,"Raiders of the Lost Ark",1981,1218,15,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
-81,"All Quiet on the Western Front",2022,1218,16,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
-82,"Her",2013,1217,15,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
+76,"Her",2013,1232,16,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
+77,"The Prestige",2006,1231,15,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
+78,"Kill Bill Vol. 1",2003,1229,16,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+79,"Hidden Figures",2016,1229,15,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
+80,"To Kill A Mockingbird",1962,1226,16,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
+81,"Raiders of the Lost Ark",1981,1218,15,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
+82,"All Quiet on the Western Front",2022,1218,16,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
 83,"Boyhood",2014,1216,15,https://letterboxd.com/film/boyhood/,https://image.tmdb.org/t/p/w500/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg
 84,"The Grand Budapest Hotel",2014,1216,15,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
 85,"The Lego Movie",2014,1216,15,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
@@ -113,15 +113,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 112,"The Revenant",2015,1188,15,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
 113,"Shrek",2001,1186,15,https://letterboxd.com/film/shrek/,https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
 114,"South Park: Bigger Longer and Uncut",1999,1186,15,https://letterboxd.com/film/south-park-bigger-longer-uncut/,https://image.tmdb.org/t/p/w500/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg
-115,"Saw II",2005,1185,15,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
-116,"Toy Story 2",1999,1184,16,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
-117,"Little Women",2019,1183,16,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
-118,"Slumdog Millionaire",2008,1183,15,https://letterboxd.com/film/slumdog-millionaire/,https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg
-119,"Spotlight",2015,1181,16,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
-120,"The Mitchells vs. The Machines",2021,1180,15,https://letterboxd.com/film/the-mitchells-vs-the-machines/,https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg
-121,"Back to the Future Part II",1989,1179,15,https://letterboxd.com/film/back-to-the-future-part-ii/,https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg
-122,"Toy Story 3",2010,1179,16,https://letterboxd.com/film/toy-story-3/,https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg
-123,"The Disaster Artist",2017,1178,15,https://letterboxd.com/film/the-disaster-artist/,https://image.tmdb.org/t/p/w500/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg
+115,"Toy Story 2",1999,1184,16,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
+116,"Little Women",2019,1183,16,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
+117,"Slumdog Millionaire",2008,1183,15,https://letterboxd.com/film/slumdog-millionaire/,https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg
+118,"Spotlight",2015,1181,16,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
+119,"The Mitchells vs. The Machines",2021,1180,15,https://letterboxd.com/film/the-mitchells-vs-the-machines/,https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg
+120,"Back to the Future Part II",1989,1179,15,https://letterboxd.com/film/back-to-the-future-part-ii/,https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg
+121,"Toy Story 3",2010,1179,16,https://letterboxd.com/film/toy-story-3/,https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg
+122,"The Disaster Artist",2017,1178,15,https://letterboxd.com/film/the-disaster-artist/,https://image.tmdb.org/t/p/w500/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg
+123,"Saw II",2005,1170,16,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
 124,"Jojo Rabbit",2019,1169,15,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
 125,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,1168,16,https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/,https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg
 126,"Monsters, Inc.",2001,1167,16,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
