@@ -403,10 +403,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 402,"Robin Hood",1973,918,15,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
 403,"Star Wars: Episode II - Attack of the Clones",2002,918,15,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
 404,"The Greatest Showman",2017,918,14,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
-405,"Solo: A Star Wars Story",2018,914,14,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
-406,"Thor: The Dark World",2013,908,14,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
-407,"Doctor Strange in the Multiverse of Madness",2022,907,15,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
-408,"Despicable Me 2",2013,907,14,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
+405,"Despicable Me 2",2013,915,15,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
+406,"Solo: A Star Wars Story",2018,914,14,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
+407,"Thor: The Dark World",2013,908,14,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+408,"Doctor Strange in the Multiverse of Madness",2022,907,15,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
 409,"Casper",1995,906,15,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
 410,"Flushed Away",2006,905,15,https://letterboxd.com/film/flushed-away/,https://image.tmdb.org/t/p/w500/kgoZI4xh38RrEYEPVib6a12UPLn.jpg
 411,"The Jungle Book",2016,903,14,https://letterboxd.com/film/the-jungle-book-2016/,https://image.tmdb.org/t/p/w500/2Epx7F9X7DrFptn4seqn4mzBVks.jpg
@@ -583,9 +583,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 582,"The Boss Baby: Family Business",2021,716,14,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
 583,"Blades of Glory",2007,715,15,https://letterboxd.com/film/blades-of-glory/,https://image.tmdb.org/t/p/w500/yclY3zyzrL1MS9b6Eygs9ks0ZTY.jpg
 584,"How to Build a Better Boy",2014,715,15,https://letterboxd.com/film/how-to-build-a-better-boy/,https://image.tmdb.org/t/p/w500/ivo09vYN76w3epqAv9jS9BEXi5N.jpg
-585,"Dadnapped",2009,715,14,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
-586,"Zookeeper",2011,714,15,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
-587,"Pitch Perfect",2012,708,14,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
+585,"Zookeeper",2011,714,15,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
+586,"Pitch Perfect",2012,708,14,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
+587,"Dadnapped",2009,707,15,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
 588,"Spy Kids 3-D: Game Over",2003,706,14,https://letterboxd.com/film/spy-kids-3-d-game-over/,https://image.tmdb.org/t/p/w500/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg
 589,"Bad Hair Day",2015,706,15,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
 590,"Ride Along",2014,700,14,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
