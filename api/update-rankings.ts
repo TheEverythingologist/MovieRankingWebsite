@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 
 const ELO_K_FACTOR = 32;
-const COMPETITOR_POOL_SIZE = parseInt(process.env.COMPETITOR_POOL_SIZE ?? "30", 10);
+const COMPETITOR_POOL_SIZE = parseInt(process.env.COMPETITOR_POOL_SIZE ?? "100", 10);
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
