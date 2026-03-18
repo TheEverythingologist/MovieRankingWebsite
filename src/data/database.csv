@@ -16,9 +16,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 15,"Lady Bird",2017,1332,15,https://letterboxd.com/film/lady-bird/,https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg
 16,"Interstellar",2014,1328,14,https://letterboxd.com/film/interstellar/,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
 17,"Oppenheimer",2023,1327,15,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
-18,"City of God",2002,1319,14,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
-19,"The Godfather",1972,1314,14,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
-20,"Se7en",1995,1313,14,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+18,"Se7en",1995,1320,15,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+19,"City of God",2002,1319,14,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
+20,"The Godfather",1972,1314,14,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 21,"The Big Short",2015,1312,14,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 22,"The Martian",2015,1309,14,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
 23,"Saving Private Ryan",1998,1308,15,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
@@ -203,11 +203,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 202,"Knives Out",2019,1096,14,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
 203,"Black Panther",2018,1096,15,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
 204,"Inside Out 2",2024,1095,14,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
-205,"Bridge of Spies",2015,1094,14,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
-206,"Fried Green Tomatoes",1991,1094,15,https://letterboxd.com/film/fried-green-tomatoes/,https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg
-207,"Avatar: The Way of Water",2022,1093,15,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
-208,"Sixteen Candles",1984,1092,14,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
-209,"Star Wars: Episode III - Revenge of the Sith",2005,1088,14,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg
+205,"Fried Green Tomatoes",1991,1094,15,https://letterboxd.com/film/fried-green-tomatoes/,https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg
+206,"Avatar: The Way of Water",2022,1093,15,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+207,"Sixteen Candles",1984,1092,14,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
+208,"Star Wars: Episode III - Revenge of the Sith",2005,1088,14,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg
+209,"Bridge of Spies",2015,1087,15,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
 210,"Bohemian Rhapsody",2018,1087,15,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
 211,"Guardians of the Galaxy",2014,1086,15,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
 212,"The Secret Life of Walter Mitty",2013,1086,14,https://letterboxd.com/film/the-secret-life-of-walter-mitty-2013/,https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg
