@@ -558,14 +558,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 557,"Spy Kids 2: Island of Lost Dreams",2002,754,15,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
 558,"Princess Protection Program",2009,754,14,https://letterboxd.com/film/princess-protection-program/,https://image.tmdb.org/t/p/w500/tPKD9hmuYxclAQnfup47qLx8a5T.jpg
 559,"Monte Carlo",2011,754,15,https://letterboxd.com/film/monte-carlo/,https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg
-560,"Robocop",2014,753,15,https://letterboxd.com/film/robocop-2014/,https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg
-561,"Emilia Pérez",2024,753,15,https://letterboxd.com/film/emilia-perez/,https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg
-562,"The Final Destination",2009,750,15,https://letterboxd.com/film/the-final-destination/,https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg
-563,"Trolls World Tour",2020,749,15,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
-564,"The Twilight Saga: Breaking Dawn - Part 2",2012,742,15,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-2/,https://image.tmdb.org/t/p/w500/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg
-565,"Beverly Hills Chihuahua",2008,742,15,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
-566,"The Core",2003,741,15,https://letterboxd.com/film/the-core/,https://image.tmdb.org/t/p/w500/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg
-567,"The Twilight Saga: Breaking Dawn Part 1",2011,740,14,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/,https://image.tmdb.org/t/p/w500/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg
+560,"The Twilight Saga: Breaking Dawn Part 1",2011,754,15,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/,https://image.tmdb.org/t/p/w500/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg
+561,"Robocop",2014,753,15,https://letterboxd.com/film/robocop-2014/,https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg
+562,"Emilia Pérez",2024,753,15,https://letterboxd.com/film/emilia-perez/,https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg
+563,"The Final Destination",2009,750,15,https://letterboxd.com/film/the-final-destination/,https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg
+564,"Trolls World Tour",2020,749,15,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
+565,"The Twilight Saga: Breaking Dawn - Part 2",2012,742,15,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-2/,https://image.tmdb.org/t/p/w500/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg
+566,"Beverly Hills Chihuahua",2008,742,15,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
+567,"The Core",2003,741,15,https://letterboxd.com/film/the-core/,https://image.tmdb.org/t/p/w500/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg
 568,"Tinker Bell and the Great Fairy Rescue",2010,740,15,https://letterboxd.com/film/tinker-bell-and-the-great-fairy-rescue/,https://image.tmdb.org/t/p/w500/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg
 569,"Transformers: Age of Extinction",2014,738,15,https://letterboxd.com/film/transformers-age-of-extinction/,https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg
 570,"Camp Rock 2: The Final Jam",2010,737,15,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
@@ -590,10 +590,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 589,"Pitch Perfect",2012,701,15,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
 590,"Ride Along",2014,700,14,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
 591,"Avalon High",2010,698,14,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
-592,"Hop",2011,696,14,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
-593,"Pixels",2015,695,14,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
-594,"Teen Beach Movie",2013,694,15,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
-595,"Twitches Too",2007,686,15,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
+592,"Pixels",2015,695,14,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
+593,"Teen Beach Movie",2013,694,15,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
+594,"Twitches Too",2007,686,15,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
+595,"Hop",2011,682,15,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
 596,"The Little Mermaid II: Return to the Sea",2000,682,15,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
 597,"Santa Buddies",2009,682,15,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
 598,"Ramona and Beezus",2010,674,14,https://letterboxd.com/film/ramona-and-beezus/,https://image.tmdb.org/t/p/w500/bW1YWFyocIY8DDgwOUroZG2FYNe.jpg
