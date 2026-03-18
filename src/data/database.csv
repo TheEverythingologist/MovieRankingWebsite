@@ -404,14 +404,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 403,"Robin Hood",1973,918,15,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
 404,"Star Wars: Episode II - Attack of the Clones",2002,918,15,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
 405,"Despicable Me 2",2013,915,15,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
-406,"Talladega Nights: The Ballad of Ricky Bobby",2006,909,15,https://letterboxd.com/film/talladega-nights-the-ballad-of-ricky-bobby/,https://image.tmdb.org/t/p/w500/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg
-407,"Doctor Strange in the Multiverse of Madness",2022,907,15,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
-408,"Casper",1995,906,15,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
-409,"War of the Worlds",2005,906,15,https://letterboxd.com/film/war-of-the-worlds/,https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg
-410,"Flushed Away",2006,905,15,https://letterboxd.com/film/flushed-away/,https://image.tmdb.org/t/p/w500/kgoZI4xh38RrEYEPVib6a12UPLn.jpg
-411,"A Nightmare on Elm Street 4: The Dream Master",1988,904,15,https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/,https://image.tmdb.org/t/p/w500/boStYG7jKdoIZTduiOOsUVknD13.jpg
-412,"Ghostbusters: Frozen Empire",2024,904,15,https://letterboxd.com/film/ghostbusters-frozen-empire/,https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg
-413,"The Jungle Book",2016,903,14,https://letterboxd.com/film/the-jungle-book-2016/,https://image.tmdb.org/t/p/w500/2Epx7F9X7DrFptn4seqn4mzBVks.jpg
+406,"The Jungle Book",2016,910,15,https://letterboxd.com/film/the-jungle-book-2016/,https://image.tmdb.org/t/p/w500/2Epx7F9X7DrFptn4seqn4mzBVks.jpg
+407,"Talladega Nights: The Ballad of Ricky Bobby",2006,909,15,https://letterboxd.com/film/talladega-nights-the-ballad-of-ricky-bobby/,https://image.tmdb.org/t/p/w500/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg
+408,"Doctor Strange in the Multiverse of Madness",2022,907,15,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
+409,"Casper",1995,906,15,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
+410,"War of the Worlds",2005,906,15,https://letterboxd.com/film/war-of-the-worlds/,https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg
+411,"Flushed Away",2006,905,15,https://letterboxd.com/film/flushed-away/,https://image.tmdb.org/t/p/w500/kgoZI4xh38RrEYEPVib6a12UPLn.jpg
+412,"A Nightmare on Elm Street 4: The Dream Master",1988,904,15,https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/,https://image.tmdb.org/t/p/w500/boStYG7jKdoIZTduiOOsUVknD13.jpg
+413,"Ghostbusters: Frozen Empire",2024,904,15,https://letterboxd.com/film/ghostbusters-frozen-empire/,https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg
 414,"Smart House",1999,903,15,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
 415,"Spy Kids",2001,902,15,https://letterboxd.com/film/spy-kids/,https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg
 416,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,902,15,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
@@ -596,12 +596,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 595,"Hop",2011,682,15,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
 596,"The Little Mermaid II: Return to the Sea",2000,682,15,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
 597,"Santa Buddies",2009,682,15,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
-598,"Twitches",2005,673,14,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
-599,"Ramona and Beezus",2010,672,15,https://letterboxd.com/film/ramona-and-beezus/,https://image.tmdb.org/t/p/w500/bW1YWFyocIY8DDgwOUroZG2FYNe.jpg
-600,"Grown Ups 2",2013,672,15,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
-601,"Fireheart",2022,668,15,https://letterboxd.com/film/fireheart/,https://image.tmdb.org/t/p/w500/vYAUgsoel6slydF6y4NCPLW96ah.jpg
-602,"Space Buddies",2009,667,15,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
-603,"Tooth Fairy 2",2012,667,15,https://letterboxd.com/film/tooth-fairy-2/,https://image.tmdb.org/t/p/w500/oIkcTCUdvc5fDyG2IxdCd26hRQ7.jpg
+598,"Ramona and Beezus",2010,672,15,https://letterboxd.com/film/ramona-and-beezus/,https://image.tmdb.org/t/p/w500/bW1YWFyocIY8DDgwOUroZG2FYNe.jpg
+599,"Grown Ups 2",2013,672,15,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
+600,"Fireheart",2022,668,15,https://letterboxd.com/film/fireheart/,https://image.tmdb.org/t/p/w500/vYAUgsoel6slydF6y4NCPLW96ah.jpg
+601,"Space Buddies",2009,667,15,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
+602,"Tooth Fairy 2",2012,667,15,https://letterboxd.com/film/tooth-fairy-2/,https://image.tmdb.org/t/p/w500/oIkcTCUdvc5fDyG2IxdCd26hRQ7.jpg
+603,"Twitches",2005,666,15,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
 604,"After Earth",2013,664,15,https://letterboxd.com/film/after-earth/,https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg
 605,"Frenemies",2012,662,14,https://letterboxd.com/film/frenemies/,https://image.tmdb.org/t/p/w500/cfEUQG5Jv5SHVgq6pPfybS57ORO.jpg
 606,"Clueless",1995,661,15,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
