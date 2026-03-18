@@ -131,20 +131,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 130,"Jojo Rabbit",2019,1165,14,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
 131,"Monsters, Inc.",2001,1165,14,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
 132,"Chef",2014,1165,15,https://letterboxd.com/film/chef/,https://image.tmdb.org/t/p/w500/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg
-133,"Million Dollar Baby",2004,1159,14,https://letterboxd.com/film/million-dollar-baby/,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
-134,"Batman Begins",2005,1158,14,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
-135,"Glass Onion: A Knives Out Mystery",2022,1157,14,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
-136,"Molly's Game",2017,1155,14,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
-137,"Toy Story 3",2010,1155,14,https://letterboxd.com/film/toy-story-3/,https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg
-138,"Thor: Ragnarok",2017,1154,14,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
-139,"Fantastic Mr. Fox",2009,1153,14,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
-140,"District 9",2009,1152,14,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
-141,"Juno",2007,1152,14,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
-142,"Inside Out",2015,1151,15,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
-143,"The Wizard of Oz",1939,1151,14,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
-144,"Spotlight",2015,1151,14,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
-145,"Monty Python's Life of Brian",1979,1150,14,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
-146,"Return of the Jedi",1983,1146,14,https://letterboxd.com/film/return-of-the-jedi/,https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg
+133,"Return of the Jedi",1983,1161,15,https://letterboxd.com/film/return-of-the-jedi/,https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg
+134,"Million Dollar Baby",2004,1159,14,https://letterboxd.com/film/million-dollar-baby/,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
+135,"Batman Begins",2005,1158,14,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
+136,"Glass Onion: A Knives Out Mystery",2022,1157,14,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
+137,"Molly's Game",2017,1155,14,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
+138,"Toy Story 3",2010,1155,14,https://letterboxd.com/film/toy-story-3/,https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg
+139,"Thor: Ragnarok",2017,1154,14,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
+140,"Fantastic Mr. Fox",2009,1153,14,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
+141,"District 9",2009,1152,14,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
+142,"Juno",2007,1152,14,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
+143,"Inside Out",2015,1151,15,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
+144,"The Wizard of Oz",1939,1151,14,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
+145,"Spotlight",2015,1151,14,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
+146,"Monty Python's Life of Brian",1979,1150,14,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
 147,"The Hunger Games",2012,1146,15,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
 148,"Coco",2017,1144,14,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
 149,"Office Space",1999,1144,14,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
@@ -162,18 +162,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 161,"Hoppers",2026,1133,14,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
 162,"Steve Jobs",2015,1133,14,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
 163,"Iron Man",2008,1132,15,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
-164,"Limitless",2011,1131,14,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
-165,"Spider-Man: No Way Home",2021,1130,14,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
-166,"Ferris Bueller's Day Off",1986,1130,14,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
-167,"Rocky",1976,1127,14,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
-168,"Deadpool",2016,1125,14,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
-169,"The Terminator",1984,1125,14,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
-170,"Scream",1997,1125,14,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
-171,"Isle of Dogs",2018,1121,15,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-172,"Up",2009,1121,14,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
-173,"Kung Fu Panda 2",2011,1119,14,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
-174,"Captain America: Civil War",2016,1118,14,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
-175,"American Sniper",2014,1117,14,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
+164,"Spider-Man: No Way Home",2021,1130,14,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
+165,"Ferris Bueller's Day Off",1986,1130,14,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
+166,"Rocky",1976,1127,14,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
+167,"Deadpool",2016,1125,14,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
+168,"The Terminator",1984,1125,14,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+169,"Scream",1997,1125,14,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
+170,"Isle of Dogs",2018,1121,15,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+171,"Up",2009,1121,14,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
+172,"Kung Fu Panda 2",2011,1119,14,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
+173,"Captain America: Civil War",2016,1118,14,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
+174,"American Sniper",2014,1117,14,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
+175,"Limitless",2011,1116,15,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
 176,"Lilo & Stitch",2002,1116,14,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
 177,"The Devil Wears Prada",2006,1116,15,https://letterboxd.com/film/the-devil-wears-prada/,https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg
 178,"Ghostbusters",1984,1114,14,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
