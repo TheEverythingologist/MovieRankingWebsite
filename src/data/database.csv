@@ -127,21 +127,21 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 126,"Jojo Rabbit",2019,1169,15,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
 127,"Monsters, Inc.",2001,1167,16,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
 128,"The Princess Bride",1987,1167,16,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
-129,"Avengers: Endgame",2019,1163,15,https://letterboxd.com/film/avengers-endgame/,https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg
-130,"Argo",2012,1162,15,https://letterboxd.com/film/argo/,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
-131,"Kill Bill Vol. 2",2004,1162,15,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
-132,"O'Brother, Where Art Thou",2000,1162,16,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
-133,"Return of the Jedi",1983,1161,15,https://letterboxd.com/film/return-of-the-jedi/,https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg
-134,"Coco",2017,1160,15,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
-135,"Batman Begins",2005,1160,15,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
-136,"The Lion King",1994,1159,16,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
-137,"Brooklyn",2015,1157,15,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
-138,"Moana",2016,1156,15,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
-139,"Fantastic Mr. Fox",2009,1155,16,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
-140,"Indiana Jones and the Last Crusade",1989,1154,16,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
-141,"The Wizard of Oz",1939,1154,16,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
-142,"Kung Fu Panda",2008,1153,16,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
-143,"Monty Python's Life of Brian",1979,1152,15,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
+129,"Monty Python's Life of Brian",1979,1166,16,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
+130,"Avengers: Endgame",2019,1163,15,https://letterboxd.com/film/avengers-endgame/,https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg
+131,"Argo",2012,1162,15,https://letterboxd.com/film/argo/,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
+132,"Kill Bill Vol. 2",2004,1162,15,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+133,"O'Brother, Where Art Thou",2000,1162,16,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
+134,"Return of the Jedi",1983,1161,15,https://letterboxd.com/film/return-of-the-jedi/,https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg
+135,"Coco",2017,1160,15,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
+136,"Batman Begins",2005,1160,15,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
+137,"The Lion King",1994,1159,16,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
+138,"Brooklyn",2015,1157,15,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
+139,"Moana",2016,1156,15,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
+140,"Fantastic Mr. Fox",2009,1155,16,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
+141,"Indiana Jones and the Last Crusade",1989,1154,16,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
+142,"The Wizard of Oz",1939,1154,16,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
+143,"Kung Fu Panda",2008,1153,16,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
 144,"Inside Out",2015,1151,15,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
 145,"Robot Dreams",2023,1151,16,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
 146,"District 9",2009,1149,16,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
@@ -182,29 +182,29 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 181,"American Sniper",2014,1110,15,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
 182,"Casino Royale",2006,1109,16,https://letterboxd.com/film/casino-royale-2006/,https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg
 183,"Zootopia",2016,1108,15,https://letterboxd.com/film/zootopia/,https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
-184,"Lilo & Stitch",2002,1106,15,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
-185,"Sonic the Hedgehog 3",2024,1105,16,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
-186,"Kung Fu Panda 2",2011,1105,15,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
-187,"Spider-Man: No Way Home",2021,1104,16,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
-188,"Megamind",2010,1104,16,https://letterboxd.com/film/megamind/,https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg
-189,"The King's Speech",2010,1104,15,https://letterboxd.com/film/the-kings-speech/,https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg
-190,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1104,16,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
-191,"Willy Wonka & the Chocolate Factory",1971,1103,16,https://letterboxd.com/film/willy-wonka-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
-192,"Caddyshack",1980,1103,15,https://letterboxd.com/film/caddyshack/,https://image.tmdb.org/t/p/w500/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg
-193,"Guardians of the Galaxy: Volume 2",2017,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy-volume-2/,https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
-194,"Guardians of the Galaxy",2014,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
-195,"Civil War",2024,1098,16,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
-196,"The Founder",2016,1098,16,https://letterboxd.com/film/the-founder/,https://image.tmdb.org/t/p/w500/8gLIksu5ggdfBL1UbeTeonHquxl.jpg
-197,"Inside Out 2",2024,1097,16,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
-198,"The Princess and the Frog",2009,1097,15,https://letterboxd.com/film/the-princess-and-the-frog/,https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg
-199,"Ghostbusters",1984,1096,15,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
-200,"Beauty and the Beast",1991,1096,15,https://letterboxd.com/film/beauty-and-the-beast-1991/,https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg
-201,"Black Panther",2018,1096,15,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
-202,"Sixteen Candles",1984,1096,15,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
-203,"Star Wars: Episode VII - The Force Awakens",2015,1094,16,https://letterboxd.com/film/star-wars-episode-vii-the-force-awakens/,https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
-204,"Chicago",2002,1094,15,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
-205,"Avatar: The Way of Water",2022,1093,15,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
-206,"Men in Black",1997,1093,16,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
+184,"Sonic the Hedgehog 3",2024,1105,16,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
+185,"Kung Fu Panda 2",2011,1105,15,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
+186,"Spider-Man: No Way Home",2021,1104,16,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
+187,"Megamind",2010,1104,16,https://letterboxd.com/film/megamind/,https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg
+188,"The King's Speech",2010,1104,15,https://letterboxd.com/film/the-kings-speech/,https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg
+189,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1104,16,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
+190,"Willy Wonka & the Chocolate Factory",1971,1103,16,https://letterboxd.com/film/willy-wonka-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
+191,"Caddyshack",1980,1103,15,https://letterboxd.com/film/caddyshack/,https://image.tmdb.org/t/p/w500/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg
+192,"Guardians of the Galaxy: Volume 2",2017,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy-volume-2/,https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
+193,"Guardians of the Galaxy",2014,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
+194,"Civil War",2024,1098,16,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
+195,"The Founder",2016,1098,16,https://letterboxd.com/film/the-founder/,https://image.tmdb.org/t/p/w500/8gLIksu5ggdfBL1UbeTeonHquxl.jpg
+196,"Inside Out 2",2024,1097,16,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
+197,"The Princess and the Frog",2009,1097,15,https://letterboxd.com/film/the-princess-and-the-frog/,https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg
+198,"Ghostbusters",1984,1096,15,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
+199,"Beauty and the Beast",1991,1096,15,https://letterboxd.com/film/beauty-and-the-beast-1991/,https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg
+200,"Black Panther",2018,1096,15,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
+201,"Sixteen Candles",1984,1096,15,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
+202,"Star Wars: Episode VII - The Force Awakens",2015,1094,16,https://letterboxd.com/film/star-wars-episode-vii-the-force-awakens/,https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
+203,"Chicago",2002,1094,15,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
+204,"Avatar: The Way of Water",2022,1093,15,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+205,"Men in Black",1997,1093,16,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
+206,"Lilo & Stitch",2002,1092,16,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
 207,"Gifted",2017,1087,16,https://letterboxd.com/film/gifted-2017/,https://image.tmdb.org/t/p/w500/9Ts7Vc4wLlpI9oox9mkVUE1tBHy.jpg
 208,"Wreck-It Ralph",2012,1087,15,https://letterboxd.com/film/wreck-it-ralph/,https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg
 209,"Bridge of Spies",2015,1087,15,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
