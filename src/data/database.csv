@@ -23,9 +23,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 22,"Spider-Man: Into the Spider-verse",2018,1315,15,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
 23,"Arrival",2016,1313,15,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
 24,"The Lord of the Rings: The Fellowship of the Ring",2001,1313,15,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
-25,"American Psycho",2000,1311,15,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
-26,"Star Wars: Episode IV - A New Hope",1977,1311,15,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
-27,"The Martian",2015,1309,14,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+25,"The Martian",2015,1312,15,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+26,"American Psycho",2000,1311,15,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+27,"Star Wars: Episode IV - A New Hope",1977,1311,15,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
 28,"Saving Private Ryan",1998,1308,15,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
 29,"La La Land",2016,1308,15,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
 30,"The Godfather Part II",1974,1306,14,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
@@ -421,10 +421,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 420,"Thor: The Dark World",2013,898,15,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
 421,"The Day After Tomorrow",2004,898,15,https://letterboxd.com/film/the-day-after-tomorrow/,https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg
 422,"Ice Age: The Meltdown",2006,896,15,https://letterboxd.com/film/ice-age-the-meltdown/,https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg
-423,"My Girl",1991,894,14,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
-424,"Igor",2008,893,15,https://letterboxd.com/film/igor/,https://image.tmdb.org/t/p/w500/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg
-425,"High School Musical 3: Senior Year",2008,893,14,https://letterboxd.com/film/high-school-musical-3-senior-year/,https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg
-426,"This is the End",2013,893,15,https://letterboxd.com/film/this-is-the-end/,https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg
+423,"Igor",2008,893,15,https://letterboxd.com/film/igor/,https://image.tmdb.org/t/p/w500/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg
+424,"High School Musical 3: Senior Year",2008,893,14,https://letterboxd.com/film/high-school-musical-3-senior-year/,https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg
+425,"This is the End",2013,893,15,https://letterboxd.com/film/this-is-the-end/,https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg
+426,"My Girl",1991,891,15,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
 427,"Incredibles 2",2018,890,14,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
 428,"Madagascar",2005,889,15,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
 429,"High School Musical",2006,888,15,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
