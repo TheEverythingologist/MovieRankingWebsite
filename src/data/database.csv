@@ -249,13 +249,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 248,"Indiana Jones and the Temple of Doom",1984,1057,16,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
 249,"A Bug's Life",1998,1056,15,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
 250,"Harry Potter and the Deathly Hallows Part 2",2011,1055,16,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-2/,https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg
-251,"Sonic the Hedgehog 2",2022,1054,15,https://letterboxd.com/film/sonic-the-hedgehog-2/,https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg
-252,"X-Men: First Class",2011,1053,16,https://letterboxd.com/film/x-men-first-class/,https://image.tmdb.org/t/p/w500/hNEokmUke0dazoBhttFN0o3L7Xv.jpg
-253,"Luca",2021,1049,15,https://letterboxd.com/film/luca-2021/,https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg
-254,"Frozen",2013,1049,15,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
-255,"Atlantis: The Lost Empire",2001,1048,16,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
-256,"Big Hero 6",2014,1047,16,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-257,"Doctor Strange",2016,1043,15,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
+251,"Doctor Strange",2016,1055,16,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
+252,"Sonic the Hedgehog 2",2022,1054,15,https://letterboxd.com/film/sonic-the-hedgehog-2/,https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg
+253,"X-Men: First Class",2011,1053,16,https://letterboxd.com/film/x-men-first-class/,https://image.tmdb.org/t/p/w500/hNEokmUke0dazoBhttFN0o3L7Xv.jpg
+254,"Luca",2021,1049,15,https://letterboxd.com/film/luca-2021/,https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg
+255,"Frozen",2013,1049,15,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
+256,"Atlantis: The Lost Empire",2001,1048,16,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
+257,"Big Hero 6",2014,1047,16,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
 258,"The Right Stuff",1983,1043,16,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
 259,"Final Destination 2",2003,1041,16,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
 260,"Robots",2005,1039,15,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
@@ -367,22 +367,22 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 366,"Annie",1982,949,16,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
 367,"The Hunger Games: Mockingjay Part 2",2015,949,16,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
 368,"The Amazing Spider-Man",2012,948,16,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
-369,"The Little Rascals",1994,945,15,https://letterboxd.com/film/the-little-rascals/,https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg
-370,"The Hobbit: The Desolation of Smaug",2013,944,16,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg
-371,"Friday the 13th Part III",1982,944,15,https://letterboxd.com/film/friday-the-13th-part-iii/,https://image.tmdb.org/t/p/w500/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg
-372,"Peter Pan",1953,944,15,https://letterboxd.com/film/peter-pan/,https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg
-373,"Enchanted",2007,940,16,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
-374,"Harry Potter and the Sorcerer's Stone",2001,940,15,https://letterboxd.com/film/harry-potter-and-the-sorcerers-stone/,https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg
-375,"The Greatest Showman",2017,940,16,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
-376,"Black Widow",2021,940,16,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
-377,"Ammonite",2020,939,16,https://letterboxd.com/film/ammonite/,https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg
-378,"21",2008,939,16,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
-379,"Ted",2012,938,15,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
-380,"Thor",2011,938,16,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
-381,"Idiocracy",2006,937,16,https://letterboxd.com/film/idiocracy/,https://image.tmdb.org/t/p/w500/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg
-382,"The Parent Trap",1998,935,15,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
-383,"Hotel Transylvania",2012,934,15,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
-384,"Maleficent",2014,934,16,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
+369,"The Hobbit: The Desolation of Smaug",2013,944,16,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg
+370,"Friday the 13th Part III",1982,944,15,https://letterboxd.com/film/friday-the-13th-part-iii/,https://image.tmdb.org/t/p/w500/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg
+371,"Peter Pan",1953,944,15,https://letterboxd.com/film/peter-pan/,https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg
+372,"Enchanted",2007,940,16,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
+373,"Harry Potter and the Sorcerer's Stone",2001,940,15,https://letterboxd.com/film/harry-potter-and-the-sorcerers-stone/,https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg
+374,"The Greatest Showman",2017,940,16,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
+375,"Black Widow",2021,940,16,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
+376,"Ammonite",2020,939,16,https://letterboxd.com/film/ammonite/,https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg
+377,"21",2008,939,16,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+378,"Ted",2012,938,15,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
+379,"Thor",2011,938,16,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
+380,"Idiocracy",2006,937,16,https://letterboxd.com/film/idiocracy/,https://image.tmdb.org/t/p/w500/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg
+381,"The Parent Trap",1998,935,15,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
+382,"Hotel Transylvania",2012,934,15,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
+383,"Maleficent",2014,934,16,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
+384,"The Little Rascals",1994,933,16,https://letterboxd.com/film/the-little-rascals/,https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg
 385,"300",2006,932,15,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
 386,"Space Jam",1996,932,15,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
 387,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
