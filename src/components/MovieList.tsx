@@ -9,24 +9,16 @@ interface MovieListProps {
 type SortKey = "rank" | "title" | "year" | "elo";
 
 const POSTER_CACHE: Record<string, string> = {};
-const CARD_HEIGHT = 320; // px — approximate rendered card height for virtualization
-const OVERSCAN = 5;      // extra cards to render above/below viewport
+const CARD_HEIGHT = 320; // approximate rendered card height
+const OVERSCAN = 4;      // extra rows to render above/below viewport
 
 function usePoster(title: string, year: number, storedUrl: string): string {
   const key = `${title}__${year}`;
   const [url, setUrl] = useState<string>(storedUrl || POSTER_CACHE[key] || "");
 
   useEffect(() => {
-    // If we already have a stored URL, use it — no fetch needed
-    if (storedUrl) {
-      setUrl(storedUrl);
-      return;
-    }
-    if (POSTER_CACHE[key]) {
-      setUrl(POSTER_CACHE[key]);
-      return;
-    }
-    // Fallback: fetch from TMDB
+    if (storedUrl) { setUrl(storedUrl); return; }
+    if (POSTER_CACHE[key]) { setUrl(POSTER_CACHE[key]); return; }
     let cancelled = false;
     fetch(`/api/tmdb?title=${encodeURIComponent(title)}&year=${year}`)
       .then((r) => r.json())
@@ -36,31 +28,22 @@ function usePoster(title: string, year: number, storedUrl: string): string {
           setUrl(data.posterUrl);
         }
       })
-      .catch(() => {/* silently fail — no poster */});
+      .catch(() => {});
     return () => { cancelled = true; };
   }, [key, title, year, storedUrl]);
 
   return url;
 }
 
-// Individual card with its own poster fetch
 const MovieCard: React.FC<{ movie: MovieData }> = ({ movie }) => {
   const posterUrl = usePoster(movie.title, movie.year, movie.posterUrl);
-
   return (
     <div className="movie-card">
       <div className="ranking-badge">#{movie.rank}</div>
       {posterUrl ? (
-        <img
-          src={posterUrl}
-          alt={movie.title}
-          className="movie-poster"
-          loading="lazy"
-        />
+        <img src={posterUrl} alt={movie.title} className="movie-poster" loading="lazy" />
       ) : (
-        <div className="movie-poster-placeholder">
-          <span>{movie.title}</span>
-        </div>
+        <div className="movie-poster-placeholder"><span>{movie.title}</span></div>
       )}
       <div className="movie-info">
         <h2>{movie.title}</h2>
@@ -75,24 +58,46 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
   const [search, setSearch] = useState("");
   const [sortKey, setSortKey] = useState<SortKey>("rank");
   const [sortAsc, setSortAsc] = useState(true);
-  const [scrollTop, setScrollTop] = useState(0);
-  const containerRef = useRef<HTMLDivElement>(null);
-  const [containerWidth, setContainerWidth] = useState(0);
+  const [scrollY, setScrollY] = useState(0);
+  const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
+  const [containerTop, setContainerTop] = useState(0);
+  const [cols, setCols] = useState(1);
+  const gridRef = useRef<HTMLDivElement>(null);
+  const headerRef = useRef<HTMLDivElement>(null);
 
-  // Measure container width to calculate columns
+  // Track window scroll
+  const handleScroll = useCallback(() => setScrollY(window.scrollY), []);
+
+  // Track viewport + layout measurements
+  const measure = useCallback(() => {
+    setViewportHeight(window.innerHeight);
+    if (gridRef.current) {
+      const rect = gridRef.current.getBoundingClientRect();
+      setContainerTop(rect.top + window.scrollY);
+      // Calculate columns from actual grid width
+      const gridWidth = gridRef.current.offsetWidth;
+      const CARD_MIN_WIDTH = 220;
+      const GAP = 24;
+      const PADDING = 24;
+      const c = Math.max(1, Math.floor((gridWidth - PADDING * 2 + GAP) / (CARD_MIN_WIDTH + GAP)));
+      setCols(c);
+    }
+  }, []);
+
   useEffect(() => {
-    const el = containerRef.current;
-    if (!el) return;
-    const ro = new ResizeObserver((entries) => {
-      setContainerWidth(entries[0].contentRect.width);
-    });
-    ro.observe(el);
-    return () => ro.disconnect();
-  }, []);
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    window.addEventListener("resize", measure, { passive: true });
+    measure();
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("resize", measure);
+    };
+  }, [handleScroll, measure]);
 
-  const handleScroll = useCallback(() => {
-    setScrollTop(containerRef.current?.scrollTop ?? 0);
-  }, []);
+  // Re-measure when movies load or search/sort changes
+  useEffect(() => {
+    requestAnimationFrame(measure);
+  }, [movies, search, sortKey, sortAsc, measure]);
 
   // Filter
   const filtered = movies.filter((m) =>
@@ -109,28 +114,21 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
     return sortAsc ? cmp : -cmp;
   });
 
-  // Virtualisation
-  const CARD_MIN_WIDTH = 220;
+  // Virtualisation using window scroll
   const GAP = 24;
-  const PADDING = 24;
-  const cols = containerWidth
-    ? Math.max(1, Math.floor((containerWidth - PADDING * 2 + GAP) / (CARD_MIN_WIDTH + GAP)))
-    : 1;
   const rowCount = Math.ceil(sorted.length / cols);
   const totalHeight = rowCount * (CARD_HEIGHT + GAP);
-  const viewportHeight =
-    containerRef.current?.clientHeight ?? window.innerHeight;
 
-  const firstVisibleRow = Math.max(0, Math.floor(scrollTop / (CARD_HEIGHT + GAP)) - OVERSCAN);
+  // How far into the grid we've scrolled
+  const scrollIntoGrid = Math.max(0, scrollY - containerTop);
+
+  const firstVisibleRow = Math.max(0, Math.floor(scrollIntoGrid / (CARD_HEIGHT + GAP)) - OVERSCAN);
   const lastVisibleRow = Math.min(
     rowCount - 1,
-    Math.ceil((scrollTop + viewportHeight) / (CARD_HEIGHT + GAP)) + OVERSCAN
+    Math.ceil((scrollIntoGrid + viewportHeight) / (CARD_HEIGHT + GAP)) + OVERSCAN
   );
 
-  const visibleMovies = sorted.slice(
-    firstVisibleRow * cols,
-    (lastVisibleRow + 1) * cols
-  );
+  const visibleMovies = sorted.slice(firstVisibleRow * cols, (lastVisibleRow + 1) * cols);
   const offsetY = firstVisibleRow * (CARD_HEIGHT + GAP);
 
   const handleSortClick = (key: SortKey) => {
@@ -154,7 +152,7 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
   return (
     <div className="movie-list-root">
       {/* Header / Controls */}
-      <div className="movie-list-header">
+      <div className="movie-list-header" ref={headerRef}>
         <h1 className="movie-list-title">🎬 Movie Rankings</h1>
         <div className="movie-list-controls">
           <input
@@ -162,7 +160,7 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
             type="text"
             placeholder="Search movies…"
             value={search}
-            onChange={(e) => setSearch(e.target.value)}
+            onChange={(e) => { setSearch(e.target.value); requestAnimationFrame(measure); }}
           />
           <div className="sort-controls">
             <span className="sort-label">Sort:</span>
@@ -172,26 +170,15 @@ const MovieList: React.FC<MovieListProps> = ({ movies }) => {
             {sortLabel("elo", "ELO")}
           </div>
         </div>
-        <p className="movie-count">
-          {filtered.length} of {movies.length} movies
-        </p>
+        <p className="movie-count">{filtered.length} of {movies.length} movies</p>
       </div>
 
       {/* Virtualised Grid */}
-      <div
-        className="movie-grid-viewport"
-        ref={containerRef}
-        onScroll={handleScroll}
-      >
+      <div className="movie-grid-container" ref={gridRef}>
         <div style={{ height: totalHeight, position: "relative" }}>
           <div
             className="movie-grid"
-            style={{
-              position: "absolute",
-              top: offsetY,
-              left: 0,
-              right: 0,
-            }}
+            style={{ position: "absolute", top: offsetY, left: 0, right: 0 }}
           >
             {visibleMovies.map((movie) => (
               <MovieCard key={movie.title + movie.year} movie={movie} />

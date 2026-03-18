@@ -219,13 +219,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   if (req.method === "POST") {
     // Record a match result and commit updated CSV to both repos
-    const { password, winnerName, loserName } = req.body;
+    const { password, winnerName, winnerYear, loserName, loserYear } = req.body;
 
     if (password !== process.env.ADMIN_PASSWORD) {
       return res.status(401).json({ error: "Unauthorized" });
     }
 
-    if (!winnerName || !loserName) {
+    if (!winnerName || !winnerYear || !loserName || !loserYear) {
       return res.status(400).json({ error: "Missing required fields" });
     }
 
@@ -242,8 +242,12 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       );
 
       const updatedMovies = parseCSVToMovies(csv);
-      const winner = updatedMovies.find((m) => m.MovieName === winnerName);
-      const loser = updatedMovies.find((m) => m.MovieName === loserName);
+      const winner = updatedMovies.find(
+        (m) => m.MovieName === winnerName && m.ReleaseYear === Number(winnerYear)
+      );
+      const loser = updatedMovies.find(
+        (m) => m.MovieName === loserName && m.ReleaseYear === Number(loserYear)
+      );
 
       if (!winner || !loser) {
         return res

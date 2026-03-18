@@ -2,9 +2,8 @@
 .movie-list-root {
   display: flex;
   flex-direction: column;
-  height: 100vh;
   background-color: #120022;
-  overflow: hidden;
+  min-height: 100vh;
 }
 
 /* ── Header ───────────────────────────────────────────────── */
@@ -13,6 +12,9 @@
   padding: 1.25rem 1.5rem 1rem;
   background: linear-gradient(180deg, #1e0038 0%, #120022 100%);
   border-bottom: 1px solid rgba(255, 0, 255, 0.15);
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .movie-list-title {
@@ -99,22 +101,9 @@
   color: rgba(255, 255, 255, 0.35);
 }
 
-/* ── Virtualised Viewport ─────────────────────────────────── */
-.movie-grid-viewport {
-  flex: 1;
-  overflow-y: auto;
-  overflow-x: hidden;
-  scrollbar-width: thin;
-  scrollbar-color: rgba(255, 0, 255, 0.3) transparent;
-}
-
-.movie-grid-viewport::-webkit-scrollbar {
-  width: 6px;
-}
-
-.movie-grid-viewport::-webkit-scrollbar-thumb {
-  background: rgba(255, 0, 255, 0.3);
-  border-radius: 3px;
+/* ── Grid Container ───────────────────────────────────────── */
+.movie-grid-container {
+  width: 100%;
 }
 
 /* ── Grid ─────────────────────────────────────────────────── */
@@ -164,6 +153,7 @@
   width: 100%;
   flex: 1;
   object-fit: contain;
+  background: #0a0015;
   min-height: 0;
 }
 

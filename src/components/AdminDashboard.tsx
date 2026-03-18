@@ -185,10 +185,12 @@ const AdminDashboard: React.FC<AdminDashboardProps> = ({
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          password,
-          winnerName: winner.MovieName,
-          loserName: loser.MovieName,
-        }),
+            password,
+            winnerName: winner.MovieName,
+            winnerYear: winner.ReleaseYear,
+            loserName: loser.MovieName,
+            loserYear: loser.ReleaseYear,
+            }),
       });
 
       const data = (await res.json()) as {
