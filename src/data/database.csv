@@ -56,26 +56,26 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 55,"Fight Club",1999,1259,16,https://letterboxd.com/film/fight-club/,https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg
 56,"Midsommar",2019,1255,15,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
 57,"Battle Royale",2000,1254,15,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
-58,"Mulan",1998,1251,15,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
-59,"Poor Things",2023,1250,15,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
-60,"The Banshees of Inisherin",2022,1250,15,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
-61,"Citizen Kane",1941,1249,16,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
-62,"One Battle After Another",2025,1249,16,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
-63,"Get Out",2017,1247,16,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
-64,"The Dark Knight Rises",2012,1246,15,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
-65,"Kill Bill Vol. 1",2003,1245,15,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+58,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
+59,"Mulan",1998,1251,15,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
+60,"Poor Things",2023,1250,15,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
+61,"The Banshees of Inisherin",2022,1250,15,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
+62,"Citizen Kane",1941,1249,16,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
+63,"One Battle After Another",2025,1249,16,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
+64,"Get Out",2017,1247,16,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
+65,"The Dark Knight Rises",2012,1246,15,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
 66,"The Incredibles",2004,1242,15,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
 67,"To Kill A Mockingbird",1962,1241,15,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
 68,"Conclave",2024,1239,15,https://letterboxd.com/film/conclave/,https://image.tmdb.org/t/p/w500/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
-69,"The Menu",2022,1238,15,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
-70,"No Country For Old Men",2007,1236,15,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
-71,"Princess Mononoke",1997,1236,15,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
-72,"Moonlight",2016,1235,15,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
-73,"1917",2019,1234,15,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
-74,"The Great Dictator",1940,1234,15,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
-75,"Shrek 2",2004,1233,15,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
-76,"The Imitation Game",2014,1232,15,https://letterboxd.com/film/the-imitation-game/,https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
-77,"The Prestige",2006,1231,15,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
+69,"No Country For Old Men",2007,1236,15,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
+70,"Princess Mononoke",1997,1236,15,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
+71,"Moonlight",2016,1235,15,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
+72,"1917",2019,1234,15,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
+73,"The Great Dictator",1940,1234,15,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
+74,"Shrek 2",2004,1233,15,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
+75,"The Imitation Game",2014,1232,15,https://letterboxd.com/film/the-imitation-game/,https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
+76,"The Prestige",2006,1231,15,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
+77,"Kill Bill Vol. 1",2003,1229,16,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
 78,"Hidden Figures",2016,1229,15,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
 79,"Anora",2024,1228,15,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
 80,"Raiders of the Lost Ark",1981,1218,15,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
