@@ -9,7 +9,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 8,"The Lord of the Rings: The Two Towers",2002,1362,15,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
 9,"Pulp Fiction",1994,1361,15,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 10,"Whiplash",2014,1359,15,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
-11,"Good Will Hunting",1997,1352,14,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
+11,"Good Will Hunting",1997,1359,15,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
 12,"The Silence of the Lambs",1991,1345,15,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 13,"The Shawshank Redemption",1994,1345,15,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
 14,"Inglourious Basterds",2009,1333,15,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
@@ -175,13 +175,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 174,"Willy Wonka & the Chocolate Factory",1971,1119,15,https://letterboxd.com/film/willy-wonka-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
 175,"The Terminator",1984,1117,15,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
 176,"Steve Jobs",2015,1117,15,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
-177,"American Sniper",2014,1117,14,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
-178,"Ferris Bueller's Day Off",1986,1116,15,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
-179,"Limitless",2011,1116,15,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
-180,"The Devil Wears Prada",2006,1116,15,https://letterboxd.com/film/the-devil-wears-prada/,https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg
-181,"Civil War",2024,1114,15,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
-182,"Back to the Future Part III",1990,1113,15,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
-183,"Rocky",1976,1112,15,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
+177,"Ferris Bueller's Day Off",1986,1116,15,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
+178,"Limitless",2011,1116,15,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
+179,"The Devil Wears Prada",2006,1116,15,https://letterboxd.com/film/the-devil-wears-prada/,https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg
+180,"Civil War",2024,1114,15,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
+181,"Back to the Future Part III",1990,1113,15,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
+182,"Rocky",1976,1112,15,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
+183,"American Sniper",2014,1110,15,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
 184,"Inside Out 2",2024,1110,15,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
 185,"Star Wars: Episode VII - The Force Awakens",2015,1109,15,https://letterboxd.com/film/star-wars-episode-vii-the-force-awakens/,https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
 186,"Knives Out",2019,1109,15,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
