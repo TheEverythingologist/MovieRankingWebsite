@@ -260,16 +260,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 259,"Revenge of the Nerds",1984,1038,15,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
 260,"Hoodwinked!",2005,1038,15,https://letterboxd.com/film/hoodwinked/,https://image.tmdb.org/t/p/w500/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg
 261,"Eraserhead",1977,1037,14,https://letterboxd.com/film/eraserhead/,https://image.tmdb.org/t/p/w500/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg
-262,"Doctor Strange",2016,1035,14,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
-263,"Pacific Rim",2013,1034,14,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
-264,"Real Steel",2011,1034,15,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
-265,"Tremors",1990,1034,15,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
-266,"Onward",2020,1033,15,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
-267,"Harry Potter and the Goblet of Fire",2005,1033,15,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/,https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg
-268,"The Great Gatsby",2013,1033,15,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
-269,"The Lego Ninjago Movie",2017,1031,14,https://letterboxd.com/film/the-lego-ninjago-movie/,https://image.tmdb.org/t/p/w500/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg
-270,"Big Hero 6",2014,1029,15,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-271,"Tarzan",1999,1029,14,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
+262,"Tarzan",1999,1037,15,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
+263,"Doctor Strange",2016,1035,14,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
+264,"Pacific Rim",2013,1034,14,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
+265,"Real Steel",2011,1034,15,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
+266,"Tremors",1990,1034,15,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
+267,"Onward",2020,1033,15,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
+268,"Harry Potter and the Goblet of Fire",2005,1033,15,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/,https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg
+269,"The Great Gatsby",2013,1033,15,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
+270,"The Lego Ninjago Movie",2017,1031,14,https://letterboxd.com/film/the-lego-ninjago-movie/,https://image.tmdb.org/t/p/w500/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg
+271,"Big Hero 6",2014,1029,15,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
 272,"Over the Hedge",2006,1028,15,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
 273,"Final Destination 2",2003,1027,15,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
 274,"Big Fish",2003,1027,15,https://letterboxd.com/film/big-fish/,https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg
@@ -464,13 +464,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 463,"The Waterboy",1998,855,14,https://letterboxd.com/film/the-waterboy/,https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg
 464,"Superman Returns",2006,854,14,https://letterboxd.com/film/superman-returns/,https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg
 465,"Shanghai Knights",2003,851,14,https://letterboxd.com/film/shanghai-knights/,https://image.tmdb.org/t/p/w500/vVNQStMlZS9mn2AKBEpadRunHgt.jpg
-466,"Diary of a Wimpy Kid",2010,850,14,https://letterboxd.com/film/diary-of-a-wimpy-kid/,https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg
-467,"Ice Age: Continental Drift",2012,849,15,https://letterboxd.com/film/ice-age-continental-drift/,https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg
-468,"The Human Centipede (First Sequence)",2009,848,20,https://letterboxd.com/film/the-human-centipede-first-sequence/,https://image.tmdb.org/t/p/w500/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg
-469,"Horton Hears a Who!",2008,845,15,https://letterboxd.com/film/horton-hears-a-who-2008/,https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg
-470,"Fantastic Four",2005,845,14,https://letterboxd.com/film/fantastic-four-2005/,https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg
-471,"Alice in Wonderland",2010,845,15,https://letterboxd.com/film/alice-in-wonderland-2010/,https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg
-472,"Harry Potter and the Chamber of Secrets",2002,844,14,https://letterboxd.com/film/harry-potter-and-the-chamber-of-secrets/,https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg
+466,"Ice Age: Continental Drift",2012,849,15,https://letterboxd.com/film/ice-age-continental-drift/,https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg
+467,"The Human Centipede (First Sequence)",2009,848,20,https://letterboxd.com/film/the-human-centipede-first-sequence/,https://image.tmdb.org/t/p/w500/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg
+468,"Horton Hears a Who!",2008,845,15,https://letterboxd.com/film/horton-hears-a-who-2008/,https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg
+469,"Fantastic Four",2005,845,14,https://letterboxd.com/film/fantastic-four-2005/,https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg
+470,"Alice in Wonderland",2010,845,15,https://letterboxd.com/film/alice-in-wonderland-2010/,https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg
+471,"Harry Potter and the Chamber of Secrets",2002,844,14,https://letterboxd.com/film/harry-potter-and-the-chamber-of-secrets/,https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg
+472,"Diary of a Wimpy Kid",2010,842,15,https://letterboxd.com/film/diary-of-a-wimpy-kid/,https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg
 473,"We're the Millers",2013,842,15,https://letterboxd.com/film/were-the-millers/,https://image.tmdb.org/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg
 474,"Flamin' Hot",2023,840,14,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
 475,"Lilo & Stitch 2: Stitch Has a Glitch",2005,840,15,https://letterboxd.com/film/lilo-stitch-2-stitch-has-a-glitch/,https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg
