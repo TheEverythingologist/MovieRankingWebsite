@@ -22,15 +22,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 21,"Arrival",2016,1313,15,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
 22,"The Big Short",2015,1312,14,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 23,"American Psycho",2000,1311,15,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
-24,"The Martian",2015,1309,14,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
-25,"Saving Private Ryan",1998,1308,15,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
-26,"La La Land",2016,1308,15,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
-27,"The Godfather Part II",1974,1306,14,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
-28,"WALL-E",2008,1306,14,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
-29,"Scott Pilgrim vs. The World",2010,1306,15,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
-30,"The Lord of the Rings: The Fellowship of the Ring",2001,1304,14,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
-31,"Joker",2019,1299,15,https://letterboxd.com/film/joker-2019/,https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
-32,"Star Wars: Episode IV - A New Hope",1977,1299,14,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
+24,"Star Wars: Episode IV - A New Hope",1977,1311,15,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
+25,"The Martian",2015,1309,14,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+26,"Saving Private Ryan",1998,1308,15,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
+27,"La La Land",2016,1308,15,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+28,"The Godfather Part II",1974,1306,14,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+29,"WALL-E",2008,1306,14,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
+30,"Scott Pilgrim vs. The World",2010,1306,15,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
+31,"The Lord of the Rings: The Fellowship of the Ring",2001,1304,14,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+32,"Joker",2019,1299,15,https://letterboxd.com/film/joker-2019/,https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
 33,"Spider-Man: Into the Spider-verse",2018,1299,14,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
 34,"Your Name",2016,1297,15,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
 35,"A Quiet Place",2018,1296,14,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
@@ -87,14 +87,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 86,"The Lego Movie",2014,1216,15,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
 87,"How to Train Your Dragon",2010,1216,15,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg
 88,"Wicked",2024,1216,15,https://letterboxd.com/film/wicked-2024/,https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg
-89,"Jaws",1975,1215,14,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
-90,"Barbie",2023,1209,15,https://letterboxd.com/film/barbie/,https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg
-91,"The Wind Rises",2013,1209,15,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
-92,"Dead Poets' Society",1989,1208,15,https://letterboxd.com/film/dead-poets-society/,https://image.tmdb.org/t/p/w500/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg
-93,"Letters From Iwo Jima",2006,1208,15,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
-94,"The Holdovers",2023,1208,14,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
-95,"Alien",1979,1206,15,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
-96,"All Quiet on the Western Front",2022,1205,15,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+89,"Barbie",2023,1209,15,https://letterboxd.com/film/barbie/,https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg
+90,"The Wind Rises",2013,1209,15,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
+91,"Dead Poets' Society",1989,1208,15,https://letterboxd.com/film/dead-poets-society/,https://image.tmdb.org/t/p/w500/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg
+92,"Letters From Iwo Jima",2006,1208,15,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
+93,"The Holdovers",2023,1208,14,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
+94,"Alien",1979,1206,15,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
+95,"All Quiet on the Western Front",2022,1205,15,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+96,"Jaws",1975,1203,15,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
 97,"The Iron Giant",1999,1203,15,https://letterboxd.com/film/the-iron-giant/,https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg
 98,"Encanto",2021,1203,15,https://letterboxd.com/film/encanto/,https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
 99,"Jurassic Park",1993,1202,15,https://letterboxd.com/film/jurassic-park/,https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg
