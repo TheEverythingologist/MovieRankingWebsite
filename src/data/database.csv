@@ -6,8 +6,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 5,"The Lord of the Rings: The Return of the King",2003,1376,16,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
 6,"Schindler's List",1993,1376,16,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
 7,"The Empire Strikes Back",1980,1374,16,https://letterboxd.com/film/the-empire-strikes-back/,https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg
-8,"Good Will Hunting",1997,1365,16,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
-9,"Whiplash",2014,1359,15,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
+8,"Whiplash",2014,1372,16,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
+9,"Good Will Hunting",1997,1365,16,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
 10,"The Shawshank Redemption",1994,1358,16,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
 11,"Interstellar",2014,1354,16,https://letterboxd.com/film/interstellar/,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
 12,"The Lord of the Rings: The Two Towers",2002,1349,16,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
@@ -44,12 +44,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 43,"Monty Python and the Holy Grail",1975,1287,16,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
 44,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
 45,"Saw",2004,1286,16,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
-46,"Sinners",2025,1285,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
-47,"Puss in Boots: The Last Wish",2022,1280,16,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
-48,"Silver Linings Playbook",2012,1278,16,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
-49,"Full Metal Jacket",1987,1277,16,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-50,"Forrest Gump",1994,1276,16,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
-51,"Mad Max: Fury Road",2015,1273,16,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
+46,"Puss in Boots: The Last Wish",2022,1280,16,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
+47,"Silver Linings Playbook",2012,1278,16,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
+48,"Full Metal Jacket",1987,1277,16,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+49,"Forrest Gump",1994,1276,16,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
+50,"Mad Max: Fury Road",2015,1273,16,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
+51,"Sinners",2025,1272,17,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
 52,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1272,16,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
 53,"2001: A Space Odyssey",1968,1269,16,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
 54,"Midsommar",2019,1269,16,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
