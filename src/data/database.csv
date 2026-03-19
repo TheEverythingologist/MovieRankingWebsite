@@ -19,8 +19,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 18,"Arrival",2016,1330,16,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
 19,"The Silence of the Lambs",1991,1329,16,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 20,"Saving Private Ryan",1998,1323,16,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
-21,"The Godfather",1972,1321,15,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
-22,"Se7en",1995,1320,15,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+21,"Se7en",1995,1323,16,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+22,"The Godfather",1972,1321,15,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 23,"A Quiet Place",2018,1319,16,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 24,"La La Land",2016,1317,16,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
 25,"The Martian",2015,1317,16,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
@@ -384,10 +384,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 383,"Maleficent",2014,934,16,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
 384,"The Little Rascals",1994,933,16,https://letterboxd.com/film/the-little-rascals/,https://image.tmdb.org/t/p/w500/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg
 385,"Finding Dory",2016,933,16,https://letterboxd.com/film/finding-dory/,https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg
-386,"Space Jam",1996,932,15,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
-387,"Ted",2012,930,16,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
-388,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
-389,"Spiral: From the Book of Saw",2021,930,15,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
+386,"Ted",2012,930,16,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
+387,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
+388,"Spiral: From the Book of Saw",2021,930,15,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
+389,"Space Jam",1996,929,16,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
 390,"An Extremely Goofy Movie",2000,928,16,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
 391,"Hot Tub Time Machine",2010,926,16,https://letterboxd.com/film/hot-tub-time-machine/,https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg
 392,"Smart House",1999,924,16,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
