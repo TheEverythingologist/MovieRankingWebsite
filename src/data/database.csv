@@ -28,9 +28,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 27,"Spider-Man: Into the Spider-verse",2018,1315,15,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
 28,"American Psycho",2000,1311,15,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
 29,"Oppenheimer",2023,1310,16,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
-30,"The Godfather Part II",1974,1308,15,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
-31,"Your Name",2016,1308,16,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
-32,"Scott Pilgrim vs. The World",2010,1306,15,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
+30,"Scott Pilgrim vs. The World",2010,1309,16,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
+31,"The Godfather Part II",1974,1308,15,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+32,"Your Name",2016,1308,16,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
 33,"WALL-E",2008,1302,16,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 34,"Joker",2019,1299,15,https://letterboxd.com/film/joker-2019/,https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
 35,"Eternal Sunshine of the Spotless Mind",2004,1296,16,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
@@ -420,12 +420,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 419,"High School Musical",2006,907,16,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
 420,"Thor: The Dark World",2013,907,16,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
 421,"Star Wars: Episode II - Attack of the Clones",2002,902,16,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
-422,"Spy Kids",2001,902,15,https://letterboxd.com/film/spy-kids/,https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg
-423,"Madagascar",2005,902,16,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
-424,"Monster House",2006,902,16,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
-425,"Robin Hood",1973,901,16,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
-426,"My Girl",1991,901,16,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
-427,"Christopher Robin",2018,900,16,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
+422,"Madagascar",2005,902,16,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
+423,"Monster House",2006,902,16,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
+424,"Robin Hood",1973,901,16,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
+425,"My Girl",1991,901,16,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
+426,"Christopher Robin",2018,900,16,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
+427,"Spy Kids",2001,899,16,https://letterboxd.com/film/spy-kids/,https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg
 428,"National Treasure: Book of Secrets",2007,898,16,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
 429,"Spider-Man 3",2007,896,16,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
 430,"High School Musical 3: Senior Year",2008,895,16,https://letterboxd.com/film/high-school-musical-3-senior-year/,https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg
