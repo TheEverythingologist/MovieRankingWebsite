@@ -6,8 +6,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 5,"The Lord of the Rings: The Return of the King",2003,1376,16,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
 6,"Schindler's List",1993,1376,16,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
 7,"The Empire Strikes Back",1980,1372,15,https://letterboxd.com/film/the-empire-strikes-back/,https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg
-8,"Whiplash",2014,1359,15,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
-9,"Good Will Hunting",1997,1359,15,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
+8,"Good Will Hunting",1997,1365,16,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
+9,"Whiplash",2014,1359,15,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 10,"The Shawshank Redemption",1994,1358,16,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
 11,"Interstellar",2014,1354,16,https://letterboxd.com/film/interstellar/,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
 12,"The Lord of the Rings: The Two Towers",2002,1349,16,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
@@ -196,14 +196,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 195,"Inside Out 2",2024,1097,16,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
 196,"Wreck-It Ralph",2012,1097,16,https://letterboxd.com/film/wreck-it-ralph/,https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg
 197,"Ghostbusters",1984,1096,15,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
-198,"Black Panther",2018,1096,15,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
-199,"Zootopia",2016,1094,16,https://letterboxd.com/film/zootopia/,https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
-200,"Star Wars: Episode VII - The Force Awakens",2015,1094,16,https://letterboxd.com/film/star-wars-episode-vii-the-force-awakens/,https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
-201,"Men in Black",1997,1093,16,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
-202,"Caddyshack",1980,1092,16,https://letterboxd.com/film/caddyshack/,https://image.tmdb.org/t/p/w500/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg
-203,"Lilo & Stitch",2002,1092,16,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
-204,"Zootopia 2",2025,1092,16,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
-205,"The King's Speech",2010,1091,16,https://letterboxd.com/film/the-kings-speech/,https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg
+198,"Zootopia",2016,1094,16,https://letterboxd.com/film/zootopia/,https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
+199,"Star Wars: Episode VII - The Force Awakens",2015,1094,16,https://letterboxd.com/film/star-wars-episode-vii-the-force-awakens/,https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
+200,"Men in Black",1997,1093,16,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
+201,"Caddyshack",1980,1092,16,https://letterboxd.com/film/caddyshack/,https://image.tmdb.org/t/p/w500/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg
+202,"Lilo & Stitch",2002,1092,16,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
+203,"Zootopia 2",2025,1092,16,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
+204,"The King's Speech",2010,1091,16,https://letterboxd.com/film/the-kings-speech/,https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg
+205,"Black Panther",2018,1090,16,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
 206,"The Princess and the Frog",2009,1088,16,https://letterboxd.com/film/the-princess-and-the-frog/,https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg
 207,"Gifted",2017,1087,16,https://letterboxd.com/film/gifted-2017/,https://image.tmdb.org/t/p/w500/9Ts7Vc4wLlpI9oox9mkVUE1tBHy.jpg
 208,"Bridge of Spies",2015,1087,15,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
