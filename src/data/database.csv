@@ -153,45 +153,45 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 152,"Moana",2016,1145,17,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
 153,"Brooklyn",2015,1144,16,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
 154,"The Death of Stalin",2017,1140,16,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
-155,"The Batman",2022,1139,16,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
-156,"The Terminator",1984,1137,16,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
-157,"Kingsman: The Secret Service",2014,1136,16,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
-158,"American Sniper",2014,1136,17,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
-159,"Aladdin",1992,1135,16,https://letterboxd.com/film/aladdin/,https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg
-160,"Captain America: The Winter Soldier",2014,1134,16,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
-161,"Iron Man",2008,1134,16,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
-162,"Back to the Future Part III",1990,1129,16,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
-163,"Rocky",1976,1128,16,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
-164,"Glass Onion: A Knives Out Mystery",2022,1127,16,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
-165,"Up",2009,1126,16,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
-166,"WarGames",1983,1126,16,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
-167,"Office Space",1999,1124,16,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
-168,"Deadpool",2016,1124,16,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
-169,"Thor: Ragnarok",2017,1124,16,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
-170,"Knives Out",2019,1124,16,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
-171,"Frankenstein",2025,1124,8,https://letterboxd.com/film/frankenstein-2025/,https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg
+155,"Frankenstein",2025,1140,9,https://letterboxd.com/film/frankenstein-2025/,https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg
+156,"The Batman",2022,1139,16,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
+157,"The Terminator",1984,1137,16,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+158,"Kingsman: The Secret Service",2014,1136,16,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
+159,"American Sniper",2014,1136,17,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
+160,"Aladdin",1992,1135,16,https://letterboxd.com/film/aladdin/,https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg
+161,"Captain America: The Winter Soldier",2014,1134,16,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
+162,"Iron Man",2008,1134,16,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
+163,"Back to the Future Part III",1990,1129,16,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
+164,"Rocky",1976,1128,16,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
+165,"Glass Onion: A Knives Out Mystery",2022,1127,16,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
+166,"Up",2009,1126,16,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
+167,"WarGames",1983,1126,16,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
+168,"Office Space",1999,1124,16,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
+169,"Deadpool",2016,1124,16,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
+170,"Thor: Ragnarok",2017,1124,16,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
+171,"Knives Out",2019,1124,16,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
 172,"The Breakfast Club",1985,1121,16,https://letterboxd.com/film/the-breakfast-club/,https://image.tmdb.org/t/p/w500/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg
 173,"Chicago",2002,1121,17,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
 174,"The Tree of Life",2011,1116,16,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
-175,"Hoppers",2026,1115,16,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
-176,"Isle of Dogs",2018,1115,16,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-177,"Airplane!",1980,1113,16,https://letterboxd.com/film/airplane/,https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg
-178,"Molly's Game",2017,1111,17,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
-179,"John Wick",2014,1111,16,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
-180,"Casino Royale",2006,1109,16,https://letterboxd.com/film/casino-royale-2006/,https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg
-181,"Kung Fu Panda 2",2011,1107,16,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
-182,"Ferris Bueller's Day Off",1986,1105,16,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
-183,"Sonic the Hedgehog 3",2024,1105,16,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
-184,"Avatar: The Way of Water",2022,1105,16,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
-185,"Captain America: Civil War",2016,1104,17,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
-186,"Limitless",2011,1104,16,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
-187,"Spider-Man: No Way Home",2021,1104,16,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
-188,"Megamind",2010,1104,16,https://letterboxd.com/film/megamind/,https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg
-189,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1104,16,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
-190,"The Devil Wears Prada",2006,1103,17,https://letterboxd.com/film/the-devil-wears-prada/,https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg
-191,"Willy Wonka & the Chocolate Factory",1971,1103,16,https://letterboxd.com/film/willy-wonka-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
-192,"Guardians of the Galaxy: Volume 2",2017,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy-volume-2/,https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
-193,"Guardians of the Galaxy",2014,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
+175,"Isle of Dogs",2018,1115,16,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+176,"Airplane!",1980,1113,16,https://letterboxd.com/film/airplane/,https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg
+177,"Molly's Game",2017,1111,17,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
+178,"John Wick",2014,1111,16,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
+179,"Casino Royale",2006,1109,16,https://letterboxd.com/film/casino-royale-2006/,https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg
+180,"Kung Fu Panda 2",2011,1107,16,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
+181,"Ferris Bueller's Day Off",1986,1105,16,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
+182,"Sonic the Hedgehog 3",2024,1105,16,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
+183,"Avatar: The Way of Water",2022,1105,16,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+184,"Captain America: Civil War",2016,1104,17,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
+185,"Limitless",2011,1104,16,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
+186,"Spider-Man: No Way Home",2021,1104,16,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
+187,"Megamind",2010,1104,16,https://letterboxd.com/film/megamind/,https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg
+188,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1104,16,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
+189,"The Devil Wears Prada",2006,1103,17,https://letterboxd.com/film/the-devil-wears-prada/,https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg
+190,"Willy Wonka & the Chocolate Factory",1971,1103,16,https://letterboxd.com/film/willy-wonka-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
+191,"Guardians of the Galaxy: Volume 2",2017,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy-volume-2/,https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
+192,"Guardians of the Galaxy",2014,1101,16,https://letterboxd.com/film/guardians-of-the-galaxy/,https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
+193,"Hoppers",2026,1099,17,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
 194,"Civil War",2024,1098,16,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
 195,"Inside Out 2",2024,1097,16,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
 196,"Wreck-It Ralph",2012,1097,16,https://letterboxd.com/film/wreck-it-ralph/,https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg
