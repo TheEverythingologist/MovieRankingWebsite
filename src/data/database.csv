@@ -39,13 +39,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 38,"Star Wars: Episode IV - A New Hope",1977,1295,16,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
 39,"Terminator 2: Judgment Day",1991,1295,16,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
 40,"Everything Everywhere All At Once",2022,1294,16,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
-41,"Spirited Away",2001,1288,16,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
-42,"Inception",2010,1288,16,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
-43,"Monty Python and the Holy Grail",1975,1287,16,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
-44,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
-45,"Saw",2004,1286,16,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
-46,"Puss in Boots: The Last Wish",2022,1280,16,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
-47,"Silver Linings Playbook",2012,1278,16,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
+41,"Silver Linings Playbook",2012,1290,17,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
+42,"Spirited Away",2001,1288,16,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
+43,"Inception",2010,1288,16,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
+44,"Monty Python and the Holy Grail",1975,1287,16,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
+45,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
+46,"Saw",2004,1286,16,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
+47,"Puss in Boots: The Last Wish",2022,1280,16,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
 48,"Full Metal Jacket",1987,1277,16,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
 49,"Forrest Gump",1994,1276,16,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
 50,"Mad Max: Fury Road",2015,1273,16,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
@@ -108,17 +108,17 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 107,"The Wind Rises",2013,1191,16,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
 108,"Million Dollar Baby",2004,1191,16,https://letterboxd.com/film/million-dollar-baby/,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
 109,"The Disaster Artist",2017,1190,16,https://letterboxd.com/film/the-disaster-artist/,https://image.tmdb.org/t/p/w500/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg
-110,"Shrek",2001,1190,16,https://letterboxd.com/film/shrek/,https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
-111,"Jaws",1975,1189,16,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
-112,"Letters From Iwo Jima",2006,1188,16,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
-113,"Whisper of the Heart",1995,1188,16,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
-114,"Jojo Rabbit",2019,1186,16,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
-115,"The Iron Giant",1999,1185,16,https://letterboxd.com/film/the-iron-giant/,https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg
-116,"Toy Story 2",1999,1184,16,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
-117,"Little Women",2019,1183,16,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
-118,"Spotlight",2015,1181,16,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
-119,"Kill Bill Vol. 2",2004,1180,16,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
-120,"Toy Story 3",2010,1179,16,https://letterboxd.com/film/toy-story-3/,https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg
+110,"Jaws",1975,1189,16,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
+111,"Letters From Iwo Jima",2006,1188,16,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
+112,"Whisper of the Heart",1995,1188,16,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
+113,"Jojo Rabbit",2019,1186,16,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
+114,"The Iron Giant",1999,1185,16,https://letterboxd.com/film/the-iron-giant/,https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg
+115,"Toy Story 2",1999,1184,16,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
+116,"Little Women",2019,1183,16,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
+117,"Spotlight",2015,1181,16,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
+118,"Kill Bill Vol. 2",2004,1180,16,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+119,"Toy Story 3",2010,1179,16,https://letterboxd.com/film/toy-story-3/,https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg
+120,"Shrek",2001,1178,17,https://letterboxd.com/film/shrek/,https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
 121,"Akira",1988,1178,16,https://letterboxd.com/film/akira/,https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg
 122,"The Revenant",2015,1175,16,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
 123,"Argo",2012,1175,16,https://letterboxd.com/film/argo/,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
