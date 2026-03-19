@@ -58,9 +58,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 57,"The Dark Knight Rises",2012,1261,16,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
 58,"Fight Club",1999,1259,16,https://letterboxd.com/film/fight-club/,https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg
 59,"Poor Things",2023,1259,16,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
-60,"Mulan",1998,1256,16,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
-61,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
-62,"The Banshees of Inisherin",2022,1250,15,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
+60,"The Banshees of Inisherin",2022,1257,16,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
+61,"Mulan",1998,1256,16,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
+62,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
 63,"Citizen Kane",1941,1249,16,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 64,"One Battle After Another",2025,1249,16,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
 65,"1917",2019,1249,16,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
@@ -258,14 +258,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 257,"The Right Stuff",1983,1043,16,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
 258,"Iron Lung",2026,1042,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
 259,"Final Destination 2",2003,1041,16,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
-260,"Robots",2005,1039,15,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
-261,"Pirates of the Caribbean: Dead Man's Chest",2006,1038,16,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg
-262,"Frozen",2013,1037,16,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
-263,"Pacific Rim",2013,1037,16,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
-264,"Harry Potter and the Half-Blood Prince",2009,1036,16,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
-265,"The Super Mario Bros. Movie",2023,1035,16,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
-266,"Ant-Man",2015,1035,16,https://letterboxd.com/film/ant-man/,https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg
-267,"Revenge of the Nerds",1984,1033,16,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
+260,"Pirates of the Caribbean: Dead Man's Chest",2006,1038,16,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg
+261,"Frozen",2013,1037,16,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
+262,"Pacific Rim",2013,1037,16,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
+263,"Harry Potter and the Half-Blood Prince",2009,1036,16,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
+264,"The Super Mario Bros. Movie",2023,1035,16,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
+265,"Ant-Man",2015,1035,16,https://letterboxd.com/film/ant-man/,https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg
+266,"Revenge of the Nerds",1984,1033,16,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
+267,"Robots",2005,1032,16,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
 268,"Arthur Christmas",2011,1030,16,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
 269,"The Lego Ninjago Movie",2017,1029,16,https://letterboxd.com/film/the-lego-ninjago-movie/,https://image.tmdb.org/t/p/w500/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg
 270,"Mrs. Doubtfire",1993,1027,16,https://letterboxd.com/film/mrs-doubtfire/,https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg
