@@ -57,9 +57,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 56,"The Dark Knight Rises",2012,1261,16,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
 57,"Fight Club",1999,1259,16,https://letterboxd.com/film/fight-club/,https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg
 58,"Poor Things",2023,1259,16,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
-59,"Midsommar",2019,1255,15,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
-60,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
-61,"Mulan",1998,1251,15,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
+59,"Mulan",1998,1256,16,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
+60,"Midsommar",2019,1255,15,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
+61,"The Menu",2022,1254,16,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
 62,"The Banshees of Inisherin",2022,1250,15,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
 63,"Citizen Kane",1941,1249,16,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 64,"One Battle After Another",2025,1249,16,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
@@ -358,8 +358,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 357,"Star Wars: Episode I - The Phantom Menace",1999,959,16,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
 358,"Peter Pan",1953,959,16,https://letterboxd.com/film/peter-pan/,https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg
 359,"The Mask",1994,958,16,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
-360,"Frozen 2",2019,958,15,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
-361,"Star Wars: Episode VIII - The Last Jedi",2017,958,16,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+360,"Star Wars: Episode VIII - The Last Jedi",2017,958,16,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+361,"Frozen 2",2019,953,16,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
 362,"The Peanuts Movie",2015,953,16,https://letterboxd.com/film/the-peanuts-movie/,https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg
 363,"I, Robot",2004,950,16,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
 364,"The Sword in the Stone",1963,949,16,https://letterboxd.com/film/the-sword-in-the-stone/,https://image.tmdb.org/t/p/w500/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg
