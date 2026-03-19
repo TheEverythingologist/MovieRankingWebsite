@@ -20,7 +20,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 19,"The Silence of the Lambs",1991,1329,16,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 20,"Saving Private Ryan",1998,1323,16,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
 21,"Se7en",1995,1323,16,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
-22,"The Godfather",1972,1321,15,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+22,"The Godfather",1972,1323,16,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 23,"A Quiet Place",2018,1319,16,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 24,"The Lord of the Rings: The Fellowship of the Ring",2001,1318,16,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
 25,"La La Land",2016,1317,16,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
@@ -503,8 +503,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 502,"Jurassic World: Fallen Kingdom",2018,810,16,https://letterboxd.com/film/jurassic-world-fallen-kingdom/,https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg
 503,"The Ant Bully",2006,809,16,https://letterboxd.com/film/the-ant-bully/,https://image.tmdb.org/t/p/w500/oFuqX0inTvbA1XAFv2x3CQnI65m.jpg
 504,"Twilight",2008,809,16,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
-505,"The Fault in Our Stars",2014,808,15,https://letterboxd.com/film/the-fault-in-our-stars/,https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg
-506,"Wizards of Waverly Place: The Movie",2009,807,16,https://letterboxd.com/film/wizards-of-waverly-place-the-movie/,https://image.tmdb.org/t/p/w500/vrjLcGBLurVem5lXN8237qz4tyE.jpg
+505,"Wizards of Waverly Place: The Movie",2009,807,16,https://letterboxd.com/film/wizards-of-waverly-place-the-movie/,https://image.tmdb.org/t/p/w500/vrjLcGBLurVem5lXN8237qz4tyE.jpg
+506,"The Fault in Our Stars",2014,806,16,https://letterboxd.com/film/the-fault-in-our-stars/,https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg
 507,"Girl vs. Monster",2012,806,16,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
 508,"Cars 2",2011,805,16,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
 509,"The Ultimate Christmas Present",2000,805,16,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
