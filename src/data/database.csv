@@ -39,8 +39,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 38,"WALL-E",2008,1290,15,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 39,"Everything Everywhere All At Once",2022,1289,15,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
 40,"Spirited Away",2001,1288,16,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
-41,"Monty Python and the Holy Grail",1975,1287,16,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
-42,"Inception",2010,1286,15,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
+41,"Inception",2010,1288,16,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
+42,"Monty Python and the Holy Grail",1975,1287,16,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
 43,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
 44,"Saw",2004,1286,16,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
 45,"Sinners",2025,1285,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
@@ -480,9 +480,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 479,"Horton Hears a Who!",2008,835,16,https://letterboxd.com/film/horton-hears-a-who-2008/,https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg
 480,"Alice in Wonderland",2010,834,16,https://letterboxd.com/film/alice-in-wonderland-2010/,https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg
 481,"Lady and the Tramp",2019,832,16,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg
-482,"Return to Never Land",2002,831,15,https://letterboxd.com/film/return-to-never-land/,https://image.tmdb.org/t/p/w500/wB3r2b8sxUZspqNyr8copMlt7se.jpg
-483,"Ice Age: Continental Drift",2012,830,16,https://letterboxd.com/film/ice-age-continental-drift/,https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg
-484,"Jungle Cruise",2021,830,16,https://letterboxd.com/film/jungle-cruise/,https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg
+482,"Ice Age: Continental Drift",2012,830,16,https://letterboxd.com/film/ice-age-continental-drift/,https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg
+483,"Jungle Cruise",2021,830,16,https://letterboxd.com/film/jungle-cruise/,https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg
+484,"Return to Never Land",2002,829,16,https://letterboxd.com/film/return-to-never-land/,https://image.tmdb.org/t/p/w500/wB3r2b8sxUZspqNyr8copMlt7se.jpg
 485,"Camp Rock",2008,829,16,https://letterboxd.com/film/camp-rock/,https://image.tmdb.org/t/p/w500/7IXMqZnwccogptThay3togKIFWw.jpg
 486,"Oz the Great and Powerful",2013,826,15,https://letterboxd.com/film/oz-the-great-and-powerful/,https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg
 487,"Shark Tale",2004,824,16,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
