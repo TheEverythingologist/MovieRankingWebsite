@@ -386,14 +386,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 385,"Hotel Transylvania",2012,935,17,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
 386,"Annie",1982,935,17,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
 387,"Dr. Dolittle",1998,932,17,https://letterboxd.com/film/dr-dolittle/,https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg
-388,"I'm Totally Fine",2022,931,17,https://letterboxd.com/film/im-totally-fine/,https://image.tmdb.org/t/p/w500/4eCfOPqoE5ezwQCgVGQszwlxdJh.jpg
-389,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
-390,"Miss Congeniality",2000,930,17,https://letterboxd.com/film/miss-congeniality/,https://image.tmdb.org/t/p/w500/pat3vKaRlB70he4ghwTMydR4TvP.jpg
-391,"300",2006,928,17,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
-392,"The Greatest Showman",2017,927,17,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
-393,"The Day After Tomorrow",2004,927,17,https://letterboxd.com/film/the-day-after-tomorrow/,https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg
-394,"Ace Ventura: Pet Detective",1994,927,17,https://letterboxd.com/film/ace-ventura-pet-detective/,https://image.tmdb.org/t/p/w500/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg
-395,"Hot Tub Time Machine",2010,926,16,https://letterboxd.com/film/hot-tub-time-machine/,https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg
+388,"Hot Tub Time Machine",2010,932,17,https://letterboxd.com/film/hot-tub-time-machine/,https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg
+389,"I'm Totally Fine",2022,931,17,https://letterboxd.com/film/im-totally-fine/,https://image.tmdb.org/t/p/w500/4eCfOPqoE5ezwQCgVGQszwlxdJh.jpg
+390,"Chronicles of Narnia: Prince Caspian",2008,930,16,https://letterboxd.com/film/the-chronicles-of-narnia-prince-caspian/,https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg
+391,"Miss Congeniality",2000,930,17,https://letterboxd.com/film/miss-congeniality/,https://image.tmdb.org/t/p/w500/pat3vKaRlB70he4ghwTMydR4TvP.jpg
+392,"300",2006,928,17,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
+393,"The Greatest Showman",2017,927,17,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
+394,"The Day After Tomorrow",2004,927,17,https://letterboxd.com/film/the-day-after-tomorrow/,https://image.tmdb.org/t/p/w500/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg
+395,"Ace Ventura: Pet Detective",1994,927,17,https://letterboxd.com/film/ace-ventura-pet-detective/,https://image.tmdb.org/t/p/w500/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg
 396,"Spiral: From the Book of Saw",2021,925,16,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
 397,"World War Z",2013,925,17,https://letterboxd.com/film/world-war-z/,https://image.tmdb.org/t/p/w500/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg
 398,"Ice Age: The Meltdown",2006,924,17,https://letterboxd.com/film/ice-age-the-meltdown/,https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg
@@ -606,9 +606,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 605,"Ride Along",2014,673,17,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
 606,"Pixels",2015,669,16,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
 607,"Teen Beach Movie",2013,668,17,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
-608,"Twitches",2005,662,16,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
-609,"Tooth Fairy 2",2012,662,16,https://letterboxd.com/film/tooth-fairy-2/,https://image.tmdb.org/t/p/w500/oIkcTCUdvc5fDyG2IxdCd26hRQ7.jpg
-610,"After Earth",2013,658,16,https://letterboxd.com/film/after-earth/,https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg
+608,"Tooth Fairy 2",2012,662,16,https://letterboxd.com/film/tooth-fairy-2/,https://image.tmdb.org/t/p/w500/oIkcTCUdvc5fDyG2IxdCd26hRQ7.jpg
+609,"After Earth",2013,658,16,https://letterboxd.com/film/after-earth/,https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg
+610,"Twitches",2005,656,17,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
 611,"Ramona and Beezus",2010,656,16,https://letterboxd.com/film/ramona-and-beezus/,https://image.tmdb.org/t/p/w500/bW1YWFyocIY8DDgwOUroZG2FYNe.jpg
 612,"Beverly Hills Chihuahua 2",2011,652,16,https://letterboxd.com/film/beverly-hills-chihuahua-2/,https://image.tmdb.org/t/p/w500/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg
 613,"Fireheart",2022,649,17,https://letterboxd.com/film/fireheart/,https://image.tmdb.org/t/p/w500/vYAUgsoel6slydF6y4NCPLW96ah.jpg
