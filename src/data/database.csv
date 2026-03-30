@@ -15,7 +15,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 14,"The Big Short",2015,1349,17,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 15,"The Silence of the Lambs",1991,1343,17,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 16,"Lady Bird",2017,1342,17,https://letterboxd.com/film/lady-bird/,https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg
-17,"Inglourious Basterds",2009,1335,16,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
+17,"Inglourious Basterds",2009,1340,17,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
 18,"City of God",2002,1335,17,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
 19,"La La Land",2016,1332,17,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
 20,"American Psycho",2000,1331,17,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
@@ -255,12 +255,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 254,"Indiana Jones and the Temple of Doom",1984,1049,17,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
 255,"Atlantis: The Lost Empire",2001,1048,16,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
 256,"Final Destination",2000,1047,17,https://letterboxd.com/film/final-destination/,https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg
-257,"Big Hero 6",2014,1047,16,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-258,"Luca",2021,1046,17,https://letterboxd.com/film/luca-2021/,https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg
-259,"A Bug's Life",1998,1046,16,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
-260,"Robots",2005,1046,17,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
-261,"Stand and Deliver",1988,1045,17,https://letterboxd.com/film/stand-and-deliver/,https://image.tmdb.org/t/p/w500/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg
-262,"Free Guy",2021,1045,17,https://letterboxd.com/film/free-guy/,https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg
+257,"Luca",2021,1046,17,https://letterboxd.com/film/luca-2021/,https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg
+258,"A Bug's Life",1998,1046,16,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
+259,"Robots",2005,1046,17,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
+260,"Stand and Deliver",1988,1045,17,https://letterboxd.com/film/stand-and-deliver/,https://image.tmdb.org/t/p/w500/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg
+261,"Free Guy",2021,1045,17,https://letterboxd.com/film/free-guy/,https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg
+262,"Big Hero 6",2014,1042,17,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
 263,"Monsters University",2013,1042,17,https://letterboxd.com/film/monsters-university/,https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg
 264,"Doctor Strange",2016,1042,17,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
 265,"The Lego Batman Movie",2017,1039,17,https://letterboxd.com/film/the-lego-batman-movie/,https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg
