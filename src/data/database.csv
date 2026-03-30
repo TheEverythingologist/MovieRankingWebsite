@@ -501,16 +501,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 500,"We're the Millers",2013,815,17,https://letterboxd.com/film/were-the-millers/,https://image.tmdb.org/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg
 501,"Cats & Dogs",2001,815,16,https://letterboxd.com/film/cats-dogs/,https://image.tmdb.org/t/p/w500/wUWoat7L4vvQburQ8pVEJhRG9L5.jpg
 502,"The Game Plan",2007,815,17,https://letterboxd.com/film/the-game-plan/,https://image.tmdb.org/t/p/w500/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg
-503,"Meet Dave",2008,814,16,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
-504,"Flamin' Hot",2023,814,16,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
-505,"Jurassic World: Rebirth",2025,812,16,https://letterboxd.com/film/jurassic-world-rebirth/,https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg
-506,"Race to Witch Mountain",2009,812,17,https://letterboxd.com/film/race-to-witch-mountain/,https://image.tmdb.org/t/p/w500/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg
-507,"Wizards of Waverly Place: The Movie",2009,807,16,https://letterboxd.com/film/wizards-of-waverly-place-the-movie/,https://image.tmdb.org/t/p/w500/vrjLcGBLurVem5lXN8237qz4tyE.jpg
-508,"Girl vs. Monster",2012,806,16,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
-509,"Cars 2",2011,805,16,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
-510,"The Ultimate Christmas Present",2000,805,16,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
-511,"Shark Tale",2004,804,17,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
-512,"Home on the Range",2004,804,16,https://letterboxd.com/film/home-on-the-range/,https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg
+503,"Home on the Range",2004,815,17,https://letterboxd.com/film/home-on-the-range/,https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg
+504,"Meet Dave",2008,814,16,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
+505,"Flamin' Hot",2023,814,16,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
+506,"Jurassic World: Rebirth",2025,812,16,https://letterboxd.com/film/jurassic-world-rebirth/,https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg
+507,"Race to Witch Mountain",2009,812,17,https://letterboxd.com/film/race-to-witch-mountain/,https://image.tmdb.org/t/p/w500/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg
+508,"Wizards of Waverly Place: The Movie",2009,807,16,https://letterboxd.com/film/wizards-of-waverly-place-the-movie/,https://image.tmdb.org/t/p/w500/vrjLcGBLurVem5lXN8237qz4tyE.jpg
+509,"Girl vs. Monster",2012,806,16,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
+510,"Cars 2",2011,805,16,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
+511,"The Ultimate Christmas Present",2000,805,16,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
+512,"Shark Tale",2004,804,17,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
 513,"Legally Blonde",2001,804,16,https://letterboxd.com/film/legally-blonde/,https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg
 514,"Diary of a Wimpy Kid",2010,802,17,https://letterboxd.com/film/diary-of-a-wimpy-kid/,https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg
 515,"Sing 2",2021,802,16,https://letterboxd.com/film/sing-2/,https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg
@@ -595,13 +595,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 594,"Santa Buddies",2009,698,16,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
 595,"Zookeeper",2011,696,17,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
 596,"Pitch Perfect",2012,693,16,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
-597,"Grown Ups 2",2013,691,16,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
-598,"Avalon High",2010,689,16,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
-599,"Teen Beach Movie",2013,685,16,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
-600,"The Boss Baby: Family Business",2021,685,16,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
-601,"Ride Along",2014,685,16,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
-602,"Space Buddies",2009,685,16,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
-603,"Dadnapped",2009,681,17,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
+597,"Avalon High",2010,689,16,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
+598,"Teen Beach Movie",2013,685,16,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
+599,"The Boss Baby: Family Business",2021,685,16,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
+600,"Ride Along",2014,685,16,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
+601,"Space Buddies",2009,685,16,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
+602,"Dadnapped",2009,681,17,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
+603,"Grown Ups 2",2013,680,17,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
 604,"Hop",2011,680,16,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
 605,"The Little Mermaid II: Return to the Sea",2000,674,16,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
 606,"Pixels",2015,669,16,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
