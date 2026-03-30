@@ -363,18 +363,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 362,"The Mask",1994,958,16,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
 363,"Star Wars: Episode VIII - The Last Jedi",2017,958,16,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
 364,"21",2008,957,17,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
-365,"Bolt",2008,955,17,https://letterboxd.com/film/bolt/,https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg
-366,"Frozen 2",2019,953,16,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
-367,"The Peanuts Movie",2015,953,16,https://letterboxd.com/film/the-peanuts-movie/,https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg
-368,"The Parent Trap",1998,953,17,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
-369,"I, Robot",2004,950,16,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
-370,"Hotel Transylvania",2012,950,16,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
-371,"Thor",2011,950,17,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
-372,"The Hunger Games: Mockingjay Part 2",2015,949,16,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
-373,"The Amazing Spider-Man",2012,948,16,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
-374,"Space Jam",1996,948,17,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
-375,"Star Wars: Episode I - The Phantom Menace",1999,946,17,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
-376,"The Hobbit: The Desolation of Smaug",2013,944,16,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg
+365,"The Hobbit: The Desolation of Smaug",2013,957,17,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg
+366,"Bolt",2008,955,17,https://letterboxd.com/film/bolt/,https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg
+367,"Frozen 2",2019,953,16,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
+368,"The Peanuts Movie",2015,953,16,https://letterboxd.com/film/the-peanuts-movie/,https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg
+369,"The Parent Trap",1998,953,17,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
+370,"I, Robot",2004,950,16,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
+371,"Hotel Transylvania",2012,950,16,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
+372,"Thor",2011,950,17,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
+373,"The Hunger Games: Mockingjay Part 2",2015,949,16,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
+374,"The Amazing Spider-Man",2012,948,16,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
+375,"Space Jam",1996,948,17,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
+376,"Star Wars: Episode I - The Phantom Menace",1999,946,17,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
 377,"Madagascar 3: Europe's Most Wanted",2012,943,16,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
 378,"Enchanted",2007,940,16,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
 379,"Black Widow",2021,940,16,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
@@ -448,16 +448,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 447,"Looney Tunes: Back in Action",2003,882,16,https://letterboxd.com/film/looney-tunes-back-in-action/,https://image.tmdb.org/t/p/w500/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg
 448,"Zathura: A Space Adventure",2005,879,17,https://letterboxd.com/film/zathura-a-space-adventure/,https://image.tmdb.org/t/p/w500/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg
 449,"Ice Age",2002,878,16,https://letterboxd.com/film/ice-age/,https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg
-450,"Superman Returns",2006,878,16,https://letterboxd.com/film/superman-returns/,https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg
-451,"Final Destination 5",2011,875,16,https://letterboxd.com/film/final-destination-5/,https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg
-452,"Transformers",2007,875,17,https://letterboxd.com/film/transformers/,https://image.tmdb.org/t/p/w500/4N4sipl8T72tNE4earcctQa2Kw2.jpg
-453,"The Dictator",2012,872,16,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
-454,"The 40-Year-Old Virgin",2005,871,17,https://letterboxd.com/film/the-40-year-old-virgin/,https://image.tmdb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg
-455,"101 Dalmatians",1996,870,16,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
-456,"Gnomeo and Juliet",2011,870,16,https://letterboxd.com/film/gnomeo-juliet/,https://image.tmdb.org/t/p/w500/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg
-457,"Kick-Ass 2",2013,869,16,https://letterboxd.com/film/kick-ass-2/,https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg
-458,"minions rise of gru",2022,868,16,https://letterboxd.com/film/minions-the-rise-of-gru/,https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg
-459,"Tremors II: Aftershocks",1996,866,16,https://letterboxd.com/film/tremors-ii-aftershocks/,https://image.tmdb.org/t/p/w500/hvBYCgG62Fk8cYIsUtrfP5iw3K8.jpg
+450,"Final Destination 5",2011,875,16,https://letterboxd.com/film/final-destination-5/,https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg
+451,"Transformers",2007,875,17,https://letterboxd.com/film/transformers/,https://image.tmdb.org/t/p/w500/4N4sipl8T72tNE4earcctQa2Kw2.jpg
+452,"The Dictator",2012,872,16,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
+453,"The 40-Year-Old Virgin",2005,871,17,https://letterboxd.com/film/the-40-year-old-virgin/,https://image.tmdb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg
+454,"101 Dalmatians",1996,870,16,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
+455,"Gnomeo and Juliet",2011,870,16,https://letterboxd.com/film/gnomeo-juliet/,https://image.tmdb.org/t/p/w500/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg
+456,"Kick-Ass 2",2013,869,16,https://letterboxd.com/film/kick-ass-2/,https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg
+457,"minions rise of gru",2022,868,16,https://letterboxd.com/film/minions-the-rise-of-gru/,https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg
+458,"Tremors II: Aftershocks",1996,866,16,https://letterboxd.com/film/tremors-ii-aftershocks/,https://image.tmdb.org/t/p/w500/hvBYCgG62Fk8cYIsUtrfP5iw3K8.jpg
+459,"Superman Returns",2006,865,17,https://letterboxd.com/film/superman-returns/,https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg
 460,"Igor",2008,865,17,https://letterboxd.com/film/igor/,https://image.tmdb.org/t/p/w500/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg
 461,"The Santa Clause 2",2002,864,16,https://letterboxd.com/film/the-santa-clause-2/,https://image.tmdb.org/t/p/w500/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg
 462,"Kim Possible Movie: So the Drama",2005,860,17,https://letterboxd.com/film/kim-possible-movie-so-the-drama/,https://image.tmdb.org/t/p/w500/rQ5WS0zWDRau2lI0FYpGYDGmDVS.jpg
