@@ -418,18 +418,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 417,"Solo: A Star Wars Story",2018,911,16,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
 418,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,910,17,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
 419,"Ice Age: Dawn of the Dinosaurs",2009,910,17,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
-420,"Despicable Me 2",2013,908,16,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
-421,"Doctor Strange in the Multiverse of Madness",2022,908,17,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
-422,"Spy Kids",2001,908,17,https://letterboxd.com/film/spy-kids/,https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg
-423,"Smart House",1999,907,17,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
-424,"Christopher Robin",2018,907,17,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
-425,"Ace Ventura: When Nature Calls",1995,906,17,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
-426,"War of the Worlds",2005,906,17,https://letterboxd.com/film/war-of-the-worlds/,https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg
-427,"Incredibles 2",2018,905,17,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
-428,"Spider-Man 3",2007,905,17,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
-429,"Now You See Me",2013,903,17,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
-430,"Star Wars: Episode II - Attack of the Clones",2002,902,16,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
-431,"Madagascar",2005,902,16,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
+420,"Madagascar",2005,910,17,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
+421,"Despicable Me 2",2013,908,16,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
+422,"Doctor Strange in the Multiverse of Madness",2022,908,17,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
+423,"Spy Kids",2001,908,17,https://letterboxd.com/film/spy-kids/,https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg
+424,"Smart House",1999,907,17,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
+425,"Christopher Robin",2018,907,17,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
+426,"Ace Ventura: When Nature Calls",1995,906,17,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
+427,"War of the Worlds",2005,906,17,https://letterboxd.com/film/war-of-the-worlds/,https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg
+428,"Incredibles 2",2018,905,17,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
+429,"Spider-Man 3",2007,905,17,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
+430,"Now You See Me",2013,903,17,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
+431,"Star Wars: Episode II - Attack of the Clones",2002,902,16,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
 432,"The Waterboy",1998,902,17,https://letterboxd.com/film/the-waterboy/,https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg
 433,"Robin Hood",1973,901,16,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
 434,"My Girl",1991,901,16,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
@@ -589,10 +589,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 588,"Zapped",2014,710,17,https://letterboxd.com/film/zapped-2014/,https://image.tmdb.org/t/p/w500/u33QFfbvChD5LNcuZD0LsSVnoa1.jpg
 589,"Hotel for Dogs",2009,709,16,https://letterboxd.com/film/hotel-for-dogs/,https://image.tmdb.org/t/p/w500/xD2AssTeySNCamlGueai4yAZZfX.jpg
 590,"Snow Buddies",2008,708,16,https://letterboxd.com/film/snow-buddies/,https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg
-591,"The Pirate Fairy",2014,707,16,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
-592,"Twitches Too",2007,707,16,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
-593,"Avalon High",2010,705,17,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
-594,"Bad Hair Day",2015,704,16,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
+591,"Twitches Too",2007,707,16,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
+592,"Avalon High",2010,705,17,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
+593,"Bad Hair Day",2015,704,16,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
+594,"The Pirate Fairy",2014,699,17,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
 595,"Santa Buddies",2009,698,16,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
 596,"Zookeeper",2011,696,17,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
 597,"The Boss Baby: Family Business",2021,685,16,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
