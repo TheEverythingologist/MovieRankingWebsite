@@ -26,10 +26,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 25,"The Godfather",1972,1323,16,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 26,"A Quiet Place",2018,1319,16,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 27,"The Lord of the Rings: The Fellowship of the Ring",2001,1318,16,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
-28,"Spider-Man: Into the Spider-verse",2018,1317,16,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-29,"Oppenheimer",2023,1310,16,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
-30,"Scott Pilgrim vs. The World",2010,1309,16,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
-31,"The Godfather Part II",1974,1309,16,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+28,"The Godfather Part II",1974,1318,17,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+29,"Spider-Man: Into the Spider-verse",2018,1317,16,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+30,"Oppenheimer",2023,1310,16,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+31,"Scott Pilgrim vs. The World",2010,1309,16,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
 32,"Your Name",2016,1308,16,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
 33,"Eternal Sunshine of the Spotless Mind",2004,1307,17,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
 34,"WALL-E",2008,1302,16,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
@@ -137,16 +137,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 136,"The Truman Show",1998,1164,16,https://letterboxd.com/film/the-truman-show/,https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg
 137,"The Hunger Games",2012,1158,16,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
 138,"The Perks of Being a Wallflower",2012,1155,16,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
-139,"Fantastic Mr. Fox",2009,1155,16,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
-140,"Monty Python's Life of Brian",1979,1154,17,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
-141,"Kung Fu Panda",2008,1153,16,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
-142,"My Neighbor Totoro",1988,1151,17,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
-143,"Robot Dreams",2023,1151,16,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
-144,"Monsters, Inc.",2001,1150,17,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
-145,"District 9",2009,1149,16,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
-146,"Scream",1997,1149,16,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
-147,"Chef",2014,1148,16,https://letterboxd.com/film/chef/,https://image.tmdb.org/t/p/w500/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg
-148,"Steve Jobs",2015,1148,17,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
+139,"Monty Python's Life of Brian",1979,1154,17,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
+140,"Kung Fu Panda",2008,1153,16,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
+141,"My Neighbor Totoro",1988,1151,17,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
+142,"Robot Dreams",2023,1151,16,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
+143,"Monsters, Inc.",2001,1150,17,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
+144,"District 9",2009,1149,16,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
+145,"Scream",1997,1149,16,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
+146,"Chef",2014,1148,16,https://letterboxd.com/film/chef/,https://image.tmdb.org/t/p/w500/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg
+147,"Steve Jobs",2015,1148,17,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
+148,"Fantastic Mr. Fox",2009,1146,17,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
 149,"The Wizard of Oz",1939,1146,17,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
 150,"O'Brother, Where Art Thou",2000,1145,17,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
 151,"The Lion King",1994,1145,17,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
