@@ -273,13 +273,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 272,"Revenge of the Nerds",1984,1033,16,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
 273,"Robots",2005,1032,16,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
 274,"Arthur Christmas",2011,1030,16,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
-275,"Mrs. Doubtfire",1993,1027,16,https://letterboxd.com/film/mrs-doubtfire/,https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg
-276,"Real Steel",2011,1026,16,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
-277,"Over the Hedge",2006,1025,16,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
-278,"Hoodwinked!",2005,1024,16,https://letterboxd.com/film/hoodwinked/,https://image.tmdb.org/t/p/w500/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg
-279,"Tarzan",1999,1023,16,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
-280,"The Great Gatsby",2013,1021,16,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
-281,"The Perks of Being a Wallflower",2012,1019,1,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
+275,"The Perks of Being a Wallflower",2012,1030,2,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
+276,"Mrs. Doubtfire",1993,1027,16,https://letterboxd.com/film/mrs-doubtfire/,https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg
+277,"Real Steel",2011,1026,16,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
+278,"Over the Hedge",2006,1025,16,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
+279,"Hoodwinked!",2005,1024,16,https://letterboxd.com/film/hoodwinked/,https://image.tmdb.org/t/p/w500/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg
+280,"Tarzan",1999,1023,16,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
+281,"The Great Gatsby",2013,1021,16,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
 282,"Harry Potter and the Goblet of Fire",2005,1018,16,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/,https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg
 283,"National Treasure",2004,1017,16,https://letterboxd.com/film/national-treasure/,https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg
 284,"Godzilla: King of the Monsters",2019,1017,17,https://letterboxd.com/film/godzilla-king-of-the-monsters-2019/,https://image.tmdb.org/t/p/w500/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg
@@ -405,26 +405,26 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 404,"Friday the 13th Part III",1982,920,17,https://letterboxd.com/film/friday-the-13th-part-iii/,https://image.tmdb.org/t/p/w500/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg
 405,"Incredibles 2",2018,919,16,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
 406,"Finding Dory",2016,917,17,https://letterboxd.com/film/finding-dory/,https://image.tmdb.org/t/p/w500/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg
-407,"Ace Ventura: When Nature Calls",1995,917,16,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
-408,"I'm Totally Fine",2022,917,16,https://letterboxd.com/film/im-totally-fine/,https://image.tmdb.org/t/p/w500/4eCfOPqoE5ezwQCgVGQszwlxdJh.jpg
-409,"Indiana Jones and the Kingdom of the Crystal Skull",2008,915,16,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
-410,"Casper",1995,915,16,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
-411,"National Treasure: Book of Secrets",2007,915,17,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
-412,"Iron Man 2",2010,913,16,https://letterboxd.com/film/iron-man-2/,https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg
-413,"Transcendence",2014,912,16,https://letterboxd.com/film/transcendence/,https://image.tmdb.org/t/p/w500/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg
-414,"Ice Age: The Meltdown",2006,912,16,https://letterboxd.com/film/ice-age-the-meltdown/,https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg
-415,"An Extremely Goofy Movie",2000,911,17,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
-416,"Solo: A Star Wars Story",2018,911,16,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
-417,"Flushed Away",2006,911,16,https://letterboxd.com/film/flushed-away/,https://image.tmdb.org/t/p/w500/kgoZI4xh38RrEYEPVib6a12UPLn.jpg
-418,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,910,17,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
-419,"Ice Age: Dawn of the Dinosaurs",2009,910,17,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
-420,"Despicable Me 2",2013,908,16,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
-421,"A Goofy Movie",1995,908,16,https://letterboxd.com/film/a-goofy-movie/,https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg
-422,"Doctor Strange in the Multiverse of Madness",2022,908,17,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
-423,"Smart House",1999,907,17,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
-424,"No strings attached",2011,907,16,https://letterboxd.com/film/no-strings-attached/,https://image.tmdb.org/t/p/w500/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg
-425,"High School Musical",2006,907,16,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
-426,"Thor: The Dark World",2013,907,16,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+407,"I'm Totally Fine",2022,917,16,https://letterboxd.com/film/im-totally-fine/,https://image.tmdb.org/t/p/w500/4eCfOPqoE5ezwQCgVGQszwlxdJh.jpg
+408,"Indiana Jones and the Kingdom of the Crystal Skull",2008,915,16,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
+409,"Casper",1995,915,16,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
+410,"National Treasure: Book of Secrets",2007,915,17,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
+411,"Iron Man 2",2010,913,16,https://letterboxd.com/film/iron-man-2/,https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg
+412,"Transcendence",2014,912,16,https://letterboxd.com/film/transcendence/,https://image.tmdb.org/t/p/w500/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg
+413,"Ice Age: The Meltdown",2006,912,16,https://letterboxd.com/film/ice-age-the-meltdown/,https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg
+414,"An Extremely Goofy Movie",2000,911,17,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
+415,"Solo: A Star Wars Story",2018,911,16,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
+416,"Flushed Away",2006,911,16,https://letterboxd.com/film/flushed-away/,https://image.tmdb.org/t/p/w500/kgoZI4xh38RrEYEPVib6a12UPLn.jpg
+417,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,910,17,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
+418,"Ice Age: Dawn of the Dinosaurs",2009,910,17,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
+419,"Despicable Me 2",2013,908,16,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
+420,"A Goofy Movie",1995,908,16,https://letterboxd.com/film/a-goofy-movie/,https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg
+421,"Doctor Strange in the Multiverse of Madness",2022,908,17,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
+422,"Smart House",1999,907,17,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
+423,"No strings attached",2011,907,16,https://letterboxd.com/film/no-strings-attached/,https://image.tmdb.org/t/p/w500/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg
+424,"High School Musical",2006,907,16,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
+425,"Thor: The Dark World",2013,907,16,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+426,"Ace Ventura: When Nature Calls",1995,906,17,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
 427,"War of the Worlds",2005,906,17,https://letterboxd.com/film/war-of-the-worlds/,https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg
 428,"Star Wars: Episode II - Attack of the Clones",2002,902,16,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
 429,"Madagascar",2005,902,16,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
