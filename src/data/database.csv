@@ -301,16 +301,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 300,"Saw VI",2009,1004,17,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
 301,"The Hobbit: An Unexpected Journey",2012,1004,17,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
 302,"The Fox and the Hound",1981,1003,17,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
-303,"Jurassic World",2015,1002,16,https://letterboxd.com/film/jurassic-world/,https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg
-304,"The Muppets",2011,1000,17,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
-305,"Tremors",1990,1000,17,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
-306,"Look Who's Back",2015,1000,17,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
-307,"How to Train Your Dragon",2025,999,17,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg
-308,"Avengers: Age of Ultron",2015,998,17,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
-309,"Cars",2006,998,17,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
-310,"Sleeping Beauty",1959,998,17,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
-311,"Men in Black 3",2012,997,17,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
-312,"Mean Girls",2004,997,16,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
+303,"Mean Girls",2004,1003,17,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
+304,"Jurassic World",2015,1002,16,https://letterboxd.com/film/jurassic-world/,https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg
+305,"The Muppets",2011,1000,17,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
+306,"Tremors",1990,1000,17,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
+307,"Look Who's Back",2015,1000,17,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
+308,"How to Train Your Dragon",2025,999,17,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg
+309,"Avengers: Age of Ultron",2015,998,17,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
+310,"Cars",2006,998,17,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
+311,"Sleeping Beauty",1959,998,17,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
+312,"Men in Black 3",2012,997,17,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
 313,"The Spongebob Squarepants Movie",2004,996,17,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
 314,"Iron Man 3",2013,995,16,https://letterboxd.com/film/iron-man-3/,https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg
 315,"Spider-Man: Far From Home",2019,995,16,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
@@ -571,10 +571,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 570,"Mirror Mirror",2012,738,16,https://letterboxd.com/film/mirror-mirror-2012/,https://image.tmdb.org/t/p/w500/4xiB9KTg6wCaA2OJw4pT44MJaau.jpg
 571,"Tinker Bell and the Lost Treasure",2009,736,17,https://letterboxd.com/film/tinker-bell-and-the-lost-treasure/,https://image.tmdb.org/t/p/w500/hg1959yuBkHb4BKbIvETQSfxGCT.jpg
 572,"The Core",2003,735,16,https://letterboxd.com/film/the-core/,https://image.tmdb.org/t/p/w500/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg
-573,"Trolls World Tour",2020,734,16,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
-574,"Diary of a Wimpy Kid: Dog Days",2012,733,16,https://letterboxd.com/film/diary-of-a-wimpy-kid-dog-days/,https://image.tmdb.org/t/p/w500/7pTvjELxw0f0E6sUPGtPEl4WD0S.jpg
-575,"Cloud 9",2014,731,16,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
-576,"Beverly Hills Chihuahua",2008,730,16,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
+573,"Diary of a Wimpy Kid: Dog Days",2012,733,16,https://letterboxd.com/film/diary-of-a-wimpy-kid-dog-days/,https://image.tmdb.org/t/p/w500/7pTvjELxw0f0E6sUPGtPEl4WD0S.jpg
+574,"Cloud 9",2014,731,16,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
+575,"Beverly Hills Chihuahua",2008,730,16,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
+576,"Trolls World Tour",2020,728,17,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
 577,"Camp Rock 2: The Final Jam",2010,728,17,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
 578,"The Twilight Saga: Breaking Dawn Part 1",2011,727,17,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/,https://image.tmdb.org/t/p/w500/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg
 579,"Minions",2015,727,17,https://letterboxd.com/film/minions/,https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg
