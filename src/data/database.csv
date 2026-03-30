@@ -134,9 +134,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 133,"Akira",1988,1165,17,https://letterboxd.com/film/akira/,https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg
 134,"Toy Story 2",1999,1164,17,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
 135,"The Truman Show",1998,1164,16,https://letterboxd.com/film/the-truman-show/,https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg
-136,"The Princess Bride",1987,1159,17,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
-137,"The Hunger Games",2012,1158,16,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
-138,"The Perks of Being a Wallflower",2012,1155,16,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
+136,"The Perks of Being a Wallflower",2012,1164,17,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
+137,"The Princess Bride",1987,1159,17,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
+138,"The Hunger Games",2012,1158,16,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
 139,"Monty Python's Life of Brian",1979,1154,17,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
 140,"Kung Fu Panda",2008,1153,16,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
 141,"My Neighbor Totoro",1988,1151,17,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
@@ -297,19 +297,19 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 296,"The Hitchhiker's Guide to the Galaxy",2005,1007,17,https://letterboxd.com/film/the-hitchhikers-guide-to-the-galaxy-2005/,https://image.tmdb.org/t/p/w500/yr9A3KGQlxBh3yW0cmglsr8aMIz.jpg
 297,"The Little Mermaid",1989,1007,16,https://letterboxd.com/film/the-little-mermaid/,https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg
 298,"Evolution",2001,1006,17,https://letterboxd.com/film/evolution/,https://image.tmdb.org/t/p/w500/dwIrP544LxJtXToLpzkEa08pIMm.jpg
-299,"The Spongebob Squarepants Movie",2004,1005,16,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
-300,"A Haunting in Venice",2023,1004,17,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
-301,"Friday the 13th Part 2",1981,1004,17,https://letterboxd.com/film/friday-the-13th-part-2/,https://image.tmdb.org/t/p/w500/92rGctBMTv4uaSlIBVnhz01kRWL.jpg
-302,"Saw VI",2009,1004,17,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
-303,"The Fox and the Hound",1981,1003,17,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
-304,"Jurassic World",2015,1002,16,https://letterboxd.com/film/jurassic-world/,https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg
-305,"The Muppets",2011,1000,17,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
-306,"Tremors",1990,1000,17,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
-307,"Avengers: Age of Ultron",2015,998,17,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
-308,"Cars",2006,998,17,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
-309,"Sleeping Beauty",1959,998,17,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
-310,"Men in Black 3",2012,997,17,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
-311,"Mean Girls",2004,997,16,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
+299,"A Haunting in Venice",2023,1004,17,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
+300,"Friday the 13th Part 2",1981,1004,17,https://letterboxd.com/film/friday-the-13th-part-2/,https://image.tmdb.org/t/p/w500/92rGctBMTv4uaSlIBVnhz01kRWL.jpg
+301,"Saw VI",2009,1004,17,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
+302,"The Fox and the Hound",1981,1003,17,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
+303,"Jurassic World",2015,1002,16,https://letterboxd.com/film/jurassic-world/,https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg
+304,"The Muppets",2011,1000,17,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
+305,"Tremors",1990,1000,17,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
+306,"Avengers: Age of Ultron",2015,998,17,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
+307,"Cars",2006,998,17,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
+308,"Sleeping Beauty",1959,998,17,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
+309,"Men in Black 3",2012,997,17,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
+310,"Mean Girls",2004,997,16,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
+311,"The Spongebob Squarepants Movie",2004,996,17,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
 312,"The Hobbit: An Unexpected Journey",2012,996,16,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
 313,"Iron Man 3",2013,995,16,https://letterboxd.com/film/iron-man-3/,https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg
 314,"Spider-Man: Far From Home",2019,995,16,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
