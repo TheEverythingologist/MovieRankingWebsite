@@ -31,9 +31,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 30,"Scott Pilgrim vs. The World",2010,1309,16,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
 31,"The Godfather Part II",1974,1309,16,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
 32,"Your Name",2016,1308,16,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
-33,"WALL-E",2008,1302,16,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
-34,"Inception",2010,1300,17,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
-35,"Eternal Sunshine of the Spotless Mind",2004,1296,16,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
+33,"Eternal Sunshine of the Spotless Mind",2004,1307,17,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
+34,"WALL-E",2008,1302,16,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
+35,"Inception",2010,1300,17,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
 36,"Goodfellas",1990,1296,16,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
 37,"Spider-Man: Across the Spider-Verse",2023,1296,16,https://letterboxd.com/film/spider-man-across-the-spider-verse/,https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
 38,"Star Wars: Episode IV - A New Hope",1977,1295,16,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
@@ -106,15 +106,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 105,"Barbie",2023,1195,16,https://letterboxd.com/film/barbie/,https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg
 106,"Room",2015,1194,17,https://letterboxd.com/film/room-2015/,https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg
 107,"The Wild Robot",2024,1194,16,https://letterboxd.com/film/the-wild-robot/,https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg
-108,"The Perks of Being a Wallflower",2012,1193,13,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
-109,"The Wind Rises",2013,1191,16,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
-110,"Top Gun: Maverick",2022,1190,17,https://letterboxd.com/film/top-gun-maverick/,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
-111,"Jaws",1975,1189,16,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
-112,"Letters From Iwo Jima",2006,1188,16,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
-113,"Nickel Boys",2024,1187,17,https://letterboxd.com/film/nickel-boys/,https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg
-114,"Jojo Rabbit",2019,1186,16,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
-115,"The Sixth Sense",1999,1185,17,https://letterboxd.com/film/the-sixth-sense/,https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg
-116,"Little Women",2019,1183,16,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
+108,"The Wind Rises",2013,1191,16,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
+109,"Top Gun: Maverick",2022,1190,17,https://letterboxd.com/film/top-gun-maverick/,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
+110,"Jaws",1975,1189,16,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
+111,"Letters From Iwo Jima",2006,1188,16,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
+112,"Nickel Boys",2024,1187,17,https://letterboxd.com/film/nickel-boys/,https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg
+113,"Jojo Rabbit",2019,1186,16,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
+114,"The Sixth Sense",1999,1185,17,https://letterboxd.com/film/the-sixth-sense/,https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg
+115,"Little Women",2019,1183,16,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
+116,"The Perks of Being a Wallflower",2012,1182,14,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
 117,"Spotlight",2015,1181,16,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
 118,"Avengers: Endgame",2019,1181,17,https://letterboxd.com/film/avengers-endgame/,https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg
 119,"The Holdovers",2023,1180,17,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
