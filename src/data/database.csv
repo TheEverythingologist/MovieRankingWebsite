@@ -243,22 +243,22 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 242,"E.T. the Extra-Terrestrial",1982,1058,17,https://letterboxd.com/film/et-the-extra-terrestrial/,https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
 243,"Monsters University",2013,1058,16,https://letterboxd.com/film/monsters-university/,https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg
 244,"The Lego Batman Movie",2017,1058,16,https://letterboxd.com/film/the-lego-batman-movie/,https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg
-245,"Stand and Deliver",1988,1057,16,https://letterboxd.com/film/stand-and-deliver/,https://image.tmdb.org/t/p/w500/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg
-246,"King Richard",2021,1057,16,https://letterboxd.com/film/king-richard/,https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg
-247,"Indiana Jones and the Temple of Doom",1984,1057,16,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
-248,"Avatar",2009,1056,17,https://letterboxd.com/film/avatar/,https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
-249,"The Right Stuff",1983,1056,17,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
-250,"Shaun of the Dead",2004,1055,17,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
-251,"Harry Potter and the Deathly Hallows Part 2",2011,1055,16,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-2/,https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg
-252,"Finding Nemo",2003,1054,17,https://letterboxd.com/film/finding-nemo/,https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
-253,"X-Men: First Class",2011,1053,16,https://letterboxd.com/film/x-men-first-class/,https://image.tmdb.org/t/p/w500/hNEokmUke0dazoBhttFN0o3L7Xv.jpg
-254,"Pacific Rim",2013,1051,17,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
-255,"Snow White and the Seven Dwarfs",1937,1050,17,https://letterboxd.com/film/snow-white-and-the-seven-dwarfs/,https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg
-256,"Atlantis: The Lost Empire",2001,1048,16,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
-257,"Final Destination",2000,1047,17,https://letterboxd.com/film/final-destination/,https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg
-258,"Big Hero 6",2014,1047,16,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-259,"A Bug's Life",1998,1046,16,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
-260,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1046,3,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
+245,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1058,4,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
+246,"Stand and Deliver",1988,1057,16,https://letterboxd.com/film/stand-and-deliver/,https://image.tmdb.org/t/p/w500/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg
+247,"King Richard",2021,1057,16,https://letterboxd.com/film/king-richard/,https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg
+248,"Indiana Jones and the Temple of Doom",1984,1057,16,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
+249,"Avatar",2009,1056,17,https://letterboxd.com/film/avatar/,https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
+250,"The Right Stuff",1983,1056,17,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
+251,"Shaun of the Dead",2004,1055,17,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
+252,"Harry Potter and the Deathly Hallows Part 2",2011,1055,16,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-2/,https://image.tmdb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg
+253,"Finding Nemo",2003,1054,17,https://letterboxd.com/film/finding-nemo/,https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
+254,"X-Men: First Class",2011,1053,16,https://letterboxd.com/film/x-men-first-class/,https://image.tmdb.org/t/p/w500/hNEokmUke0dazoBhttFN0o3L7Xv.jpg
+255,"Pacific Rim",2013,1051,17,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
+256,"Snow White and the Seven Dwarfs",1937,1050,17,https://letterboxd.com/film/snow-white-and-the-seven-dwarfs/,https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg
+257,"Atlantis: The Lost Empire",2001,1048,16,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
+258,"Final Destination",2000,1047,17,https://letterboxd.com/film/final-destination/,https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg
+259,"Big Hero 6",2014,1047,16,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
+260,"A Bug's Life",1998,1046,16,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
 261,"Free Guy",2021,1045,17,https://letterboxd.com/film/free-guy/,https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg
 262,"Doctor Strange",2016,1042,17,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
 263,"Iron Lung",2026,1042,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
@@ -345,24 +345,24 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 344,"Minutemen",2008,968,16,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
 345,"Madagascar: Escape 2 Africa",2008,967,16,https://letterboxd.com/film/madagascar-escape-2-africa/,https://image.tmdb.org/t/p/w500/agRbLOHgN46TQO4YdKR462iR7To.jpg
 346,"Phineas and Ferb the Movie: Across the 2nd Dimension",2011,967,16,https://letterboxd.com/film/phineas-and-ferb-the-movie-across-the-2nd-dimension/,https://image.tmdb.org/t/p/w500/updMFSOZwEftfkJRpozwBlRlYI2.jpg
-347,"Bolt",2008,967,16,https://letterboxd.com/film/bolt/,https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg
-348,"Rudy",1993,966,17,https://letterboxd.com/film/rudy/,https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg
-349,"Venom",2018,966,16,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
-350,"The Hobbit: The Battle of the Five Armies",2014,966,16,https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/,https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg
-351,"Charlie and the Chocolate Factory",2005,964,16,https://letterboxd.com/film/charlie-and-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg
-352,"Kung Fu Panda 3",2016,963,16,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
-353,"Cars 3",2017,962,17,https://letterboxd.com/film/cars-3/,https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg
-354,"Watchmen",2009,962,17,https://letterboxd.com/film/watchmen/,https://image.tmdb.org/t/p/w500/u0ROjy3KPzMDTipqCrwD8LwkKSQ.jpg
-355,"The Aristocats",1970,962,16,https://letterboxd.com/film/the-aristocats/,https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg
-356,"Final Destination 3",2006,961,16,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
-357,"Happy Feet",2006,960,17,https://letterboxd.com/film/happy-feet/,https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg
-358,"Murder on the Orient Express",2017,959,17,https://letterboxd.com/film/murder-on-the-orient-express-2017/,https://image.tmdb.org/t/p/w500/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg
-359,"My Hero Academia: The Movie",2018,959,17,https://letterboxd.com/film/my-hero-academia-the-movie/,https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg
-360,"Monsters vs. Aliens",2009,959,16,https://letterboxd.com/film/monsters-vs-aliens/,https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg
-361,"Peter Pan",1953,959,16,https://letterboxd.com/film/peter-pan/,https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg
-362,"The Mask",1994,958,16,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
-363,"Star Wars: Episode VIII - The Last Jedi",2017,958,16,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
-364,"21",2008,957,17,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+347,"Rudy",1993,966,17,https://letterboxd.com/film/rudy/,https://image.tmdb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg
+348,"Venom",2018,966,16,https://letterboxd.com/film/venom-2018/,https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg
+349,"The Hobbit: The Battle of the Five Armies",2014,966,16,https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/,https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg
+350,"Charlie and the Chocolate Factory",2005,964,16,https://letterboxd.com/film/charlie-and-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg
+351,"Kung Fu Panda 3",2016,963,16,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
+352,"Cars 3",2017,962,17,https://letterboxd.com/film/cars-3/,https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg
+353,"Watchmen",2009,962,17,https://letterboxd.com/film/watchmen/,https://image.tmdb.org/t/p/w500/u0ROjy3KPzMDTipqCrwD8LwkKSQ.jpg
+354,"The Aristocats",1970,962,16,https://letterboxd.com/film/the-aristocats/,https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg
+355,"Final Destination 3",2006,961,16,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
+356,"Happy Feet",2006,960,17,https://letterboxd.com/film/happy-feet/,https://image.tmdb.org/t/p/w500/za41IHkj6LnkilfTzv5B2qmthKD.jpg
+357,"Murder on the Orient Express",2017,959,17,https://letterboxd.com/film/murder-on-the-orient-express-2017/,https://image.tmdb.org/t/p/w500/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg
+358,"My Hero Academia: The Movie",2018,959,17,https://letterboxd.com/film/my-hero-academia-the-movie/,https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg
+359,"Monsters vs. Aliens",2009,959,16,https://letterboxd.com/film/monsters-vs-aliens/,https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg
+360,"Peter Pan",1953,959,16,https://letterboxd.com/film/peter-pan/,https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg
+361,"The Mask",1994,958,16,https://letterboxd.com/film/the-mask-1994/,https://image.tmdb.org/t/p/w500/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg
+362,"Star Wars: Episode VIII - The Last Jedi",2017,958,16,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+363,"21",2008,957,17,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+364,"Bolt",2008,955,17,https://letterboxd.com/film/bolt/,https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg
 365,"Frozen 2",2019,953,16,https://letterboxd.com/film/frozen-2/,https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg
 366,"The Peanuts Movie",2015,953,16,https://letterboxd.com/film/the-peanuts-movie/,https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg
 367,"I, Robot",2004,950,16,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
