@@ -261,19 +261,19 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 260,"Free Guy",2021,1045,17,https://letterboxd.com/film/free-guy/,https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg
 261,"Doctor Strange",2016,1042,17,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
 262,"Iron Lung",2026,1042,16,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
-263,"Final Destination 2",2003,1041,16,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
-264,"The Lego Batman Movie",2017,1039,17,https://letterboxd.com/film/the-lego-batman-movie/,https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg
-265,"Pirates of the Caribbean: Dead Man's Chest",2006,1038,16,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg
-266,"Pirates of the Caribbean: At World's End",2007,1038,17,https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/,https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg
-267,"Frozen",2013,1037,16,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
-268,"Harry Potter and the Half-Blood Prince",2009,1036,16,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
-269,"The Super Mario Bros. Movie",2023,1035,16,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
-270,"Ant-Man",2015,1035,16,https://letterboxd.com/film/ant-man/,https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg
-271,"Onward",2020,1035,17,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
-272,"Revenge of the Nerds",1984,1033,16,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
-273,"Robots",2005,1032,16,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
-274,"Arthur Christmas",2011,1030,16,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
-275,"The Perks of Being a Wallflower",2012,1030,2,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
+263,"The Perks of Being a Wallflower",2012,1042,3,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg
+264,"Final Destination 2",2003,1041,16,https://letterboxd.com/film/final-destination-2/,https://image.tmdb.org/t/p/w500/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg
+265,"The Lego Batman Movie",2017,1039,17,https://letterboxd.com/film/the-lego-batman-movie/,https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg
+266,"Pirates of the Caribbean: Dead Man's Chest",2006,1038,16,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg
+267,"Pirates of the Caribbean: At World's End",2007,1038,17,https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/,https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg
+268,"Frozen",2013,1037,16,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
+269,"Harry Potter and the Half-Blood Prince",2009,1036,16,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
+270,"The Super Mario Bros. Movie",2023,1035,16,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
+271,"Ant-Man",2015,1035,16,https://letterboxd.com/film/ant-man/,https://image.tmdb.org/t/p/w500/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg
+272,"Onward",2020,1035,17,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
+273,"Revenge of the Nerds",1984,1033,16,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
+274,"Robots",2005,1032,16,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
+275,"Arthur Christmas",2011,1030,16,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
 276,"Mrs. Doubtfire",1993,1027,16,https://letterboxd.com/film/mrs-doubtfire/,https://image.tmdb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg
 277,"Real Steel",2011,1026,16,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
 278,"Over the Hedge",2006,1025,16,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
@@ -368,18 +368,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 367,"The Peanuts Movie",2015,953,16,https://letterboxd.com/film/the-peanuts-movie/,https://image.tmdb.org/t/p/w500/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg
 368,"I, Robot",2004,950,16,https://letterboxd.com/film/i-robot/,https://image.tmdb.org/t/p/w500/efwv6F2lGaghjPpBRSINHtoEiZB.jpg
 369,"Hotel Transylvania",2012,950,16,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
-370,"The Sword in the Stone",1963,949,16,https://letterboxd.com/film/the-sword-in-the-stone/,https://image.tmdb.org/t/p/w500/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg
-371,"The Hunger Games: Mockingjay Part 2",2015,949,16,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
-372,"The Amazing Spider-Man",2012,948,16,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
-373,"Space Jam",1996,948,17,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
-374,"Star Wars: Episode I - The Phantom Menace",1999,946,17,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
-375,"The Hobbit: The Desolation of Smaug",2013,944,16,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg
-376,"Madagascar 3: Europe's Most Wanted",2012,943,16,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
-377,"The Parent Trap",1998,941,16,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
-378,"Enchanted",2007,940,16,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
-379,"Black Widow",2021,940,16,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
-380,"Ammonite",2020,939,16,https://letterboxd.com/film/ammonite/,https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg
-381,"Thor",2011,938,16,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
+370,"The Hunger Games: Mockingjay Part 2",2015,949,16,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
+371,"The Amazing Spider-Man",2012,948,16,https://letterboxd.com/film/the-amazing-spider-man/,https://image.tmdb.org/t/p/w500/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg
+372,"Space Jam",1996,948,17,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
+373,"Star Wars: Episode I - The Phantom Menace",1999,946,17,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
+374,"The Hobbit: The Desolation of Smaug",2013,944,16,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg
+375,"Madagascar 3: Europe's Most Wanted",2012,943,16,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
+376,"The Parent Trap",1998,941,16,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
+377,"Enchanted",2007,940,16,https://letterboxd.com/film/enchanted/,https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg
+378,"Black Widow",2021,940,16,https://letterboxd.com/film/black-widow-2021/,https://image.tmdb.org/t/p/w500/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg
+379,"Ammonite",2020,939,16,https://letterboxd.com/film/ammonite/,https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg
+380,"Thor",2011,938,16,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
+381,"The Sword in the Stone",1963,937,17,https://letterboxd.com/film/the-sword-in-the-stone/,https://image.tmdb.org/t/p/w500/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg
 382,"Idiocracy",2006,937,16,https://letterboxd.com/film/idiocracy/,https://image.tmdb.org/t/p/w500/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg
 383,"Talladega Nights: The Ballad of Ricky Bobby",2006,937,17,https://letterboxd.com/film/talladega-nights-the-ballad-of-ricky-bobby/,https://image.tmdb.org/t/p/w500/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg
 384,"Annie",1982,935,17,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
