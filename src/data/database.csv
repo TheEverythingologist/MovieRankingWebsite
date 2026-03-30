@@ -21,8 +21,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 20,"American Psycho",2000,1331,17,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
 21,"Arrival",2016,1330,16,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
 22,"The Martian",2015,1325,17,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
-23,"Saving Private Ryan",1998,1323,16,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
-24,"Se7en",1995,1323,16,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+23,"Se7en",1995,1325,17,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+24,"Saving Private Ryan",1998,1323,16,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
 25,"The Godfather",1972,1323,16,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 26,"A Quiet Place",2018,1319,16,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 27,"The Lord of the Rings: The Fellowship of the Ring",2001,1318,16,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
@@ -441,7 +441,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 440,"Thor: The Dark World",2013,893,17,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
 441,"The Incredible Hulk",2008,893,16,https://letterboxd.com/film/the-incredible-hulk/,https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg
 442,"Monster House",2006,890,17,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
-443,"Small Soldiers",1998,889,16,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
+443,"Small Soldiers",1998,887,17,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
 444,"Final Destination 5",2011,886,17,https://letterboxd.com/film/final-destination-5/,https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg
 445,"This is the End",2013,884,16,https://letterboxd.com/film/this-is-the-end/,https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg
 446,"Kick-Ass 2",2013,884,17,https://letterboxd.com/film/kick-ass-2/,https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg
