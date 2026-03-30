@@ -44,10 +44,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 43,"Forrest Gump",1994,1288,17,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
 44,"12 Years a Slave",2013,1286,16,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
 45,"Joker",2019,1285,17,https://letterboxd.com/film/joker-2019/,https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
-46,"2001: A Space Odyssey",1968,1281,17,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
-47,"Full Metal Jacket",1987,1281,17,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-48,"Everything Everywhere All At Once",2022,1280,17,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
-49,"Puss in Boots: The Last Wish",2022,1280,16,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
+46,"Puss in Boots: The Last Wish",2022,1283,17,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
+47,"2001: A Space Odyssey",1968,1281,17,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
+48,"Full Metal Jacket",1987,1281,17,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+49,"Everything Everywhere All At Once",2022,1280,17,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
 50,"Battle Royale",2000,1276,17,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
 51,"Poor Things",2023,1274,17,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 52,"Mad Max: Fury Road",2015,1273,16,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
@@ -462,8 +462,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 461,"minions rise of gru",2022,859,17,https://letterboxd.com/film/minions-the-rise-of-gru/,https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg
 462,"Shrek the Third",2007,859,17,https://letterboxd.com/film/shrek-the-third/,https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg
 463,"Gnomeo and Juliet",2011,858,17,https://letterboxd.com/film/gnomeo-juliet/,https://image.tmdb.org/t/p/w500/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg
-464,"Lilo & Stitch 2: Stitch Has a Glitch",2005,858,16,https://letterboxd.com/film/lilo-stitch-2-stitch-has-a-glitch/,https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg
-465,"Planet 51",2009,857,17,https://letterboxd.com/film/planet-51/,https://image.tmdb.org/t/p/w500/x7Itcg3ZdExKwdKguy73WPEqosW.jpg
+464,"Planet 51",2009,857,17,https://letterboxd.com/film/planet-51/,https://image.tmdb.org/t/p/w500/x7Itcg3ZdExKwdKguy73WPEqosW.jpg
+465,"Lilo & Stitch 2: Stitch Has a Glitch",2005,855,17,https://letterboxd.com/film/lilo-stitch-2-stitch-has-a-glitch/,https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg
 466,"Harry Potter and the Chamber of Secrets",2002,853,16,https://letterboxd.com/film/harry-potter-and-the-chamber-of-secrets/,https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg
 467,"Tremors II: Aftershocks",1996,850,17,https://letterboxd.com/film/tremors-ii-aftershocks/,https://image.tmdb.org/t/p/w500/hvBYCgG62Fk8cYIsUtrfP5iw3K8.jpg
 468,"Fantastic Four",2005,848,16,https://letterboxd.com/film/fantastic-four-2005/,https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg
