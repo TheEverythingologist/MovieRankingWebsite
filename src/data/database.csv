@@ -430,16 +430,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 429,"Spider-Man 3",2007,905,17,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
 430,"Star Wars: Episode II - Attack of the Clones",2002,902,16,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
 431,"Madagascar",2005,902,16,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
-432,"Robin Hood",1973,901,16,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
-433,"My Girl",1991,901,16,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
-434,"The Book of Life",2014,900,17,https://letterboxd.com/film/the-book-of-life-2014/,https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg
-435,"Men in Black 2",2002,897,17,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
-436,"Beauty and the Beast",2017,896,17,https://letterboxd.com/film/beauty-and-the-beast-2017/,https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg
-437,"Let it Shine",2012,895,16,https://letterboxd.com/film/let-it-shine/,https://image.tmdb.org/t/p/w500/rmYB5cqacaYhIcLjAD9QRob7luz.jpg
-438,"Thor: The Dark World",2013,893,17,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
-439,"The Incredible Hulk",2008,893,16,https://letterboxd.com/film/the-incredible-hulk/,https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg
-440,"Now You See Me",2013,893,16,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
-441,"The Waterboy",1998,891,16,https://letterboxd.com/film/the-waterboy/,https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg
+432,"The Waterboy",1998,902,17,https://letterboxd.com/film/the-waterboy/,https://image.tmdb.org/t/p/w500/miT42qWYC4D0n2mXNzJ9VfhheWW.jpg
+433,"Robin Hood",1973,901,16,https://letterboxd.com/film/robin-hood/,https://image.tmdb.org/t/p/w500/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg
+434,"My Girl",1991,901,16,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
+435,"The Book of Life",2014,900,17,https://letterboxd.com/film/the-book-of-life-2014/,https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg
+436,"Men in Black 2",2002,897,17,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
+437,"Beauty and the Beast",2017,896,17,https://letterboxd.com/film/beauty-and-the-beast-2017/,https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg
+438,"Let it Shine",2012,895,16,https://letterboxd.com/film/let-it-shine/,https://image.tmdb.org/t/p/w500/rmYB5cqacaYhIcLjAD9QRob7luz.jpg
+439,"Thor: The Dark World",2013,893,17,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+440,"The Incredible Hulk",2008,893,16,https://letterboxd.com/film/the-incredible-hulk/,https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg
+441,"Now You See Me",2013,893,16,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
 442,"Monster House",2006,890,17,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
 443,"Small Soldiers",1998,889,16,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
 444,"This is the End",2013,884,16,https://letterboxd.com/film/this-is-the-end/,https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg
@@ -528,20 +528,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 527,"Chicken Little",2005,788,16,https://letterboxd.com/film/chicken-little/,https://image.tmdb.org/t/p/w500/87FpA4b90eTaw3U6zmCNikoPLir.jpg
 528,"Secret of the Wings",2012,787,16,https://letterboxd.com/film/secret-of-the-wings/,https://image.tmdb.org/t/p/w500/aPudKEzwwmwc5lS8sdxvG3WX86t.jpg
 529,"Divergent",2014,784,16,https://letterboxd.com/film/divergent/,https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg
-530,"Grown Ups",2010,783,16,https://letterboxd.com/film/grown-ups/,https://image.tmdb.org/t/p/w500/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg
-531,"Wendy Wu: Homecoming Warrior",2006,783,16,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
-532,"Spy Kids 2: Island of Lost Dreams",2002,782,17,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
-533,"Suicide Squad",2016,780,17,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
-534,"Cow Belles",2006,780,16,https://letterboxd.com/film/cow-belles/,https://image.tmdb.org/t/p/w500/kA15KXpFHGKSqrRaJHAf0bhjQcT.jpg
-535,"Rio 2",2014,778,16,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
-536,"G-Force",2009,778,16,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
-537,"The Monuments Men",2014,777,17,https://letterboxd.com/film/the-monuments-men/,https://image.tmdb.org/t/p/w500/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg
-538,"Jurassic World: Dominion",2022,776,16,https://letterboxd.com/film/jurassic-world-dominion/,https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg
-539,"Trolls Band Together",2023,776,16,https://letterboxd.com/film/trolls-band-together/,https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg
-540,"Tinker Bell and the Great Fairy Rescue",2010,776,17,https://letterboxd.com/film/tinker-bell-and-the-great-fairy-rescue/,https://image.tmdb.org/t/p/w500/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg
-541,"Sharpay's Fabulous Adventure",2011,775,17,https://letterboxd.com/film/sharpays-fabulous-adventure/,https://image.tmdb.org/t/p/w500/aPtBzBKCCvByXue1AZrG2lrxm4l.jpg
-542,"Percy Jackson and the Olympians: The Lightning Thief",2010,774,16,https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/,https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg
-543,"Good Luck Charlie, It's Christmas!",2011,774,16,https://letterboxd.com/film/good-luck-charlie-its-christmas/,https://image.tmdb.org/t/p/w500/ecuJMYZM3HQ96mnWtmyXoHb7s7T.jpg
+530,"Wendy Wu: Homecoming Warrior",2006,783,16,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
+531,"Spy Kids 2: Island of Lost Dreams",2002,782,17,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
+532,"Suicide Squad",2016,780,17,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
+533,"Cow Belles",2006,780,16,https://letterboxd.com/film/cow-belles/,https://image.tmdb.org/t/p/w500/kA15KXpFHGKSqrRaJHAf0bhjQcT.jpg
+534,"Rio 2",2014,778,16,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
+535,"G-Force",2009,778,16,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
+536,"The Monuments Men",2014,777,17,https://letterboxd.com/film/the-monuments-men/,https://image.tmdb.org/t/p/w500/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg
+537,"Jurassic World: Dominion",2022,776,16,https://letterboxd.com/film/jurassic-world-dominion/,https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg
+538,"Trolls Band Together",2023,776,16,https://letterboxd.com/film/trolls-band-together/,https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg
+539,"Tinker Bell and the Great Fairy Rescue",2010,776,17,https://letterboxd.com/film/tinker-bell-and-the-great-fairy-rescue/,https://image.tmdb.org/t/p/w500/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg
+540,"Sharpay's Fabulous Adventure",2011,775,17,https://letterboxd.com/film/sharpays-fabulous-adventure/,https://image.tmdb.org/t/p/w500/aPtBzBKCCvByXue1AZrG2lrxm4l.jpg
+541,"Percy Jackson and the Olympians: The Lightning Thief",2010,774,16,https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/,https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg
+542,"Good Luck Charlie, It's Christmas!",2011,774,16,https://letterboxd.com/film/good-luck-charlie-its-christmas/,https://image.tmdb.org/t/p/w500/ecuJMYZM3HQ96mnWtmyXoHb7s7T.jpg
+543,"Grown Ups",2010,772,17,https://letterboxd.com/film/grown-ups/,https://image.tmdb.org/t/p/w500/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg
 544,"Red One",2024,772,17,https://letterboxd.com/film/red-one/,https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg
 545,"Transformers: Dark of the Moon",2011,771,16,https://letterboxd.com/film/transformers-dark-of-the-moon/,https://image.tmdb.org/t/p/w500/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg
 546,"Teenage Mutant Ninja Turtles",2014,771,16,https://letterboxd.com/film/teenage-mutant-ninja-turtles-2014/,https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg
