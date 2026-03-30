@@ -410,15 +410,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 409,"A Goofy Movie",1995,916,17,https://letterboxd.com/film/a-goofy-movie/,https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg
 410,"Flushed Away",2006,916,17,https://letterboxd.com/film/flushed-away/,https://image.tmdb.org/t/p/w500/kgoZI4xh38RrEYEPVib6a12UPLn.jpg
 411,"Transcendence",2014,916,17,https://letterboxd.com/film/transcendence/,https://image.tmdb.org/t/p/w500/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg
-412,"Indiana Jones and the Kingdom of the Crystal Skull",2008,915,16,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
-413,"Casper",1995,915,16,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
-414,"National Treasure: Book of Secrets",2007,915,17,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
-415,"An Extremely Goofy Movie",2000,911,17,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
-416,"Solo: A Star Wars Story",2018,911,16,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
-417,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,910,17,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
-418,"Ice Age: Dawn of the Dinosaurs",2009,910,17,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
-419,"Madagascar",2005,910,17,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
-420,"Despicable Me 2",2013,908,16,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
+412,"Despicable Me 2",2013,916,17,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
+413,"Indiana Jones and the Kingdom of the Crystal Skull",2008,915,16,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
+414,"Casper",1995,915,16,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
+415,"National Treasure: Book of Secrets",2007,915,17,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
+416,"An Extremely Goofy Movie",2000,911,17,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
+417,"Solo: A Star Wars Story",2018,911,16,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
+418,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,910,17,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
+419,"Ice Age: Dawn of the Dinosaurs",2009,910,17,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
+420,"Madagascar",2005,910,17,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
 421,"Doctor Strange in the Multiverse of Madness",2022,908,17,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
 422,"Spy Kids",2001,908,17,https://letterboxd.com/film/spy-kids/,https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg
 423,"Smart House",1999,907,17,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
@@ -572,13 +572,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 571,"Tinker Bell and the Lost Treasure",2009,736,17,https://letterboxd.com/film/tinker-bell-and-the-lost-treasure/,https://image.tmdb.org/t/p/w500/hg1959yuBkHb4BKbIvETQSfxGCT.jpg
 572,"The Core",2003,735,16,https://letterboxd.com/film/the-core/,https://image.tmdb.org/t/p/w500/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg
 573,"Diary of a Wimpy Kid: Dog Days",2012,733,16,https://letterboxd.com/film/diary-of-a-wimpy-kid-dog-days/,https://image.tmdb.org/t/p/w500/7pTvjELxw0f0E6sUPGtPEl4WD0S.jpg
-574,"Cloud 9",2014,731,16,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
-575,"Beverly Hills Chihuahua",2008,730,16,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
-576,"Trolls World Tour",2020,728,17,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
-577,"Camp Rock 2: The Final Jam",2010,728,17,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
-578,"The Twilight Saga: Breaking Dawn Part 1",2011,727,17,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/,https://image.tmdb.org/t/p/w500/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg
-579,"Minions",2015,727,17,https://letterboxd.com/film/minions/,https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg
-580,"Hotel for Dogs",2009,724,17,https://letterboxd.com/film/hotel-for-dogs/,https://image.tmdb.org/t/p/w500/xD2AssTeySNCamlGueai4yAZZfX.jpg
+574,"Beverly Hills Chihuahua",2008,730,16,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
+575,"Trolls World Tour",2020,728,17,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
+576,"Camp Rock 2: The Final Jam",2010,728,17,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
+577,"The Twilight Saga: Breaking Dawn Part 1",2011,727,17,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/,https://image.tmdb.org/t/p/w500/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg
+578,"Minions",2015,727,17,https://letterboxd.com/film/minions/,https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg
+579,"Hotel for Dogs",2009,724,17,https://letterboxd.com/film/hotel-for-dogs/,https://image.tmdb.org/t/p/w500/xD2AssTeySNCamlGueai4yAZZfX.jpg
+580,"Cloud 9",2014,723,17,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
 581,"Transformers: Age of Extinction",2014,723,16,https://letterboxd.com/film/transformers-age-of-extinction/,https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg
 582,"Dr. Dolittle: Tail to the Chief",2008,722,17,https://letterboxd.com/film/dr-dolittle-tail-to-the-chief/,https://image.tmdb.org/t/p/w500/5eamhJLpdvTDNOwHuT9RmUKfpxF.jpg
 583,"Bedtime Stories",2008,715,17,https://letterboxd.com/film/bedtime-stories/,https://image.tmdb.org/t/p/w500/2PljsqbhxrFUzfTnaVhsseHhXN0.jpg
