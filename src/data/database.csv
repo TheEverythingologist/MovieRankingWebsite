@@ -38,7 +38,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 37,"Inception",2010,1300,17,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
 38,"Goodfellas",1990,1296,16,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
 39,"Spider-Man: Across the Spider-Verse",2023,1296,16,https://letterboxd.com/film/spider-man-across-the-spider-verse/,https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
-40,"Star Wars: Episode IV - A New Hope",1977,1295,16,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
+40,"Star Wars: Episode IV - A New Hope",1977,1296,17,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
 41,"Saw",2004,1291,17,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
 42,"Silver Linings Playbook",2012,1290,17,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
 43,"Forrest Gump",1994,1288,17,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
@@ -600,8 +600,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 599,"Hop",2011,680,16,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
 600,"Space Buddies",2009,678,17,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
 601,"Pitch Perfect",2012,677,17,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
-602,"The Little Mermaid II: Return to the Sea",2000,674,16,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
-603,"Clueless",1995,674,17,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
+602,"Clueless",1995,674,17,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
+603,"The Little Mermaid II: Return to the Sea",2000,673,17,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
 604,"Ride Along",2014,673,17,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
 605,"The Boss Baby: Family Business",2021,670,17,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
 606,"Pixels",2015,669,16,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
