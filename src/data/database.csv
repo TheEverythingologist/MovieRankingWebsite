@@ -2,9 +2,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 1,"The Social Network",2010,1447,17,https://letterboxd.com/film/the-social-network/,https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg
 2,"The Dark Knight",2008,1430,17,https://letterboxd.com/film/the-dark-knight/,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg
 3,"Black Swan",2010,1420,18,https://letterboxd.com/film/black-swan/,https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg
-4,"Pulp Fiction",1994,1381,17,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
-5,"Whiplash",2014,1376,17,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
-6,"Requiem for a Dream",2000,1376,13,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+4,"Requiem for a Dream",2000,1386,14,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+5,"Pulp Fiction",1994,1381,17,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
+6,"Whiplash",2014,1376,17,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 7,"Good Will Hunting",1997,1369,17,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
 8,"The Lord of the Rings: The Return of the King",2003,1368,18,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
 9,"Schindler's List",1993,1362,17,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
@@ -75,10 +75,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 74,"Shrek 2",2004,1242,17,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
 75,"The Grand Budapest Hotel",2014,1241,17,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
 76,"Mulan",1998,1238,17,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
-77,"The Zone of Interest",2023,1238,17,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
-78,"Raiders of the Lost Ark",1981,1234,17,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
-79,"Kill Bill Vol. 1",2003,1232,17,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-80,"All Quiet on the Western Front",2022,1229,17,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+77,"Raiders of the Lost Ark",1981,1234,17,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
+78,"Kill Bill Vol. 1",2003,1232,17,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+79,"All Quiet on the Western Front",2022,1229,17,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+80,"The Zone of Interest",2023,1228,18,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
 81,"Princess Mononoke",1997,1223,17,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
 82,"The Prestige",2006,1222,17,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
 83,"Moonlight",2016,1221,17,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
