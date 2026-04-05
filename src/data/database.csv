@@ -2,7 +2,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 1,"The Social Network",2010,1447,17,https://letterboxd.com/film/the-social-network/,https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg
 2,"The Dark Knight",2008,1430,17,https://letterboxd.com/film/the-dark-knight/,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg
 3,"Black Swan",2010,1420,18,https://letterboxd.com/film/black-swan/,https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg
-4,"Requiem for a Dream",2000,1407,16,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+4,"Requiem for a Dream",2000,1414,17,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
 5,"Pulp Fiction",1994,1381,17,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 6,"Whiplash",2014,1376,17,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 7,"Good Will Hunting",1997,1369,17,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
@@ -110,10 +110,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 109,"Room",2015,1194,17,https://letterboxd.com/film/room-2015/,https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg
 110,"Jojo Rabbit",2019,1194,17,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
 111,"Argo",2012,1191,17,https://letterboxd.com/film/argo/,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
-112,"Jaws",1975,1191,17,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
-113,"Top Gun: Maverick",2022,1190,17,https://letterboxd.com/film/top-gun-maverick/,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
-114,"Kill Bill Vol. 2",2004,1190,17,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
-115,"Coco",2017,1187,17,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
+112,"Top Gun: Maverick",2022,1190,17,https://letterboxd.com/film/top-gun-maverick/,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
+113,"Kill Bill Vol. 2",2004,1190,17,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+114,"Coco",2017,1187,17,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
+115,"Jaws",1975,1184,18,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
 116,"Avengers: Endgame",2019,1181,17,https://letterboxd.com/film/avengers-endgame/,https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg
 117,"The Truman Show",1998,1181,17,https://letterboxd.com/film/the-truman-show/,https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg
 118,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,1181,17,https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/,https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg
