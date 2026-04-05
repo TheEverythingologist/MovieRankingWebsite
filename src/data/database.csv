@@ -29,9 +29,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 28,"The Godfather Part II",1974,1318,17,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
 29,"Your Name",2016,1318,17,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
 30,"Spider-Man: Into the Spider-verse",2018,1318,17,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-31,"Oppenheimer",2023,1316,17,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
-32,"Scott Pilgrim vs. The World",2010,1310,17,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
-33,"Requiem for a Dream",2000,1308,5,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+31,"Requiem for a Dream",2000,1317,6,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+32,"Oppenheimer",2023,1316,17,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+33,"Scott Pilgrim vs. The World",2010,1310,17,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
 34,"Eternal Sunshine of the Spotless Mind",2004,1307,17,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
 35,"WALL-E",2008,1305,17,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 36,"Terminator 2: Judgment Day",1991,1303,17,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
@@ -143,17 +143,17 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 142,"Robot Dreams",2023,1153,17,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
 143,"My Neighbor Totoro",1988,1151,17,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
 144,"Monsters, Inc.",2001,1150,17,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
-145,"The Death of Stalin",2017,1149,17,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
-146,"Steve Jobs",2015,1148,17,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
-147,"The Terminator",1984,1148,17,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
-148,"Scream",1997,1146,18,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
-149,"Fantastic Mr. Fox",2009,1146,17,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
-150,"O'Brother, Where Art Thou",2000,1145,17,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
-151,"Moana",2016,1145,17,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
-152,"Indiana Jones and the Last Crusade",1989,1143,17,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
-153,"Inside Out",2015,1143,17,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
-154,"Toy Story",1995,1141,17,https://letterboxd.com/film/toy-story/,https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg
-155,"Captain America: The Winter Soldier",2014,1141,17,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
+145,"Steve Jobs",2015,1148,17,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
+146,"The Terminator",1984,1148,17,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+147,"Scream",1997,1146,18,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
+148,"Fantastic Mr. Fox",2009,1146,17,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
+149,"O'Brother, Where Art Thou",2000,1145,17,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
+150,"Moana",2016,1145,17,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
+151,"Indiana Jones and the Last Crusade",1989,1143,17,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
+152,"Inside Out",2015,1143,17,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
+153,"Toy Story",1995,1141,17,https://letterboxd.com/film/toy-story/,https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg
+154,"Captain America: The Winter Soldier",2014,1141,17,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
+155,"The Death of Stalin",2017,1140,18,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
 156,"Iron Man",2008,1139,17,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
 157,"Knives Out",2019,1138,17,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
 158,"Office Space",1999,1137,17,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
