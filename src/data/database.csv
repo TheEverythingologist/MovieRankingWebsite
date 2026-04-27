@@ -17,14 +17,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 16,"The Silence of the Lambs",1991,1343,17,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 17,"Lady Bird",2017,1342,17,https://letterboxd.com/film/lady-bird/,https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg
 18,"Inglourious Basterds",2009,1340,17,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
-19,"City of God",2002,1335,17,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
-20,"The Godfather",1972,1335,17,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
-21,"Saving Private Ryan",1998,1333,17,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
-22,"La La Land",2016,1332,17,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
-23,"American Psycho",2000,1331,17,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
-24,"Arrival",2016,1331,17,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
-25,"A Quiet Place",2018,1326,17,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-26,"The Martian",2015,1325,17,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+19,"The Martian",2015,1336,18,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+20,"City of God",2002,1335,17,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
+21,"The Godfather",1972,1335,17,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+22,"Saving Private Ryan",1998,1333,17,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
+23,"La La Land",2016,1332,17,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+24,"American Psycho",2000,1331,17,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+25,"Arrival",2016,1331,17,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
+26,"A Quiet Place",2018,1326,17,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 27,"Se7en",1995,1325,17,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
 28,"The Lord of the Rings: The Fellowship of the Ring",2001,1319,17,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
 29,"The Godfather Part II",1974,1318,17,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
@@ -91,12 +91,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 90,"Hidden Figures",2016,1220,17,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
 91,"Avengers: Infinity War",2018,1220,17,https://letterboxd.com/film/avengers-infinity-war/,https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 92,"The Lego Movie",2014,1218,17,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
-93,"The Incredibles",2004,1217,17,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
-94,"Bugonia",2025,1216,17,https://letterboxd.com/film/bugonia/,https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg
-95,"Wicked",2024,1215,18,https://letterboxd.com/film/wicked-2024/,https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg
-96,"Her",2013,1214,17,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
-97,"Dunkirk",2017,1214,17,https://letterboxd.com/film/dunkirk-2017/,https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
-98,"Dead Poets' Society",1989,1209,18,https://letterboxd.com/film/dead-poets-society/,https://image.tmdb.org/t/p/w500/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg
+93,"Bugonia",2025,1216,17,https://letterboxd.com/film/bugonia/,https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg
+94,"Wicked",2024,1215,18,https://letterboxd.com/film/wicked-2024/,https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg
+95,"Her",2013,1214,17,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
+96,"Dunkirk",2017,1214,17,https://letterboxd.com/film/dunkirk-2017/,https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
+97,"Dead Poets' Society",1989,1209,18,https://letterboxd.com/film/dead-poets-society/,https://image.tmdb.org/t/p/w500/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg
+98,"The Incredibles",2004,1206,18,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
 99,"How to Train Your Dragon",2010,1206,17,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg
 100,"Slumdog Millionaire",2008,1206,17,https://letterboxd.com/film/slumdog-millionaire/,https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg
 101,"Frankenstein",2025,1206,17,https://letterboxd.com/film/frankenstein-2025/,https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg
