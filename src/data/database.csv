@@ -77,15 +77,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 76,"Mulan",1998,1238,17,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
 77,"Princess Mononoke",1997,1237,18,https://letterboxd.com/film/princess-mononoke/,https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg
 78,"Raiders of the Lost Ark",1981,1234,17,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
-79,"Kill Bill Vol. 1",2003,1232,17,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-80,"All Quiet on the Western Front",2022,1229,17,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
-81,"The Zone of Interest",2023,1228,18,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
-82,"Project Hail Mary",2026,1228,18,https://letterboxd.com/film/project-hail-mary/,https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg
-83,"To Kill A Mockingbird",1962,1226,18,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
-84,"Marty Supreme",2025,1225,18,https://letterboxd.com/film/marty-supreme/,https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
-85,"The Prestige",2006,1222,17,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
-86,"Moonlight",2016,1221,17,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
-87,"Alien",1979,1221,17,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
+79,"Alien",1979,1233,18,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
+80,"Kill Bill Vol. 1",2003,1232,17,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+81,"All Quiet on the Western Front",2022,1229,17,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+82,"The Zone of Interest",2023,1228,18,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
+83,"Project Hail Mary",2026,1228,18,https://letterboxd.com/film/project-hail-mary/,https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg
+84,"To Kill A Mockingbird",1962,1226,18,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
+85,"Marty Supreme",2025,1225,18,https://letterboxd.com/film/marty-supreme/,https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
+86,"The Prestige",2006,1222,17,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
+87,"Moonlight",2016,1221,17,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
 88,"Hidden Figures",2016,1220,17,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
 89,"Avengers: Infinity War",2018,1220,17,https://letterboxd.com/film/avengers-infinity-war/,https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 90,"The Lego Movie",2014,1218,17,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
@@ -170,18 +170,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 169,"Deadpool",2016,1127,17,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
 170,"John Wick",2014,1122,18,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
 171,"American Sniper",2014,1122,18,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
-172,"Chicago",2002,1121,17,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
-173,"Kingsman: The Secret Service",2014,1117,17,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
-174,"Glass Onion: A Knives Out Mystery",2022,1117,17,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
-175,"Brooklyn",2015,1116,18,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
-176,"Back to the Future Part III",1990,1116,17,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
-177,"Juno",2007,1115,18,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
-178,"The Batman",2022,1115,18,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
-179,"The Breakfast Club",1985,1113,17,https://letterboxd.com/film/the-breakfast-club/,https://image.tmdb.org/t/p/w500/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg
-180,"Hoppers",2026,1113,18,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
-181,"WarGames",1983,1112,17,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
-182,"Molly's Game",2017,1111,17,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
-183,"Up",2009,1110,17,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
+172,"Kingsman: The Secret Service",2014,1117,17,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
+173,"Glass Onion: A Knives Out Mystery",2022,1117,17,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
+174,"Brooklyn",2015,1116,18,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
+175,"Back to the Future Part III",1990,1116,17,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
+176,"Juno",2007,1115,18,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
+177,"The Batman",2022,1115,18,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
+178,"The Breakfast Club",1985,1113,17,https://letterboxd.com/film/the-breakfast-club/,https://image.tmdb.org/t/p/w500/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg
+179,"Hoppers",2026,1113,18,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
+180,"WarGames",1983,1112,17,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
+181,"Molly's Game",2017,1111,17,https://letterboxd.com/film/mollys-game/,https://image.tmdb.org/t/p/w500/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg
+182,"Up",2009,1110,17,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
+183,"Chicago",2002,1109,18,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
 184,"Thor: Ragnarok",2017,1107,17,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
 185,"Aladdin",1992,1106,18,https://letterboxd.com/film/aladdin/,https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg
 186,"Guardians of the Galaxy: Volume 2",2017,1103,18,https://letterboxd.com/film/guardians-of-the-galaxy-volume-2/,https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
