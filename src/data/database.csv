@@ -167,14 +167,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 166,"Airplane!",1980,1128,17,https://letterboxd.com/film/airplane/,https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg
 167,"Moana",2016,1127,18,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
 168,"Deadpool",2016,1127,17,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
-169,"John Wick",2014,1122,18,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
-170,"American Sniper",2014,1122,18,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
-171,"Kingsman: The Secret Service",2014,1117,17,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
-172,"Glass Onion: A Knives Out Mystery",2022,1117,17,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
-173,"Brooklyn",2015,1116,18,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
-174,"Juno",2007,1115,18,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
-175,"The Batman",2022,1115,18,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
-176,"The Substance",2024,1114,7,https://letterboxd.com/film/the-substance/,https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg
+169,"The Substance",2024,1125,8,https://letterboxd.com/film/the-substance/,https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg
+170,"John Wick",2014,1122,18,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
+171,"American Sniper",2014,1122,18,https://letterboxd.com/film/american-sniper/,https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg
+172,"Kingsman: The Secret Service",2014,1117,17,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
+173,"Glass Onion: A Knives Out Mystery",2022,1117,17,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
+174,"Brooklyn",2015,1116,18,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
+175,"Juno",2007,1115,18,https://letterboxd.com/film/juno/,https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg
+176,"The Batman",2022,1115,18,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
 177,"Rocky",1976,1113,18,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
 178,"Hoppers",2026,1113,18,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
 179,"WarGames",1983,1112,17,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
@@ -316,18 +316,18 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 315,"The Lego Ninjago Movie",2017,998,18,https://letterboxd.com/film/the-lego-ninjago-movie/,https://image.tmdb.org/t/p/w500/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg
 316,"Anchorman: The Legend of Ron Burgundy",2004,998,18,https://letterboxd.com/film/anchorman-the-legend-of-ron-burgundy/,https://image.tmdb.org/t/p/w500/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg
 317,"Avengers: Age of Ultron",2015,998,17,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
-318,"Cars",2006,998,17,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
-319,"Sleeping Beauty",1959,998,17,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
-320,"Men in Black 3",2012,997,17,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
-321,"National Treasure",2004,996,18,https://letterboxd.com/film/national-treasure/,https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg
-322,"The Spongebob Squarepants Movie",2004,996,17,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
-323,"Cloudy with a Chance of Meatballs",2009,995,17,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
-324,"The Mummy",1999,995,18,https://letterboxd.com/film/the-mummy-1999/,https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg
-325,"Spider-Man: Far From Home",2019,991,18,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
-326,"Napoleon Dynamite",2004,991,17,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
-327,"Star Wars: Episode VIII - The Last Jedi",2017,989,18,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
-328,"Star Trek",2009,989,18,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
-329,"Hocus Pocus",1993,988,17,https://letterboxd.com/film/hocus-pocus/,https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg
+318,"Sleeping Beauty",1959,998,17,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
+319,"Men in Black 3",2012,997,17,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
+320,"National Treasure",2004,996,18,https://letterboxd.com/film/national-treasure/,https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg
+321,"The Spongebob Squarepants Movie",2004,996,17,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
+322,"Cloudy with a Chance of Meatballs",2009,995,17,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
+323,"The Mummy",1999,995,18,https://letterboxd.com/film/the-mummy-1999/,https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg
+324,"Spider-Man: Far From Home",2019,991,18,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
+325,"Napoleon Dynamite",2004,991,17,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
+326,"Star Wars: Episode VIII - The Last Jedi",2017,989,18,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+327,"Star Trek",2009,989,18,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
+328,"Hocus Pocus",1993,988,17,https://letterboxd.com/film/hocus-pocus/,https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg
+329,"Cars",2006,987,18,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
 330,"Minutemen",2008,985,17,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
 331,"Gremlins",1984,985,18,https://letterboxd.com/film/gremlins/,https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg
 332,"Kung Fu Panda 3",2016,984,17,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
