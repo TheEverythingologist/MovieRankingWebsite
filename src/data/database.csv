@@ -57,8 +57,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 56,"Forrest Gump",1994,1272,18,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
 57,"Joker",2019,1271,18,https://letterboxd.com/film/joker-2019/,https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
 58,"Citizen Kane",1941,1269,18,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
-59,"The Dark Knight Rises",2012,1264,17,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
-60,"Get Out",2017,1261,17,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
+59,"Get Out",2017,1265,18,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
+60,"The Dark Knight Rises",2012,1264,17,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
 61,"The Great Dictator",1940,1261,18,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
 62,"Mad Max: Fury Road",2015,1257,18,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
 63,"One Battle After Another",2025,1257,17,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
@@ -432,11 +432,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 431,"Men in Black 2",2002,908,18,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
 432,"Spiral: From the Book of Saw",2021,907,18,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
 433,"Smart House",1999,907,17,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
-434,"Christopher Robin",2018,907,17,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
-435,"Ace Ventura: When Nature Calls",1995,906,17,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
-436,"Let it Shine",2012,905,17,https://letterboxd.com/film/let-it-shine/,https://image.tmdb.org/t/p/w500/rmYB5cqacaYhIcLjAD9QRob7luz.jpg
-437,"Monster House",2006,905,18,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
-438,"Thor: The Dark World",2013,904,18,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+434,"Ace Ventura: When Nature Calls",1995,906,17,https://letterboxd.com/film/ace-ventura-when-nature-calls/,https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
+435,"Let it Shine",2012,905,17,https://letterboxd.com/film/let-it-shine/,https://image.tmdb.org/t/p/w500/rmYB5cqacaYhIcLjAD9QRob7luz.jpg
+436,"Monster House",2006,905,18,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
+437,"Thor: The Dark World",2013,904,18,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+438,"Christopher Robin",2018,903,18,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
 439,"National Treasure: Book of Secrets",2007,903,18,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
 440,"High School Musical",2006,902,18,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
 441,"Small Soldiers",1998,902,18,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
