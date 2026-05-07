@@ -601,16 +601,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 600,"Santa Buddies",2009,685,18,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
 601,"Zookeeper",2011,685,18,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
 602,"The Boss Baby: Family Business",2021,683,18,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
-603,"Space Buddies",2009,677,18,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
-604,"Grown Ups 2",2013,676,18,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
-605,"Twitches",2005,675,18,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
-606,"Clueless",1995,674,17,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
-607,"The Little Mermaid II: Return to the Sea",2000,673,17,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
-608,"Pitch Perfect",2012,671,18,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
-609,"Dadnapped",2009,671,18,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
-610,"Bad Hair Day",2015,671,18,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
-611,"Teen Beach Movie",2013,668,17,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
-612,"Pixels",2015,667,17,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
+603,"Pixels",2015,680,18,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
+604,"Space Buddies",2009,677,18,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
+605,"Grown Ups 2",2013,676,18,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
+606,"Twitches",2005,675,18,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
+607,"Clueless",1995,674,17,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
+608,"The Little Mermaid II: Return to the Sea",2000,673,17,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
+609,"Pitch Perfect",2012,671,18,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
+610,"Dadnapped",2009,671,18,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
+611,"Bad Hair Day",2015,671,18,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
+612,"Teen Beach Movie",2013,668,17,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
 613,"Beverly Hills Chihuahua 2",2011,665,18,https://letterboxd.com/film/beverly-hills-chihuahua-2/,https://image.tmdb.org/t/p/w500/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg
 614,"Hop",2011,662,18,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
 615,"Ride Along",2014,661,18,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
@@ -625,9 +625,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 624,"Ramona and Beezus",2010,626,18,https://letterboxd.com/film/ramona-and-beezus/,https://image.tmdb.org/t/p/w500/bW1YWFyocIY8DDgwOUroZG2FYNe.jpg
 625,"Tremors: A Cold Day in Hell",2018,623,18,https://letterboxd.com/film/tremors-a-cold-day-in-hell/,https://image.tmdb.org/t/p/w500/aFOdiHaRjeTmHG67e5B7md2Q1cq.jpg
 626,"Epic Movie",2007,616,18,https://letterboxd.com/film/epic-movie/,https://image.tmdb.org/t/p/w500/l0lGJiTzU2Ce6T31DIRWv7I0kaC.jpg
-627,"The DUFF",2015,594,17,https://letterboxd.com/film/the-duff/,https://image.tmdb.org/t/p/w500/aHzdMSKwq9ucnP2yXl5zYIfKgGl.jpg
-628,"Legally Blonde 2: Red, White & Blonde",2003,588,18,https://letterboxd.com/film/legally-blonde-2-red-white-blonde/,https://image.tmdb.org/t/p/w500/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg
-629,"Spellbound",2024,588,18,https://letterboxd.com/film/spellbound-2024/,https://image.tmdb.org/t/p/w500/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg
+627,"Legally Blonde 2: Red, White & Blonde",2003,588,18,https://letterboxd.com/film/legally-blonde-2-red-white-blonde/,https://image.tmdb.org/t/p/w500/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg
+628,"Spellbound",2024,588,18,https://letterboxd.com/film/spellbound-2024/,https://image.tmdb.org/t/p/w500/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg
+629,"The DUFF",2015,581,18,https://letterboxd.com/film/the-duff/,https://image.tmdb.org/t/p/w500/aHzdMSKwq9ucnP2yXl5zYIfKgGl.jpg
 630,"The Last Airbender",2010,568,18,https://letterboxd.com/film/the-last-airbender/,https://image.tmdb.org/t/p/w500/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg
 631,"Jack and Jill",2011,556,18,https://letterboxd.com/film/jack-and-jill/,https://image.tmdb.org/t/p/w500/kFeAxmZvu0TE4iuLRHQD6Cej8Wf.jpg
 632,"God’s Not Dead",2014,531,18,https://letterboxd.com/film/gods-not-dead/,https://image.tmdb.org/t/p/w500/yKUzBolWrwyByevBtDPfy3kIumv.jpg
