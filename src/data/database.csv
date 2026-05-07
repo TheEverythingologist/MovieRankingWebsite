@@ -228,11 +228,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 227,"Harry Potter and the Order of the Phoenix",2007,1071,18,https://letterboxd.com/film/harry-potter-and-the-order-of-the-phoenix/,https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg
 228,"Star Wars: Episode III - Revenge of the Sith",2005,1071,18,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg
 229,"Kung Fu Hustle",2004,1070,18,https://letterboxd.com/film/kung-fu-hustle/,https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg
-230,"Avatar",2009,1069,18,https://letterboxd.com/film/avatar/,https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
-231,"Zootopia",2016,1068,18,https://letterboxd.com/film/zootopia/,https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
-232,"Finding Nemo",2003,1068,18,https://letterboxd.com/film/finding-nemo/,https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
-233,"Lilo & Stitch",2002,1067,18,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
-234,"Little Shop of Horrors",1986,1066,17,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
+230,"Little Shop of Horrors",1986,1070,18,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
+231,"Avatar",2009,1069,18,https://letterboxd.com/film/avatar/,https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
+232,"Zootopia",2016,1068,18,https://letterboxd.com/film/zootopia/,https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
+233,"Finding Nemo",2003,1068,18,https://letterboxd.com/film/finding-nemo/,https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg
+234,"Lilo & Stitch",2002,1067,18,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
 235,"Final Destination",2000,1066,18,https://letterboxd.com/film/final-destination/,https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg
 236,"The Muppet Christmas Carol",1992,1065,18,https://letterboxd.com/film/the-muppet-christmas-carol/,https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg
 237,"Zootopia 2",2025,1065,18,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
@@ -593,8 +593,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 592,"Blades of Glory",2007,708,18,https://letterboxd.com/film/blades-of-glory/,https://image.tmdb.org/t/p/w500/yclY3zyzrL1MS9b6Eygs9ks0ZTY.jpg
 593,"How to Build a Better Boy",2014,706,18,https://letterboxd.com/film/how-to-build-a-better-boy/,https://image.tmdb.org/t/p/w500/ivo09vYN76w3epqAv9jS9BEXi5N.jpg
 594,"Twitches Too",2007,705,18,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
-595,"Avalon High",2010,705,17,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
-596,"Cloud 9",2014,704,18,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
+595,"Cloud 9",2014,704,18,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
+596,"Avalon High",2010,701,18,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
 597,"Zapped",2014,699,18,https://letterboxd.com/film/zapped-2014/,https://image.tmdb.org/t/p/w500/u33QFfbvChD5LNcuZD0LsSVnoa1.jpg
 598,"Snow Buddies",2008,695,18,https://letterboxd.com/film/snow-buddies/,https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg
 599,"The Pirate Fairy",2014,692,18,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
