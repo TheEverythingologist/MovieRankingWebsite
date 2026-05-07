@@ -507,23 +507,23 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 506,"Camp Rock",2008,818,17,https://letterboxd.com/film/camp-rock/,https://image.tmdb.org/t/p/w500/7IXMqZnwccogptThay3togKIFWw.jpg
 507,"Diary of a Wimpy Kid",2010,816,18,https://letterboxd.com/film/diary-of-a-wimpy-kid/,https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg
 508,"Legally Blondes",2009,816,18,https://letterboxd.com/film/legally-blondes/,https://image.tmdb.org/t/p/w500/wZnEw0avASZwBWcJo5F1pdJnmO2.jpg
-509,"Home on the Range",2004,815,17,https://letterboxd.com/film/home-on-the-range/,https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg
-510,"Happy Feet Two",2011,814,18,https://letterboxd.com/film/happy-feet-two/,https://image.tmdb.org/t/p/w500/2gWiQ4mn85jcXtREVePlVViupeV.jpg
-511,"Flamin' Hot",2023,813,18,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
-512,"Descendants",2015,813,18,https://letterboxd.com/film/descendants-2015/,https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg
-513,"The Santa Clause 3: The Escape Clause",2006,813,18,https://letterboxd.com/film/the-santa-clause-3-the-escape-clause/,https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg
-514,"Shark Tale",2004,811,18,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
-515,"Despicable Me 3",2017,811,18,https://letterboxd.com/film/despicable-me-3/,https://image.tmdb.org/t/p/w500/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg
-516,"Sing 2",2021,808,18,https://letterboxd.com/film/sing-2/,https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg
-517,"Meet Dave",2008,807,18,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
-518,"Transformers: Revenge of the Fallen",2009,805,18,https://letterboxd.com/film/transformers-revenge-of-the-fallen/,https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg
-519,"The Ultimate Christmas Present",2000,805,18,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
-520,"The Game Plan",2007,804,18,https://letterboxd.com/film/the-game-plan/,https://image.tmdb.org/t/p/w500/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg
-521,"Cars 2",2011,803,18,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
-522,"Sing",2016,800,17,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
-523,"Legally Blonde",2001,800,17,https://letterboxd.com/film/legally-blonde/,https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg
-524,"Leroy and Stitch",2006,797,18,https://letterboxd.com/film/leroy-and-stitch/,https://image.tmdb.org/t/p/w500/1LCfRArffse3PnqkACooOHkWcry.jpg
-525,"Lady and the Tramp II: Scamp's Adventure",2001,797,17,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
+509,"Happy Feet Two",2011,814,18,https://letterboxd.com/film/happy-feet-two/,https://image.tmdb.org/t/p/w500/2gWiQ4mn85jcXtREVePlVViupeV.jpg
+510,"Flamin' Hot",2023,813,18,https://letterboxd.com/film/flamin-hot/,https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg
+511,"Descendants",2015,813,18,https://letterboxd.com/film/descendants-2015/,https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg
+512,"The Santa Clause 3: The Escape Clause",2006,813,18,https://letterboxd.com/film/the-santa-clause-3-the-escape-clause/,https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg
+513,"Shark Tale",2004,811,18,https://letterboxd.com/film/shark-tale/,https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg
+514,"Despicable Me 3",2017,811,18,https://letterboxd.com/film/despicable-me-3/,https://image.tmdb.org/t/p/w500/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg
+515,"Sing 2",2021,808,18,https://letterboxd.com/film/sing-2/,https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg
+516,"Meet Dave",2008,807,18,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
+517,"Transformers: Revenge of the Fallen",2009,805,18,https://letterboxd.com/film/transformers-revenge-of-the-fallen/,https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg
+518,"The Ultimate Christmas Present",2000,805,18,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
+519,"The Game Plan",2007,804,18,https://letterboxd.com/film/the-game-plan/,https://image.tmdb.org/t/p/w500/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg
+520,"Cars 2",2011,803,18,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
+521,"Sing",2016,800,17,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
+522,"Legally Blonde",2001,800,17,https://letterboxd.com/film/legally-blonde/,https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg
+523,"Leroy and Stitch",2006,797,18,https://letterboxd.com/film/leroy-and-stitch/,https://image.tmdb.org/t/p/w500/1LCfRArffse3PnqkACooOHkWcry.jpg
+524,"Lady and the Tramp II: Scamp's Adventure",2001,797,17,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
+525,"Home on the Range",2004,795,18,https://letterboxd.com/film/home-on-the-range/,https://image.tmdb.org/t/p/w500/9xIIo4FMquy5SRqn8hppyr2QadR.jpg
 526,"The Hunger Games: Mockingjay Part 1",2014,795,18,https://letterboxd.com/film/the-hunger-games-mockingjay-part-1/,https://image.tmdb.org/t/p/w500/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg
 527,"The Fault in Our Stars",2014,794,17,https://letterboxd.com/film/the-fault-in-our-stars/,https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg
 528,"Diary of a Wimpy Kid: Rodrick Rules",2011,792,18,https://letterboxd.com/film/diary-of-a-wimpy-kid-rodrick-rules/,https://image.tmdb.org/t/p/w500/w77ZoDmHNf6lnk8NWsXqWYOQqnp.jpg
@@ -561,23 +561,23 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 560,"G-Force",2009,755,18,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
 561,"Red One",2024,755,18,https://letterboxd.com/film/red-one/,https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg
 562,"The Core",2003,754,17,https://letterboxd.com/film/the-core/,https://image.tmdb.org/t/p/w500/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg
-563,"Volcano",1997,750,17,https://letterboxd.com/film/volcano/,https://image.tmdb.org/t/p/w500/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg
-564,"Percy Jackson and the Olympians: The Lightning Thief",2010,748,18,https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/,https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg
-565,"Beverly Hills Chihuahua",2008,748,18,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
-566,"The Meg",2018,747,18,https://letterboxd.com/film/the-meg/,https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
-567,"Emilia Pérez",2024,747,18,https://letterboxd.com/film/emilia-perez/,https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg
-568,"The Dog Who Saved Christmas",2009,743,18,https://letterboxd.com/film/the-dog-who-saved-christmas/,https://image.tmdb.org/t/p/w500/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg
-569,"Casper Meets Wendy",1998,741,18,https://letterboxd.com/film/casper-meets-wendy/,https://image.tmdb.org/t/p/w500/zYJWQvee9CN6nc9En2KUWewHGHr.jpg
-570,"Batman & Robin",1997,741,17,https://letterboxd.com/film/batman-robin/,https://image.tmdb.org/t/p/w500/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg
-571,"Dr. Dolittle 2",2001,740,17,https://letterboxd.com/film/dr-dolittle-2/,https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg
-572,"Camp Rock 2: The Final Jam",2010,740,18,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
-573,"Princess Protection Program",2009,738,17,https://letterboxd.com/film/princess-protection-program/,https://image.tmdb.org/t/p/w500/tPKD9hmuYxclAQnfup47qLx8a5T.jpg
-574,"Parental Guidance",2012,738,17,https://letterboxd.com/film/parental-guidance-2012/,https://image.tmdb.org/t/p/w500/815zxi87kTUvleFHjnE5SNzWmVZ.jpg
-575,"Spy Kids 3-D: Game Over",2003,736,18,https://letterboxd.com/film/spy-kids-3-d-game-over/,https://image.tmdb.org/t/p/w500/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg
-576,"Tinker Bell and the Lost Treasure",2009,736,17,https://letterboxd.com/film/tinker-bell-and-the-lost-treasure/,https://image.tmdb.org/t/p/w500/hg1959yuBkHb4BKbIvETQSfxGCT.jpg
-577,"Transformers: Age of Extinction",2014,735,18,https://letterboxd.com/film/transformers-age-of-extinction/,https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg
-578,"Ghostbusters",2016,734,18,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg
-579,"Mirror Mirror",2012,733,17,https://letterboxd.com/film/mirror-mirror-2012/,https://image.tmdb.org/t/p/w500/4xiB9KTg6wCaA2OJw4pT44MJaau.jpg
+563,"Mirror Mirror",2012,753,18,https://letterboxd.com/film/mirror-mirror-2012/,https://image.tmdb.org/t/p/w500/4xiB9KTg6wCaA2OJw4pT44MJaau.jpg
+564,"Volcano",1997,750,17,https://letterboxd.com/film/volcano/,https://image.tmdb.org/t/p/w500/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg
+565,"Percy Jackson and the Olympians: The Lightning Thief",2010,748,18,https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/,https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg
+566,"Beverly Hills Chihuahua",2008,748,18,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
+567,"The Meg",2018,747,18,https://letterboxd.com/film/the-meg/,https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
+568,"Emilia Pérez",2024,747,18,https://letterboxd.com/film/emilia-perez/,https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg
+569,"The Dog Who Saved Christmas",2009,743,18,https://letterboxd.com/film/the-dog-who-saved-christmas/,https://image.tmdb.org/t/p/w500/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg
+570,"Casper Meets Wendy",1998,741,18,https://letterboxd.com/film/casper-meets-wendy/,https://image.tmdb.org/t/p/w500/zYJWQvee9CN6nc9En2KUWewHGHr.jpg
+571,"Batman & Robin",1997,741,17,https://letterboxd.com/film/batman-robin/,https://image.tmdb.org/t/p/w500/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg
+572,"Dr. Dolittle 2",2001,740,17,https://letterboxd.com/film/dr-dolittle-2/,https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg
+573,"Camp Rock 2: The Final Jam",2010,740,18,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
+574,"Princess Protection Program",2009,738,17,https://letterboxd.com/film/princess-protection-program/,https://image.tmdb.org/t/p/w500/tPKD9hmuYxclAQnfup47qLx8a5T.jpg
+575,"Parental Guidance",2012,738,17,https://letterboxd.com/film/parental-guidance-2012/,https://image.tmdb.org/t/p/w500/815zxi87kTUvleFHjnE5SNzWmVZ.jpg
+576,"Spy Kids 3-D: Game Over",2003,736,18,https://letterboxd.com/film/spy-kids-3-d-game-over/,https://image.tmdb.org/t/p/w500/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg
+577,"Tinker Bell and the Lost Treasure",2009,736,17,https://letterboxd.com/film/tinker-bell-and-the-lost-treasure/,https://image.tmdb.org/t/p/w500/hg1959yuBkHb4BKbIvETQSfxGCT.jpg
+578,"Transformers: Age of Extinction",2014,735,18,https://letterboxd.com/film/transformers-age-of-extinction/,https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg
+579,"Ghostbusters",2016,734,18,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg
 580,"Tremors 4: The Legend Begins",2004,730,18,https://letterboxd.com/film/tremors-4-the-legend-begins/,https://image.tmdb.org/t/p/w500/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg
 581,"Geek Charming",2011,730,17,https://letterboxd.com/film/geek-charming/,https://image.tmdb.org/t/p/w500/xweQBQSYQyHKiUxN1nCDQbLvJE0.jpg
 582,"Zenon: Z3",2004,728,18,https://letterboxd.com/film/zenon-z3/,https://image.tmdb.org/t/p/w500/mnX94DJ9GVXEOmbdN97Yh5hGifT.jpg
