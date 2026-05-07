@@ -79,16 +79,16 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 78,"Raiders of the Lost Ark",1981,1234,17,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
 79,"Alien",1979,1233,18,https://letterboxd.com/film/alien/,https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg
 80,"Kill Bill Vol. 1",2003,1232,17,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-81,"Superbad",2007,1230,18,https://letterboxd.com/film/superbad/,https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg
-82,"All Quiet on the Western Front",2022,1229,17,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
-83,"A Real Pain",2024,1229,18,https://letterboxd.com/film/a-real-pain/,https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg
-84,"The Zone of Interest",2023,1228,18,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
-85,"Project Hail Mary",2026,1228,18,https://letterboxd.com/film/project-hail-mary/,https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg
-86,"To Kill A Mockingbird",1962,1226,18,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
-87,"Marty Supreme",2025,1225,18,https://letterboxd.com/film/marty-supreme/,https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
-88,"The Grand Budapest Hotel",2014,1222,18,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
-89,"The Prestige",2006,1222,17,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
-90,"Moonlight",2016,1221,17,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
+81,"Moonlight",2016,1231,18,https://letterboxd.com/film/moonlight-2016/,https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg
+82,"Superbad",2007,1230,18,https://letterboxd.com/film/superbad/,https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg
+83,"All Quiet on the Western Front",2022,1229,17,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+84,"A Real Pain",2024,1229,18,https://letterboxd.com/film/a-real-pain/,https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg
+85,"The Zone of Interest",2023,1228,18,https://letterboxd.com/film/the-zone-of-interest/,https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
+86,"Project Hail Mary",2026,1228,18,https://letterboxd.com/film/project-hail-mary/,https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg
+87,"To Kill A Mockingbird",1962,1226,18,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
+88,"Marty Supreme",2025,1225,18,https://letterboxd.com/film/marty-supreme/,https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
+89,"The Grand Budapest Hotel",2014,1222,18,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
+90,"The Prestige",2006,1222,17,https://letterboxd.com/film/the-prestige/,https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
 91,"Hidden Figures",2016,1220,17,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
 92,"Avengers: Infinity War",2018,1220,17,https://letterboxd.com/film/avengers-infinity-war/,https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg
 93,"The Lego Movie",2014,1218,17,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
@@ -193,17 +193,17 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 192,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1097,18,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
 193,"Willy Wonka & the Chocolate Factory",1971,1097,18,https://letterboxd.com/film/willy-wonka-the-chocolate-factory/,https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
 194,"Up",2009,1095,18,https://letterboxd.com/film/up/,https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg
-195,"Spider-Man: No Way Home",2021,1095,17,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
-196,"Beauty and the Beast",1991,1095,17,https://letterboxd.com/film/beauty-and-the-beast-1991/,https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg
-197,"Black Panther",2018,1094,17,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
-198,"The Breakfast Club",1985,1093,18,https://letterboxd.com/film/the-breakfast-club/,https://image.tmdb.org/t/p/w500/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg
-199,"Sonic the Hedgehog 3",2024,1092,17,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
-200,"Bridge of Spies",2015,1092,17,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
-201,"Men in Black",1997,1089,18,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
-202,"Civil War",2024,1088,17,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
-203,"Isle of Dogs",2018,1087,18,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
-204,"Megamind",2010,1087,17,https://letterboxd.com/film/megamind/,https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg
-205,"Nimona",2023,1086,17,https://letterboxd.com/film/nimona-2023/,https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg
+195,"Beauty and the Beast",1991,1095,17,https://letterboxd.com/film/beauty-and-the-beast-1991/,https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg
+196,"Black Panther",2018,1094,17,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
+197,"The Breakfast Club",1985,1093,18,https://letterboxd.com/film/the-breakfast-club/,https://image.tmdb.org/t/p/w500/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg
+198,"Sonic the Hedgehog 3",2024,1092,17,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
+199,"Bridge of Spies",2015,1092,17,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
+200,"Men in Black",1997,1089,18,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
+201,"Civil War",2024,1088,17,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
+202,"Isle of Dogs",2018,1087,18,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
+203,"Megamind",2010,1087,17,https://letterboxd.com/film/megamind/,https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg
+204,"Nimona",2023,1086,17,https://letterboxd.com/film/nimona-2023/,https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg
+205,"Spider-Man: No Way Home",2021,1085,18,https://letterboxd.com/film/spider-man-no-way-home/,https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg
 206,"Tangled",2010,1085,18,https://letterboxd.com/film/tangled-2010/,https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg
 207,"Captain America: Civil War",2016,1085,18,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
 208,"The Princess and the Frog",2009,1085,18,https://letterboxd.com/film/the-princess-and-the-frog/,https://image.tmdb.org/t/p/w500/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg
