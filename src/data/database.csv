@@ -47,13 +47,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 46,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1285,18,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
 47,"Poor Things",2023,1284,18,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 48,"Puss in Boots: The Last Wish",2022,1283,17,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
-49,"2001: A Space Odyssey",1968,1281,17,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
-50,"Sinners",2025,1280,18,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
-51,"The Banshees of Inisherin",2022,1280,18,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
-52,"Star Wars: Episode IV - A New Hope",1977,1278,18,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
-53,"The Menu",2022,1277,18,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
-54,"12 Years a Slave",2013,1273,18,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
-55,"Midsommar",2019,1273,17,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
+49,"Midsommar",2019,1283,18,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
+50,"2001: A Space Odyssey",1968,1281,17,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
+51,"Sinners",2025,1280,18,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
+52,"The Banshees of Inisherin",2022,1280,18,https://letterboxd.com/film/the-banshees-of-inisherin/,https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg
+53,"Star Wars: Episode IV - A New Hope",1977,1278,18,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
+54,"The Menu",2022,1277,18,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
+55,"12 Years a Slave",2013,1273,18,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
 56,"Forrest Gump",1994,1272,18,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
 57,"Joker",2019,1271,18,https://letterboxd.com/film/joker-2019/,https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
 58,"Citizen Kane",1941,1269,18,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
@@ -151,21 +151,21 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 150,"District 9",2009,1139,18,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
 151,"Iron Man",2008,1139,17,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
 152,"Robot Dreams",2023,1137,18,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
-153,"Office Space",1999,1137,17,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
-154,"Monsters, Inc.",2001,1135,18,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
-155,"Monty Python's Life of Brian",1979,1135,18,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
-156,"The Lion King",1994,1135,18,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
-157,"Kingsman: The Secret Service",2014,1134,18,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
-158,"My Neighbor Totoro",1988,1132,18,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
-159,"The Terminator",1984,1131,18,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
-160,"The Hunger Games",2012,1130,18,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
-161,"O'Brother, Where Art Thou",2000,1129,18,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
-162,"The Wizard of Oz",1939,1129,18,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
-163,"How to Train Your Dragon 2",2014,1129,17,https://letterboxd.com/film/how-to-train-your-dragon-2/,https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg
-164,"The Tree of Life",2011,1129,17,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
-165,"Knives Out",2019,1128,18,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
-166,"Captain America: The Winter Soldier",2014,1128,18,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
-167,"Glass Onion: A Knives Out Mystery",2022,1128,18,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
+153,"Monsters, Inc.",2001,1135,18,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
+154,"Monty Python's Life of Brian",1979,1135,18,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
+155,"The Lion King",1994,1135,18,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
+156,"Kingsman: The Secret Service",2014,1134,18,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
+157,"My Neighbor Totoro",1988,1132,18,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
+158,"The Terminator",1984,1131,18,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+159,"The Hunger Games",2012,1130,18,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
+160,"O'Brother, Where Art Thou",2000,1129,18,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
+161,"The Wizard of Oz",1939,1129,18,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
+162,"How to Train Your Dragon 2",2014,1129,17,https://letterboxd.com/film/how-to-train-your-dragon-2/,https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg
+163,"The Tree of Life",2011,1129,17,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
+164,"Knives Out",2019,1128,18,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
+165,"Captain America: The Winter Soldier",2014,1128,18,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
+166,"Glass Onion: A Knives Out Mystery",2022,1128,18,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
+167,"Office Space",1999,1127,18,https://letterboxd.com/film/office-space/,https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg
 168,"Moana",2016,1127,18,https://letterboxd.com/film/moana-2016/,https://image.tmdb.org/t/p/w500/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
 169,"Toy Story",1995,1125,18,https://letterboxd.com/film/toy-story/,https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg
 170,"WarGames",1983,1125,18,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
