@@ -1,8 +1,8 @@
 Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 1,"The Social Network",2010,1447,17,https://letterboxd.com/film/the-social-network/,https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg
 2,"The Dark Knight",2008,1430,17,https://letterboxd.com/film/the-dark-knight/,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg
-3,"Black Swan",2010,1420,18,https://letterboxd.com/film/black-swan/,https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg
-4,"Requiem for a Dream",2000,1414,17,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+3,"Requiem for a Dream",2000,1427,18,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
+4,"Black Swan",2010,1420,18,https://letterboxd.com/film/black-swan/,https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg
 5,"Pulp Fiction",1994,1381,17,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 6,"Whiplash",2014,1376,17,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 7,"Good Will Hunting",1997,1369,17,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
@@ -15,17 +15,17 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 14,"The Lord of the Rings: The Two Towers",2002,1350,17,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
 15,"The Big Short",2015,1349,17,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 16,"Schindler's List",1993,1347,18,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
-17,"Lady Bird",2017,1342,17,https://letterboxd.com/film/lady-bird/,https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg
-18,"American Psycho",2000,1341,18,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
-19,"Inglourious Basterds",2009,1340,17,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
-20,"The Martian",2015,1336,18,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
-21,"City of God",2002,1335,17,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
-22,"Saving Private Ryan",1998,1333,17,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
-23,"The Lord of the Rings: The Fellowship of the Ring",2001,1333,18,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
-24,"La La Land",2016,1332,17,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
-25,"Arrival",2016,1331,17,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
-26,"Spider-Man: Into the Spider-verse",2018,1331,18,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-27,"Oppenheimer",2023,1331,18,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+17,"American Psycho",2000,1341,18,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+18,"Inglourious Basterds",2009,1340,17,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
+19,"The Martian",2015,1336,18,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
+20,"City of God",2002,1335,17,https://letterboxd.com/film/city-of-god/,https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg
+21,"Saving Private Ryan",1998,1333,17,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
+22,"The Lord of the Rings: The Fellowship of the Ring",2001,1333,18,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+23,"La La Land",2016,1332,17,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+24,"Arrival",2016,1331,17,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
+25,"Spider-Man: Into the Spider-verse",2018,1331,18,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
+26,"Oppenheimer",2023,1331,18,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+27,"Lady Bird",2017,1329,18,https://letterboxd.com/film/lady-bird/,https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg
 28,"A Quiet Place",2018,1326,17,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 29,"Se7en",1995,1325,17,https://letterboxd.com/film/se7en/,https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
 30,"Your Name",2016,1318,17,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
