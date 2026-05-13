@@ -534,14 +534,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 533,"Cars 2",2011,788,19,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
 534,"Lady and the Tramp II: Scamp's Adventure",2001,788,18,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
 535,"Monte Carlo",2011,787,18,https://letterboxd.com/film/monte-carlo/,https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg
-536,"Diary of a Wimpy Kid: Rodrick Rules",2011,781,19,https://letterboxd.com/film/diary-of-a-wimpy-kid-rodrick-rules/,https://image.tmdb.org/t/p/w500/w77ZoDmHNf6lnk8NWsXqWYOQqnp.jpg
-537,"Twilight",2008,776,18,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
-538,"Teenage Mutant Ninja Turtles",2014,776,19,https://letterboxd.com/film/teenage-mutant-ninja-turtles-2014/,https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg
-539,"Sing",2016,775,19,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
-540,"Girl vs. Monster",2012,775,18,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
-541,"Cow Belles",2006,774,18,https://letterboxd.com/film/cow-belles/,https://image.tmdb.org/t/p/w500/kA15KXpFHGKSqrRaJHAf0bhjQcT.jpg
-542,"Jurassic World: Dominion",2022,773,19,https://letterboxd.com/film/jurassic-world-dominion/,https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg
-543,"Wendy Wu: Homecoming Warrior",2006,773,18,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
+536,"Wendy Wu: Homecoming Warrior",2006,784,19,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
+537,"Diary of a Wimpy Kid: Rodrick Rules",2011,781,19,https://letterboxd.com/film/diary-of-a-wimpy-kid-rodrick-rules/,https://image.tmdb.org/t/p/w500/w77ZoDmHNf6lnk8NWsXqWYOQqnp.jpg
+538,"Twilight",2008,776,18,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
+539,"Teenage Mutant Ninja Turtles",2014,776,19,https://letterboxd.com/film/teenage-mutant-ninja-turtles-2014/,https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg
+540,"Sing",2016,775,19,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
+541,"Girl vs. Monster",2012,775,18,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
+542,"Cow Belles",2006,774,18,https://letterboxd.com/film/cow-belles/,https://image.tmdb.org/t/p/w500/kA15KXpFHGKSqrRaJHAf0bhjQcT.jpg
+543,"Jurassic World: Dominion",2022,773,19,https://letterboxd.com/film/jurassic-world-dominion/,https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg
 544,"G-Force",2009,773,19,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
 545,"Spy Kids 2: Island of Lost Dreams",2002,772,18,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
 546,"Brother Bear",2003,770,18,https://letterboxd.com/film/brother-bear/,https://image.tmdb.org/t/p/w500/otptPbEY0vBostmo95xwiiumMJm.jpg
@@ -604,15 +604,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 603,"Pixels",2015,680,18,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
 604,"Twitches",2005,675,18,https://letterboxd.com/film/twitches/,https://image.tmdb.org/t/p/w500/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg
 605,"Zookeeper",2011,671,19,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
-606,"Pitch Perfect",2012,671,18,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
-607,"Dadnapped",2009,671,18,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
-608,"Bad Hair Day",2015,671,18,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
-609,"Beverly Hills Chihuahua 2",2011,665,18,https://letterboxd.com/film/beverly-hills-chihuahua-2/,https://image.tmdb.org/t/p/w500/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg
-610,"The Little Mermaid II: Return to the Sea",2000,664,18,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
-611,"Teen Beach Movie",2013,663,18,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
-612,"Space Buddies",2009,662,19,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
-613,"Hop",2011,662,18,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
-614,"Grown Ups 2",2013,661,19,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
+606,"Dadnapped",2009,671,18,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
+607,"Bad Hair Day",2015,671,18,https://letterboxd.com/film/bad-hair-day/,https://image.tmdb.org/t/p/w500/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg
+608,"Beverly Hills Chihuahua 2",2011,665,18,https://letterboxd.com/film/beverly-hills-chihuahua-2/,https://image.tmdb.org/t/p/w500/k3IHj3utp8m0X1KpNHyfOIsypE1.jpg
+609,"The Little Mermaid II: Return to the Sea",2000,664,18,https://letterboxd.com/film/the-little-mermaid-ii-return-to-the-sea/,https://image.tmdb.org/t/p/w500/k3UHxvYv8ZgWLL0lM45f979OSo7.jpg
+610,"Teen Beach Movie",2013,663,18,https://letterboxd.com/film/teen-beach-movie/,https://image.tmdb.org/t/p/w500/sKrGe5EmDSyVaWM0uj7rJDQHRjB.jpg
+611,"Space Buddies",2009,662,19,https://letterboxd.com/film/space-buddies/,https://image.tmdb.org/t/p/w500/8C0u4EuisSRBa3Htr9kWUStkDnW.jpg
+612,"Hop",2011,662,18,https://letterboxd.com/film/hop/,https://image.tmdb.org/t/p/w500/qgYzapTlgnIG6CAH3Pjgp44nxgS.jpg
+613,"Grown Ups 2",2013,661,19,https://letterboxd.com/film/grown-ups-2/,https://image.tmdb.org/t/p/w500/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg
+614,"Pitch Perfect",2012,660,19,https://letterboxd.com/film/pitch-perfect/,https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg
 615,"Tooth Fairy 2",2012,655,18,https://letterboxd.com/film/tooth-fairy-2/,https://image.tmdb.org/t/p/w500/oIkcTCUdvc5fDyG2IxdCd26hRQ7.jpg
 616,"Percy Jackson: Sea of Monsters",2013,651,18,https://letterboxd.com/film/percy-jackson-sea-of-monsters/,https://image.tmdb.org/t/p/w500/tAu90qEpLqwqiZLsMqpaMVr55oN.jpg
 617,"Ride Along",2014,648,19,https://letterboxd.com/film/ride-along/,https://image.tmdb.org/t/p/w500/qrt65VVaP5DEEBZgB5XYctA82Qv.jpg
