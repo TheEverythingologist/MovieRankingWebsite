@@ -6,9 +6,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 5,"Whiplash",2014,1391,18,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 6,"Pulp Fiction",1994,1389,18,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 7,"Good Will Hunting",1997,1388,18,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
-8,"The Lord of the Rings: The Return of the King",2003,1368,18,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
-9,"The Shawshank Redemption",1994,1364,18,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
-10,"Interstellar",2014,1363,18,https://letterboxd.com/film/interstellar/,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
+8,"Interstellar",2014,1370,19,https://letterboxd.com/film/interstellar/,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
+9,"The Lord of the Rings: The Return of the King",2003,1368,18,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+10,"The Shawshank Redemption",1994,1364,18,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
 11,"The Big Short",2015,1361,18,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 12,"Ratatouille",2007,1358,18,https://letterboxd.com/film/ratatouille/,https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg
 13,"The Silence of the Lambs",1991,1357,18,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
@@ -153,13 +153,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 152,"Robot Dreams",2023,1137,18,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
 153,"Scream",1997,1136,19,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
 154,"Monsters, Inc.",2001,1135,18,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
-155,"Monty Python's Life of Brian",1979,1135,18,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
-156,"The Lion King",1994,1135,18,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
-157,"My Neighbor Totoro",1988,1132,18,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
-158,"The Terminator",1984,1131,18,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
-159,"The Hunger Games",2012,1130,18,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
-160,"O'Brother, Where Art Thou",2000,1129,18,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
-161,"The Wizard of Oz",1939,1129,18,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
+155,"The Lion King",1994,1135,18,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
+156,"My Neighbor Totoro",1988,1132,18,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
+157,"The Terminator",1984,1131,18,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+158,"The Hunger Games",2012,1130,18,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
+159,"O'Brother, Where Art Thou",2000,1129,18,https://letterboxd.com/film/o-brother-where-art-thou/,https://image.tmdb.org/t/p/w500/s9foMAcLg8GEzzQzer04qOGdD1k.jpg
+160,"The Wizard of Oz",1939,1129,18,https://letterboxd.com/film/the-wizard-of-oz-1939/,https://image.tmdb.org/t/p/w500/hpjssLLLrYuefDqR2iAl8wYUxy9.jpg
+161,"Monty Python's Life of Brian",1979,1128,19,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
 162,"Knives Out",2019,1128,18,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
 163,"Captain America: The Winter Soldier",2014,1128,18,https://letterboxd.com/film/captain-america-the-winter-soldier/,https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
 164,"Glass Onion: A Knives Out Mystery",2022,1128,18,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
