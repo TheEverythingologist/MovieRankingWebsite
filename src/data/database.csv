@@ -24,24 +24,24 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 23,"Your Name",2016,1337,19,https://letterboxd.com/film/your-name/,https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg
 24,"The Martian",2015,1336,18,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
 25,"Spider-Man: Into the Spider-verse",2018,1331,18,https://letterboxd.com/film/spider-man-into-the-spider-verse/,https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg
-26,"Oppenheimer",2023,1331,18,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
-27,"A Quiet Place",2018,1330,18,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-28,"American Psycho",2000,1327,19,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
-29,"Eternal Sunshine of the Spotless Mind",2004,1324,18,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
-30,"La La Land",2016,1316,18,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
-31,"The Godfather",1972,1316,18,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
-32,"Arrival",2016,1314,18,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
-33,"Spider-Man: Across the Spider-Verse",2023,1314,18,https://letterboxd.com/film/spider-man-across-the-spider-verse/,https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
+26,"A Quiet Place",2018,1330,18,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
+27,"American Psycho",2000,1327,19,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+28,"Eternal Sunshine of the Spotless Mind",2004,1324,18,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg
+29,"La La Land",2016,1316,18,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+30,"The Godfather",1972,1316,18,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+31,"Arrival",2016,1314,18,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
+32,"Spider-Man: Across the Spider-Verse",2023,1314,18,https://letterboxd.com/film/spider-man-across-the-spider-verse/,https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
+33,"Oppenheimer",2023,1313,19,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
 34,"The Godfather Part II",1974,1312,19,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
 35,"Spirited Away",2001,1306,18,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
-36,"Goodfellas",1990,1302,18,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
-37,"Terminator 2: Judgment Day",1991,1298,19,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
-38,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-39,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
-40,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
-41,"Silver Linings Playbook",2012,1291,18,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
-42,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
-43,"Everything Everywhere All At Once",2022,1288,18,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
+36,"Everything Everywhere All At Once",2022,1306,19,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
+37,"Goodfellas",1990,1302,18,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
+38,"Terminator 2: Judgment Day",1991,1298,19,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
+39,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+40,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
+41,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
+42,"Silver Linings Playbook",2012,1291,18,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
+43,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 44,"Puss in Boots: The Last Wish",2022,1286,18,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
 45,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1285,18,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
 46,"Poor Things",2023,1284,18,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
