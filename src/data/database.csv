@@ -272,14 +272,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 271,"Real Steel",2011,1034,19,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
 272,"Friday the 13th Part 2",1981,1034,19,https://letterboxd.com/film/friday-the-13th-part-2/,https://image.tmdb.org/t/p/w500/92rGctBMTv4uaSlIBVnhz01kRWL.jpg
 273,"Atlantis: The Lost Empire",2001,1032,19,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
-274,"The Great Gatsby",2013,1030,18,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
-275,"How to Train Your Dragon",2025,1030,19,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg
-276,"A Bug's Life",1998,1029,19,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
-277,"Tremors",1990,1029,19,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
-278,"Harry Potter and the Half-Blood Prince",2009,1028,18,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
-279,"Iron Lung",2026,1027,19,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
-280,"Godzilla: King of the Monsters",2019,1025,19,https://letterboxd.com/film/godzilla-king-of-the-monsters-2019/,https://image.tmdb.org/t/p/w500/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg
-281,"Spirit: Stallion of the Cimarron",2002,1025,13,https://letterboxd.com/film/spirit-stallion-of-the-cimarron/,https://image.tmdb.org/t/p/w500/cUgYrz4twiJ3QgVGpRfey984NIB.jpg
+274,"Spirit: Stallion of the Cimarron",2002,1031,14,https://letterboxd.com/film/spirit-stallion-of-the-cimarron/,https://image.tmdb.org/t/p/w500/cUgYrz4twiJ3QgVGpRfey984NIB.jpg
+275,"The Great Gatsby",2013,1030,18,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
+276,"How to Train Your Dragon",2025,1030,19,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg
+277,"A Bug's Life",1998,1029,19,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
+278,"Tremors",1990,1029,19,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
+279,"Harry Potter and the Half-Blood Prince",2009,1028,18,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg
+280,"Iron Lung",2026,1027,19,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
+281,"Godzilla: King of the Monsters",2019,1025,19,https://letterboxd.com/film/godzilla-king-of-the-monsters-2019/,https://image.tmdb.org/t/p/w500/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg
 282,"The Crucible",1996,1024,19,https://letterboxd.com/film/the-crucible/,https://image.tmdb.org/t/p/w500/zv69Rev43me5gQ68x7fk1mQzhHn.jpg
 283,"Frozen",2013,1023,18,https://letterboxd.com/film/frozen-2013/,https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg
 284,"The Lego Batman Movie",2017,1023,18,https://letterboxd.com/film/the-lego-batman-movie/,https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg
@@ -550,10 +550,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 549,"Brother Bear",2003,770,18,https://letterboxd.com/film/brother-bear/,https://image.tmdb.org/t/p/w500/otptPbEY0vBostmo95xwiiumMJm.jpg
 550,"The Final Destination",2009,769,18,https://letterboxd.com/film/the-final-destination/,https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg
 551,"The Suite Life Movie",2011,765,19,https://letterboxd.com/film/the-suite-life-movie/,https://image.tmdb.org/t/p/w500/31aSRwBIpn355kNQyYBdDdZoEVZ.jpg
-552,"Trolls Band Together",2023,765,18,https://letterboxd.com/film/trolls-band-together/,https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg
-553,"Suicide Squad",2016,763,19,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
-554,"The Meg",2018,762,19,https://letterboxd.com/film/the-meg/,https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
-555,"Good Luck Charlie, It's Christmas!",2011,761,19,https://letterboxd.com/film/good-luck-charlie-its-christmas/,https://image.tmdb.org/t/p/w500/ecuJMYZM3HQ96mnWtmyXoHb7s7T.jpg
+552,"Suicide Squad",2016,763,19,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
+553,"The Meg",2018,762,19,https://letterboxd.com/film/the-meg/,https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg
+554,"Good Luck Charlie, It's Christmas!",2011,761,19,https://letterboxd.com/film/good-luck-charlie-its-christmas/,https://image.tmdb.org/t/p/w500/ecuJMYZM3HQ96mnWtmyXoHb7s7T.jpg
+555,"Trolls Band Together",2023,759,19,https://letterboxd.com/film/trolls-band-together/,https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg
 556,"The Boss Baby",2017,759,18,https://letterboxd.com/film/the-boss-baby/,https://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
 557,"Grown Ups",2010,757,19,https://letterboxd.com/film/grown-ups/,https://image.tmdb.org/t/p/w500/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg
 558,"Red One",2024,755,18,https://letterboxd.com/film/red-one/,https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg
