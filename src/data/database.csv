@@ -36,13 +36,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 35,"Spirited Away",2001,1306,18,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
 36,"Everything Everywhere All At Once",2022,1306,19,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
 37,"Goodfellas",1990,1302,18,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
-38,"2001: A Space Odyssey",1968,1299,19,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
-39,"Terminator 2: Judgment Day",1991,1298,19,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
-40,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-41,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
-42,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
-43,"Puss in Boots: The Last Wish",2022,1291,19,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
-44,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
+38,"WALL-E",2008,1300,19,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
+39,"2001: A Space Odyssey",1968,1299,19,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
+40,"Terminator 2: Judgment Day",1991,1298,19,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
+41,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+42,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
+43,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
+44,"Puss in Boots: The Last Wish",2022,1291,19,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
 45,"Poor Things",2023,1284,18,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 46,"Midsommar",2019,1283,18,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
 47,"Scott Pilgrim vs. The World",2010,1280,19,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
@@ -140,11 +140,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 139,"The Disaster Artist",2017,1160,18,https://letterboxd.com/film/the-disaster-artist/,https://image.tmdb.org/t/p/w500/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg
 140,"Pi",1998,1158,18,https://letterboxd.com/film/pi/,https://image.tmdb.org/t/p/w500/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg
 141,"Kung Fu Panda",2008,1156,18,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
-142,"Indiana Jones and the Last Crusade",1989,1156,18,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
-143,"The Death of Stalin",2017,1156,19,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
-144,"The Revenant",2015,1150,19,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
-145,"My Neighbor Totoro",1988,1149,19,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
-146,"Inside Out",2015,1148,18,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
+142,"The Death of Stalin",2017,1156,19,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
+143,"The Revenant",2015,1150,19,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
+144,"My Neighbor Totoro",1988,1149,19,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
+145,"Inside Out",2015,1148,18,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
+146,"Indiana Jones and the Last Crusade",1989,1146,19,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
 147,"The Tree of Life",2011,1145,18,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
 148,"The Terminator",1984,1145,19,https://letterboxd.com/film/the-terminator/,https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
 149,"Spotlight",2015,1144,19,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
