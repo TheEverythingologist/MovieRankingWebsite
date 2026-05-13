@@ -34,14 +34,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 33,"Spider-Man: Across the Spider-Verse",2023,1314,18,https://letterboxd.com/film/spider-man-across-the-spider-verse/,https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
 34,"Spirited Away",2001,1306,18,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
 35,"Goodfellas",1990,1302,18,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
-36,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
-37,"Scott Pilgrim vs. The World",2010,1296,18,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
-38,"The Godfather Part II",1974,1296,18,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
-39,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
-40,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
-41,"Silver Linings Playbook",2012,1291,18,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
-42,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
-43,"Terminator 2: Judgment Day",1991,1288,18,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
+36,"Terminator 2: Judgment Day",1991,1298,19,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
+37,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+38,"Scott Pilgrim vs. The World",2010,1296,18,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
+39,"The Godfather Part II",1974,1296,18,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+40,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
+41,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
+42,"Silver Linings Playbook",2012,1291,18,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
+43,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 44,"Everything Everywhere All At Once",2022,1288,18,https://letterboxd.com/film/everything-everywhere-all-at-once/,https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
 45,"Inception",2010,1287,18,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
 46,"Puss in Boots: The Last Wish",2022,1286,18,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
@@ -146,12 +146,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 145,"Spotlight",2015,1153,18,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
 146,"Chef",2014,1149,18,https://letterboxd.com/film/chef/,https://image.tmdb.org/t/p/w500/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg
 147,"Inside Out",2015,1148,18,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
-148,"Scream",1997,1146,18,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
-149,"The Tree of Life",2011,1145,18,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
-150,"The Princess Bride",1987,1144,18,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
-151,"Iron Man",2008,1144,18,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
-152,"District 9",2009,1139,18,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
-153,"Robot Dreams",2023,1137,18,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
+148,"The Tree of Life",2011,1145,18,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
+149,"The Princess Bride",1987,1144,18,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
+150,"Iron Man",2008,1144,18,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
+151,"District 9",2009,1139,18,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
+152,"Robot Dreams",2023,1137,18,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
+153,"Scream",1997,1136,19,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
 154,"Monsters, Inc.",2001,1135,18,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
 155,"Monty Python's Life of Brian",1979,1135,18,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
 156,"The Lion King",1994,1135,18,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
