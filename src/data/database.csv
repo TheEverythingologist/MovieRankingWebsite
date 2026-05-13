@@ -137,9 +137,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 136,"Akira",1988,1169,19,https://letterboxd.com/film/akira/,https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg
 137,"Fantastic Mr. Fox",2009,1169,19,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
 138,"Batman Begins",2005,1168,19,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
-139,"Kung Fu Panda",2008,1163,19,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
-140,"Toy Story 2",1999,1160,19,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
-141,"12 Angry Men",1957,1159,15,https://letterboxd.com/film/12-angry-men/,https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg
+139,"12 Angry Men",1957,1168,16,https://letterboxd.com/film/12-angry-men/,https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg
+140,"Kung Fu Panda",2008,1163,19,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
+141,"Toy Story 2",1999,1160,19,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
 142,"Inside Out",2015,1158,19,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
 143,"The Death of Stalin",2017,1156,19,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
 144,"The Revenant",2015,1150,19,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
@@ -324,19 +324,19 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 323,"Final Destination 3",2006,993,19,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
 324,"Revenge of the Nerds",1984,992,19,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
 325,"Amazing Grace",2006,992,19,https://letterboxd.com/film/amazing-grace-2006/,https://image.tmdb.org/t/p/w500/zr48JEuwxcYM03NcdJU6qWMHPtq.jpg
-326,"Lady and the Tramp",1955,990,18,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg
-327,"Star Wars: Episode VIII - The Last Jedi",2017,989,18,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
-328,"Minutemen",2008,987,19,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
-329,"Napoleon Dynamite",2004,987,18,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
-330,"Toy Story 4",2019,987,18,https://letterboxd.com/film/toy-story-4/,https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg
-331,"Star Trek: Into Darkness",2013,987,19,https://letterboxd.com/film/star-trek-into-darkness/,https://image.tmdb.org/t/p/w500/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg
-332,"Kung Fu Panda 3",2016,986,19,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
-333,"Cars",2006,985,19,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
-334,"Gremlins",1984,985,18,https://letterboxd.com/film/gremlins/,https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg
-335,"Saw VI",2009,984,19,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
-336,"Dick Tracy",1990,984,18,https://letterboxd.com/film/dick-tracy/,https://image.tmdb.org/t/p/w500/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg
-337,"Wonder Woman",2017,982,19,https://letterboxd.com/film/wonder-woman-2017/,https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg
-338,"Avengers: Age of Ultron",2015,982,18,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
+326,"Star Wars: Episode VIII - The Last Jedi",2017,989,18,https://letterboxd.com/film/star-wars-episode-viii-the-last-jedi/,https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+327,"Minutemen",2008,987,19,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
+328,"Napoleon Dynamite",2004,987,18,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
+329,"Toy Story 4",2019,987,18,https://letterboxd.com/film/toy-story-4/,https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg
+330,"Star Trek: Into Darkness",2013,987,19,https://letterboxd.com/film/star-trek-into-darkness/,https://image.tmdb.org/t/p/w500/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg
+331,"Kung Fu Panda 3",2016,986,19,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
+332,"Cars",2006,985,19,https://letterboxd.com/film/cars/,https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
+333,"Gremlins",1984,985,18,https://letterboxd.com/film/gremlins/,https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg
+334,"Saw VI",2009,984,19,https://letterboxd.com/film/saw-vi/,https://image.tmdb.org/t/p/w500/9JtluosCbioSXJSABZByaODyPpa.jpg
+335,"Dick Tracy",1990,984,18,https://letterboxd.com/film/dick-tracy/,https://image.tmdb.org/t/p/w500/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg
+336,"Wonder Woman",2017,982,19,https://letterboxd.com/film/wonder-woman-2017/,https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg
+337,"Avengers: Age of Ultron",2015,982,18,https://letterboxd.com/film/avengers-age-of-ultron/,https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg
+338,"Lady and the Tramp",1955,981,19,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg
 339,"Big Fish",2003,981,19,https://letterboxd.com/film/big-fish/,https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg
 340,"Top Gun",1986,981,19,https://letterboxd.com/film/top-gun/,https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg
 341,"Sonic the Hedgehog",2020,981,19,https://letterboxd.com/film/sonic-the-hedgehog/,https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg
