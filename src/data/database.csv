@@ -2,7 +2,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 1,"The Social Network",2010,1453,18,https://letterboxd.com/film/the-social-network/,https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg
 2,"Requiem for a Dream",2000,1427,18,https://www.bing.com/ck/a?!&&p=7031d54f8d3cbeea81886c964fc47160adb42aa11c5ad2858c125fe5763d1545JmltdHM9MTc3NTM0NzIwMA&ptn=3&ver=2&hsh=4&fclid=30311791-addc-69fd-081e-02f4aca968ad&psq=requiem+for+a+dream+letterboxd&u=a1aHR0cHM6Ly9sZXR0ZXJib3hkLmNvbS9maWxtL3JlcXVpZW0tZm9yLWEtZHJlYW0v,https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg
 3,"Black Swan",2010,1420,18,https://letterboxd.com/film/black-swan/,https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg
-4,"The Dark Knight",2008,1411,18,https://letterboxd.com/film/the-dark-knight/,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg
+4,"The Dark Knight",2008,1419,19,https://letterboxd.com/film/the-dark-knight/,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg
 5,"Whiplash",2014,1391,18,https://letterboxd.com/film/whiplash-2014/,https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg
 6,"Pulp Fiction",1994,1389,18,https://letterboxd.com/film/pulp-fiction/,https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
 7,"Good Will Hunting",1997,1388,18,https://letterboxd.com/film/good-will-hunting/,https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
@@ -100,12 +100,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 99,"Frankenstein",2025,1212,18,https://letterboxd.com/film/frankenstein-2025/,https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg
 100,"How to Train Your Dragon",2010,1211,18,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg
 101,"Dead Poets' Society",1989,1209,18,https://letterboxd.com/film/dead-poets-society/,https://image.tmdb.org/t/p/w500/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg
-102,"The Incredibles",2004,1206,18,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
-103,"The Mitchells vs. The Machines",2021,1206,18,https://letterboxd.com/film/the-mitchells-vs-the-machines/,https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg
-104,"The Lego Movie",2014,1204,18,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
-105,"Room",2015,1203,18,https://letterboxd.com/film/room-2015/,https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg
-106,"Kill Bill Vol. 2",2004,1202,18,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
-107,"Jojo Rabbit",2019,1202,18,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
+102,"The Mitchells vs. The Machines",2021,1206,18,https://letterboxd.com/film/the-mitchells-vs-the-machines/,https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg
+103,"The Lego Movie",2014,1204,18,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
+104,"Room",2015,1203,18,https://letterboxd.com/film/room-2015/,https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg
+105,"Kill Bill Vol. 2",2004,1202,18,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+106,"Jojo Rabbit",2019,1202,18,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
+107,"The Incredibles",2004,1198,19,https://letterboxd.com/film/the-incredibles/,https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg
 108,"Her",2013,1197,18,https://letterboxd.com/film/her/,https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
 109,"Coco",2017,1197,18,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
 110,"Saw II",2005,1196,18,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
