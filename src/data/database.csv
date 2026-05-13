@@ -62,10 +62,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 61,"Citizen Kane",1941,1269,18,https://letterboxd.com/film/citizen-kane/,https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
 62,"Monty Python and the Holy Grail",1975,1269,19,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
 63,"Anora",2024,1267,19,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
-64,"Mad Max: Fury Road",2015,1257,18,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
-65,"No Country For Old Men",2007,1256,18,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
-66,"Back to the Future",1985,1253,18,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
-67,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1251,18,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
+64,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1260,19,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
+65,"Mad Max: Fury Road",2015,1257,18,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
+66,"No Country For Old Men",2007,1256,18,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
+67,"Back to the Future",1985,1253,18,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
 68,"1917",2019,1251,18,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
 69,"All Quiet on the Western Front",2022,1251,19,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
 70,"Boyhood",2014,1250,18,https://letterboxd.com/film/boyhood/,https://image.tmdb.org/t/p/w500/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg
@@ -188,15 +188,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 187,"Hoppers",2026,1101,19,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
 188,"Bridge of Spies",2015,1101,18,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
 189,"Thor: Ragnarok",2017,1100,19,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
-190,"Beauty and the Beast",1991,1098,18,https://letterboxd.com/film/beauty-and-the-beast-1991/,https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg
-191,"Civil War",2024,1098,19,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
-192,"Gifted",2017,1096,19,https://letterboxd.com/film/gifted-2017/,https://image.tmdb.org/t/p/w500/9Ts7Vc4wLlpI9oox9mkVUE1tBHy.jpg
-193,"Ferris Bueller's Day Off",1986,1096,19,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
-194,"Chicago",2002,1095,19,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
-195,"Aladdin",1992,1090,19,https://letterboxd.com/film/aladdin/,https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg
-196,"Ghostbusters",1984,1090,19,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
-197,"Black Panther",2018,1090,19,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
-198,"Elemental",2023,1090,18,https://letterboxd.com/film/elemental-2023/,https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
+190,"Civil War",2024,1098,19,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
+191,"Gifted",2017,1096,19,https://letterboxd.com/film/gifted-2017/,https://image.tmdb.org/t/p/w500/9Ts7Vc4wLlpI9oox9mkVUE1tBHy.jpg
+192,"Ferris Bueller's Day Off",1986,1096,19,https://letterboxd.com/film/ferris-buellers-day-off/,https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg
+193,"Chicago",2002,1095,19,https://letterboxd.com/film/chicago/,https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
+194,"Aladdin",1992,1090,19,https://letterboxd.com/film/aladdin/,https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg
+195,"Ghostbusters",1984,1090,19,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
+196,"Black Panther",2018,1090,19,https://letterboxd.com/film/black-panther/,https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg
+197,"Elemental",2023,1090,18,https://letterboxd.com/film/elemental-2023/,https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
+198,"Beauty and the Beast",1991,1089,19,https://letterboxd.com/film/beauty-and-the-beast-1991/,https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg
 199,"Men in Black",1997,1089,18,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
 200,"Star Wars: Episode III - Revenge of the Sith",2005,1089,19,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg
 201,"Back to the Future Part III",1990,1087,19,https://letterboxd.com/film/back-to-the-future-part-iii/,https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
