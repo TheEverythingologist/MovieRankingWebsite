@@ -419,19 +419,19 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 418,"Monster House",2006,917,19,https://letterboxd.com/film/monster-house/,https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg
 419,"The Hunger Games: Mockingjay Part 2",2015,915,19,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
 420,"Despicable Me 2",2013,913,18,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
-421,"300",2006,912,18,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
-422,"Ice Age: The Meltdown",2006,912,18,https://letterboxd.com/film/ice-age-the-meltdown/,https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg
-423,"High School Musical 3: Senior Year",2008,912,19,https://letterboxd.com/film/high-school-musical-3-senior-year/,https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg
-424,"My Girl",1991,909,18,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
-425,"A Nightmare on Elm Street 4: The Dream Master",1988,908,18,https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/,https://image.tmdb.org/t/p/w500/boStYG7jKdoIZTduiOOsUVknD13.jpg
-426,"Men in Black 2",2002,908,18,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
-427,"Casper",1995,906,19,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
-428,"The Santa Clause 2",2002,906,19,https://letterboxd.com/film/the-santa-clause-2/,https://image.tmdb.org/t/p/w500/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg
-429,"Thor: The Dark World",2013,904,18,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
-430,"Christopher Robin",2018,903,18,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
-431,"National Treasure: Book of Secrets",2007,903,18,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
-432,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,902,18,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
-433,"High School Musical",2006,902,18,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
+421,"High School Musical",2006,913,19,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
+422,"300",2006,912,18,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
+423,"Ice Age: The Meltdown",2006,912,18,https://letterboxd.com/film/ice-age-the-meltdown/,https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg
+424,"High School Musical 3: Senior Year",2008,912,19,https://letterboxd.com/film/high-school-musical-3-senior-year/,https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg
+425,"My Girl",1991,909,18,https://letterboxd.com/film/my-girl/,https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg
+426,"A Nightmare on Elm Street 4: The Dream Master",1988,908,18,https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/,https://image.tmdb.org/t/p/w500/boStYG7jKdoIZTduiOOsUVknD13.jpg
+427,"Men in Black 2",2002,908,18,https://letterboxd.com/film/men-in-black-2/,https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg
+428,"Casper",1995,906,19,https://letterboxd.com/film/casper/,https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg
+429,"The Santa Clause 2",2002,906,19,https://letterboxd.com/film/the-santa-clause-2/,https://image.tmdb.org/t/p/w500/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg
+430,"Thor: The Dark World",2013,904,18,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
+431,"Christopher Robin",2018,903,18,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
+432,"National Treasure: Book of Secrets",2007,903,18,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
+433,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,902,18,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
 434,"The Dictator",2012,902,18,https://letterboxd.com/film/the-dictator-2012/,https://image.tmdb.org/t/p/w500/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg
 435,"The 40-Year-Old Virgin",2005,902,19,https://letterboxd.com/film/the-40-year-old-virgin/,https://image.tmdb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg
 436,"Transformers",2007,902,19,https://letterboxd.com/film/transformers/,https://image.tmdb.org/t/p/w500/4N4sipl8T72tNE4earcctQa2Kw2.jpg
@@ -529,12 +529,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 528,"The Hunger Games: Mockingjay Part 1",2014,795,18,https://letterboxd.com/film/the-hunger-games-mockingjay-part-1/,https://image.tmdb.org/t/p/w500/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg
 529,"Zack and Miri Make a Porno",2008,795,18,https://letterboxd.com/film/zack-and-miri-make-a-porno/,https://image.tmdb.org/t/p/w500/ipePhKf87FixwfAVJ8MMWK53caI.jpg
 530,"The Fault in Our Stars",2014,792,18,https://letterboxd.com/film/the-fault-in-our-stars/,https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg
-531,"Diary of a Wimpy Kid: Rodrick Rules",2011,792,18,https://letterboxd.com/film/diary-of-a-wimpy-kid-rodrick-rules/,https://image.tmdb.org/t/p/w500/w77ZoDmHNf6lnk8NWsXqWYOQqnp.jpg
-532,"Rio 2",2014,792,19,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
-533,"Sing",2016,791,18,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
-534,"Cars 2",2011,788,19,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
-535,"Lady and the Tramp II: Scamp's Adventure",2001,788,18,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
-536,"Monte Carlo",2011,787,18,https://letterboxd.com/film/monte-carlo/,https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg
+531,"Rio 2",2014,792,19,https://letterboxd.com/film/rio-2/,https://image.tmdb.org/t/p/w500/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg
+532,"Sing",2016,791,18,https://letterboxd.com/film/sing-2016/,https://image.tmdb.org/t/p/w500/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg
+533,"Cars 2",2011,788,19,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
+534,"Lady and the Tramp II: Scamp's Adventure",2001,788,18,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
+535,"Monte Carlo",2011,787,18,https://letterboxd.com/film/monte-carlo/,https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg
+536,"Diary of a Wimpy Kid: Rodrick Rules",2011,781,19,https://letterboxd.com/film/diary-of-a-wimpy-kid-rodrick-rules/,https://image.tmdb.org/t/p/w500/w77ZoDmHNf6lnk8NWsXqWYOQqnp.jpg
 537,"Jurassic World: Fallen Kingdom",2018,779,18,https://letterboxd.com/film/jurassic-world-fallen-kingdom/,https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg
 538,"Twilight",2008,776,18,https://letterboxd.com/film/twilight-2008/,https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg
 539,"Teenage Mutant Ninja Turtles",2014,776,19,https://letterboxd.com/film/teenage-mutant-ninja-turtles-2014/,https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg
