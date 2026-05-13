@@ -65,9 +65,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 64,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1260,19,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
 65,"Mad Max: Fury Road",2015,1257,18,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
 66,"Kill Bill Vol. 1",2003,1257,19,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
-67,"No Country For Old Men",2007,1256,18,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
-68,"Back to the Future",1985,1253,18,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
-69,"1917",2019,1251,18,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
+67,"1917",2019,1257,19,https://letterboxd.com/film/1917/,https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg
+68,"No Country For Old Men",2007,1256,18,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
+69,"Back to the Future",1985,1253,18,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
 70,"All Quiet on the Western Front",2022,1251,19,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/,https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
 71,"Boyhood",2014,1250,18,https://letterboxd.com/film/boyhood/,https://image.tmdb.org/t/p/w500/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg
 72,"The Great Dictator",1940,1248,19,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
@@ -340,10 +340,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 339,"Men in Black 3",2012,980,19,https://letterboxd.com/film/men-in-black-3/,https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg
 340,"Kung Fu Panda 3",2016,980,18,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
 341,"Bee Movie",2007,980,19,https://letterboxd.com/film/bee-movie/,https://image.tmdb.org/t/p/w500/aWe27GmvfVYAd7p0KEtJZWwLWk5.jpg
-342,"Mamma Mia!",2008,979,18,https://letterboxd.com/film/mamma-mia/,https://image.tmdb.org/t/p/w500/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg
-343,"Ted",2012,977,19,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
-344,"The Parent Trap",1998,976,19,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
-345,"21",2008,975,18,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+342,"Ted",2012,977,19,https://letterboxd.com/film/ted/,https://image.tmdb.org/t/p/w500/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg
+343,"The Parent Trap",1998,976,19,https://letterboxd.com/film/the-parent-trap-1998/,https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg
+344,"21",2008,975,18,https://letterboxd.com/film/21/,https://image.tmdb.org/t/p/w500/efG8Po57alqSlhqHU1lXJ3duG6t.jpg
+345,"Mamma Mia!",2008,973,19,https://letterboxd.com/film/mamma-mia/,https://image.tmdb.org/t/p/w500/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg
 346,"Star Trek",2009,973,19,https://letterboxd.com/film/star-trek/,https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg
 347,"A Minecraft Movie",2025,972,19,https://letterboxd.com/film/a-minecraft-movie/,https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg
 348,"Brave",2012,972,19,https://letterboxd.com/film/brave-2012/,https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg
