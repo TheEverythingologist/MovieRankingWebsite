@@ -41,8 +41,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 40,"Full Metal Jacket",1987,1297,18,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
 41,"Battle Royale",2000,1295,18,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
 42,"Saw",2004,1295,18,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
-43,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
-44,"Puss in Boots: The Last Wish",2022,1286,18,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
+43,"Puss in Boots: The Last Wish",2022,1291,19,https://letterboxd.com/film/puss-in-boots-the-last-wish/,https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg
+44,"WALL-E",2008,1290,18,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 45,"Poor Things",2023,1284,18,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 46,"Midsommar",2019,1283,18,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
 47,"Scott Pilgrim vs. The World",2010,1280,19,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
@@ -302,13 +302,13 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 301,"National Treasure",2004,1011,19,https://letterboxd.com/film/national-treasure/,https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg
 302,"The Super Mario Bros. Movie",2023,1009,19,https://letterboxd.com/film/the-super-mario-bros-movie/,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
 303,"Dumb and Dumber",1994,1009,18,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
-304,"Shrek Forever After",2010,1007,18,https://letterboxd.com/film/shrek-forever-after/,https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg
-305,"Kingsman: The Golden Circle",2017,1007,18,https://letterboxd.com/film/kingsman-the-golden-circle/,https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg
-306,"Big Hero 6",2014,1006,19,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-307,"The Adventures of Tintin",2011,1005,18,https://letterboxd.com/film/the-adventures-of-tintin/,https://image.tmdb.org/t/p/w500/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg
-308,"The Spongebob Squarepants Movie",2004,1005,18,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
-309,"The Muppets",2011,1005,19,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
-310,"Spider-Man: Far From Home",2019,1004,19,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
+304,"Kingsman: The Golden Circle",2017,1007,18,https://letterboxd.com/film/kingsman-the-golden-circle/,https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg
+305,"Big Hero 6",2014,1006,19,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
+306,"The Adventures of Tintin",2011,1005,18,https://letterboxd.com/film/the-adventures-of-tintin/,https://image.tmdb.org/t/p/w500/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg
+307,"The Spongebob Squarepants Movie",2004,1005,18,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
+308,"The Muppets",2011,1005,19,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
+309,"Spider-Man: Far From Home",2019,1004,19,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
+310,"Shrek Forever After",2010,1002,19,https://letterboxd.com/film/shrek-forever-after/,https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg
 311,"The Fox and the Hound",1981,1001,19,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
 312,"The Hobbit: An Unexpected Journey",2012,1000,19,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
 313,"Cloudy with a Chance of Meatballs",2009,999,18,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
