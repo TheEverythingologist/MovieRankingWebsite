@@ -450,14 +450,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 449,"Solo: A Star Wars Story",2018,891,19,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
 450,"Looney Tunes: Back in Action",2003,890,19,https://letterboxd.com/film/looney-tunes-back-in-action/,https://image.tmdb.org/t/p/w500/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg
 451,"Thor: The Dark World",2013,890,19,https://letterboxd.com/film/thor-the-dark-world/,https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg
-452,"Spiral: From the Book of Saw",2021,888,19,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
-453,"Kick-Ass 2",2013,888,19,https://letterboxd.com/film/kick-ass-2/,https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg
-454,"Star Wars: Episode II - Attack of the Clones",2002,887,19,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
-455,"Small Soldiers",1998,887,19,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
-456,"This is the End",2013,887,19,https://letterboxd.com/film/this-is-the-end/,https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg
-457,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,886,19,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
-458,"Shrek the Third",2007,885,19,https://letterboxd.com/film/shrek-the-third/,https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg
-459,"The Super Mario Galaxy Movie",2026,882,13,https://letterboxd.com/film/the-super-mario-galaxy-movie/,https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg
+452,"The Super Mario Galaxy Movie",2026,890,14,https://letterboxd.com/film/the-super-mario-galaxy-movie/,https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg
+453,"Spiral: From the Book of Saw",2021,888,19,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
+454,"Kick-Ass 2",2013,888,19,https://letterboxd.com/film/kick-ass-2/,https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg
+455,"Star Wars: Episode II - Attack of the Clones",2002,887,19,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,https://image.tmdb.org/t/p/w500/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
+456,"Small Soldiers",1998,887,19,https://letterboxd.com/film/small-soldiers/,https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg
+457,"This is the End",2013,887,19,https://letterboxd.com/film/this-is-the-end/,https://image.tmdb.org/t/p/w500/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg
+458,"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,886,19,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg
+459,"Shrek the Third",2007,885,19,https://letterboxd.com/film/shrek-the-third/,https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg
 460,"No strings attached",2011,880,19,https://letterboxd.com/film/no-strings-attached/,https://image.tmdb.org/t/p/w500/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg
 461,"Zathura: A Space Adventure",2005,878,19,https://letterboxd.com/film/zathura-a-space-adventure/,https://image.tmdb.org/t/p/w500/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg
 462,"Fantastic Four",2005,878,19,https://letterboxd.com/film/fantastic-four-2005/,https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg
@@ -603,8 +603,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 602,"Snow Buddies",2008,695,18,https://letterboxd.com/film/snow-buddies/,https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg
 603,"Clueless",1995,694,18,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
 604,"Santa Buddies",2009,685,18,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
-605,"The Boss Baby: Family Business",2021,683,18,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
-606,"The Pirate Fairy",2014,680,19,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
+605,"The Pirate Fairy",2014,680,19,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
+606,"The Boss Baby: Family Business",2021,675,19,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
 607,"Pixels",2015,675,19,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
 608,"Zookeeper",2011,671,19,https://letterboxd.com/film/zookeeper/,https://image.tmdb.org/t/p/w500/y3b4AYw8dr4hIKTfEAjxUxx0z8G.jpg
 609,"Dadnapped",2009,671,18,https://letterboxd.com/film/dadnapped/,https://image.tmdb.org/t/p/w500/xMuG07VLv8YHYT6OURunveDOdO.jpg
