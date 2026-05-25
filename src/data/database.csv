@@ -246,14 +246,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 245,"X-Men: Days of Future Past",2014,1062,19,https://letterboxd.com/film/x-men-days-of-future-past/,https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg
 246,"Pirates of the Caribbean: At World's End",2007,1062,19,https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/,https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg
 247,"Spider-Man 2",2004,1060,19,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
-248,"8 Mile",2002,1058,19,https://letterboxd.com/film/8-mile/,https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg
-249,"Sonic the Hedgehog 2",2022,1058,19,https://letterboxd.com/film/sonic-the-hedgehog-2/,https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg
-250,"Inside Out 2",2024,1057,19,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
-251,"Shaun of the Dead",2004,1057,19,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
-252,"Lilo & Stitch",2002,1056,19,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
-253,"The Founder",2016,1056,19,https://letterboxd.com/film/the-founder/,https://image.tmdb.org/t/p/w500/8gLIksu5ggdfBL1UbeTeonHquxl.jpg
-254,"Pacific Rim",2013,1056,19,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
-255,"The Lighthouse",2019,1056,6,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+248,"The Lighthouse",2019,1060,7,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+249,"8 Mile",2002,1058,19,https://letterboxd.com/film/8-mile/,https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg
+250,"Sonic the Hedgehog 2",2022,1058,19,https://letterboxd.com/film/sonic-the-hedgehog-2/,https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg
+251,"Inside Out 2",2024,1057,19,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
+252,"Shaun of the Dead",2004,1057,19,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
+253,"Lilo & Stitch",2002,1056,19,https://letterboxd.com/film/lilo-stitch/,https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg
+254,"The Founder",2016,1056,19,https://letterboxd.com/film/the-founder/,https://image.tmdb.org/t/p/w500/8gLIksu5ggdfBL1UbeTeonHquxl.jpg
+255,"Pacific Rim",2013,1056,19,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
 256,"Indiana Jones and the Temple of Doom",1984,1054,19,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
 257,"Kung Fu Hustle",2004,1053,19,https://letterboxd.com/film/kung-fu-hustle/,https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg
 258,"Batman",1989,1053,19,https://letterboxd.com/film/batman-1989/,https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg
@@ -601,8 +601,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 600,"Twitches Too",2007,698,19,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
 601,"How to Build a Better Boy",2014,698,19,https://letterboxd.com/film/how-to-build-a-better-boy/,https://image.tmdb.org/t/p/w500/ivo09vYN76w3epqAv9jS9BEXi5N.jpg
 602,"Blades of Glory",2007,697,19,https://letterboxd.com/film/blades-of-glory/,https://image.tmdb.org/t/p/w500/yclY3zyzrL1MS9b6Eygs9ks0ZTY.jpg
-603,"Snow Buddies",2008,695,18,https://letterboxd.com/film/snow-buddies/,https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg
-604,"Clueless",1995,693,19,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
+603,"Clueless",1995,693,19,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
+604,"Snow Buddies",2008,691,19,https://letterboxd.com/film/snow-buddies/,https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg
 605,"Santa Buddies",2009,685,18,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
 606,"The Pirate Fairy",2014,680,19,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
 607,"The Boss Baby: Family Business",2021,675,19,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
