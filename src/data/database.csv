@@ -28,8 +28,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 27,"American Psycho",2000,1327,19,https://letterboxd.com/film/american-psycho/,https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
 28,"The Godfather",1972,1325,19,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 29,"Spider-Man: Across the Spider-Verse",2023,1324,19,https://letterboxd.com/film/spider-man-across-the-spider-verse/,https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
-30,"Arrival",2016,1318,19,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
-31,"La La Land",2016,1316,18,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+30,"La La Land",2016,1320,19,https://letterboxd.com/film/la-la-land/,https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+31,"Arrival",2016,1318,19,https://letterboxd.com/film/arrival-2016/,https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg
 32,"Oppenheimer",2023,1313,19,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
 33,"Saving Private Ryan",1998,1312,19,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
 34,"The Godfather Part II",1974,1312,19,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
@@ -317,9 +317,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 316,"Mean Girls",2004,1001,19,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
 317,"The Fox and the Hound",1981,1001,19,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
 318,"The Hobbit: An Unexpected Journey",2012,1000,19,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
-319,"The Departed",2006,1000,0,https://letterboxd.com/film/the-departed/,https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg
-320,"Look Who's Back",2015,998,19,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
-321,"Dumb and Dumber",1994,997,19,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
+319,"Look Who's Back",2015,998,19,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
+320,"Dumb and Dumber",1994,997,19,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
+321,"The Departed",2006,996,1,https://letterboxd.com/film/the-departed/,https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg
 322,"Sleeping Beauty",1959,995,19,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
 323,"Kingsman: The Golden Circle",2017,994,19,https://letterboxd.com/film/kingsman-the-golden-circle/,https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg
 324,"The Spongebob Squarepants Movie",2004,993,19,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
