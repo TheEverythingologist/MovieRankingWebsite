@@ -185,11 +185,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 184,"Brooklyn",2015,1105,19,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
 185,"Isle of Dogs",2018,1105,19,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
 186,"Eraserhead",1977,1103,19,https://letterboxd.com/film/eraserhead/,https://image.tmdb.org/t/p/w500/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg
-187,"The Batman",2022,1101,19,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
-188,"Hoppers",2026,1101,19,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
-189,"Bridge of Spies",2015,1101,18,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
-190,"Thor: Ragnarok",2017,1100,19,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
-191,"The Lighthouse",2019,1099,10,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+187,"The Lighthouse",2019,1102,11,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+188,"The Batman",2022,1101,19,https://letterboxd.com/film/the-batman/,https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg
+189,"Hoppers",2026,1101,19,https://letterboxd.com/film/hoppers/,https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
+190,"Bridge of Spies",2015,1101,18,https://letterboxd.com/film/bridge-of-spies/,https://image.tmdb.org/t/p/w500/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg
+191,"Thor: Ragnarok",2017,1100,19,https://letterboxd.com/film/thor-ragnarok/,https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg
 192,"Civil War",2024,1098,19,https://letterboxd.com/film/civil-war-2024/,https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
 193,"Tangled",2010,1097,19,https://letterboxd.com/film/tangled-2010/,https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg
 194,"Gifted",2017,1096,19,https://letterboxd.com/film/gifted-2017/,https://image.tmdb.org/t/p/w500/9Ts7Vc4wLlpI9oox9mkVUE1tBHy.jpg
@@ -603,7 +603,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 602,"Blades of Glory",2007,697,19,https://letterboxd.com/film/blades-of-glory/,https://image.tmdb.org/t/p/w500/yclY3zyzrL1MS9b6Eygs9ks0ZTY.jpg
 603,"Clueless",1995,693,19,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
 604,"Snow Buddies",2008,691,19,https://letterboxd.com/film/snow-buddies/,https://image.tmdb.org/t/p/w500/7eOFi6eVxbbVmkDg0f1lYsUO4O2.jpg
-605,"Santa Buddies",2009,685,18,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
+605,"Santa Buddies",2009,682,19,https://letterboxd.com/film/santa-buddies/,https://image.tmdb.org/t/p/w500/8HDtN8Kjb8KzoVMgBjACzCz5Pyr.jpg
 606,"The Pirate Fairy",2014,680,19,https://letterboxd.com/film/the-pirate-fairy/,https://image.tmdb.org/t/p/w500/81oxrsugqqs8sAVNX9fdlz57cVU.jpg
 607,"The Boss Baby: Family Business",2021,675,19,https://letterboxd.com/film/the-boss-baby-family-business/,https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg
 608,"Pixels",2015,675,19,https://letterboxd.com/film/pixels-2015/,https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg
