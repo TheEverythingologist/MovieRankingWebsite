@@ -14,7 +14,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 13,"The Shawshank Redemption",1994,1364,18,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
 14,"Inglourious Basterds",2009,1360,19,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
 15,"The Lord of the Rings: The Two Towers",2002,1356,18,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
-16,"Schindler's List",1993,1347,18,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
+16,"Schindler's List",1993,1354,19,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
 17,"The Lord of the Rings: The Fellowship of the Ring",2001,1345,19,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
 18,"The Martian",2015,1343,19,https://letterboxd.com/film/the-martian/,https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg
 19,"The Empire Strikes Back",1980,1343,19,https://letterboxd.com/film/the-empire-strikes-back/,https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg
@@ -159,11 +159,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 158,"Glass Onion: A Knives Out Mystery",2022,1140,19,https://letterboxd.com/film/glass-onion-a-knives-out-mystery/,https://image.tmdb.org/t/p/w500/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg
 159,"Scream",1997,1136,19,https://letterboxd.com/film/scream/,https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
 160,"John Wick",2014,1133,19,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
-161,"The Lighthouse",2019,1133,17,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
-162,"Chef",2014,1132,19,https://letterboxd.com/film/chef/,https://image.tmdb.org/t/p/w500/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg
-163,"The Princess Bride",1987,1130,19,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
-164,"Monty Python's Life of Brian",1979,1128,19,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
-165,"District 9",2009,1127,19,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
+161,"Chef",2014,1132,19,https://letterboxd.com/film/chef/,https://image.tmdb.org/t/p/w500/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg
+162,"The Princess Bride",1987,1130,19,https://letterboxd.com/film/the-princess-bride/,https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg
+163,"Monty Python's Life of Brian",1979,1128,19,https://letterboxd.com/film/monty-pythons-life-of-brian/,https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg
+164,"District 9",2009,1127,19,https://letterboxd.com/film/district-9/,https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg
+165,"The Lighthouse",2019,1126,18,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
 166,"Deadpool",2016,1125,19,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
 167,"Monsters, Inc.",2001,1123,19,https://letterboxd.com/film/monsters-inc/,https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
 168,"The Tree of Life",2011,1123,19,https://letterboxd.com/film/the-tree-of-life-2011/,https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
