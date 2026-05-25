@@ -9,9 +9,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 8,"The Lord of the Rings: The Return of the King",2003,1379,19,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
 9,"Ratatouille",2007,1371,19,https://letterboxd.com/film/ratatouille/,https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg
 10,"Interstellar",2014,1370,19,https://letterboxd.com/film/interstellar/,https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
-11,"The Silence of the Lambs",1991,1365,19,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
-12,"The Big Short",2015,1365,19,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
-13,"The Shawshank Redemption",1994,1364,18,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
+11,"The Shawshank Redemption",1994,1367,19,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
+12,"The Silence of the Lambs",1991,1365,19,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
+13,"The Big Short",2015,1365,19,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 14,"The Lord of the Rings: The Two Towers",2002,1361,19,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
 15,"Inglourious Basterds",2009,1360,19,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
 16,"Schindler's List",1993,1354,19,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
@@ -323,10 +323,10 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 322,"Sleeping Beauty",1959,995,19,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
 323,"Kingsman: The Golden Circle",2017,994,19,https://letterboxd.com/film/kingsman-the-golden-circle/,https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg
 324,"The Spongebob Squarepants Movie",2004,993,19,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
-325,"Evolution",2001,993,18,https://letterboxd.com/film/evolution/,https://image.tmdb.org/t/p/w500/dwIrP544LxJtXToLpzkEa08pIMm.jpg
-326,"Final Destination 3",2006,993,19,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
-327,"Revenge of the Nerds",1984,992,19,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
-328,"Amazing Grace",2006,992,19,https://letterboxd.com/film/amazing-grace-2006/,https://image.tmdb.org/t/p/w500/zr48JEuwxcYM03NcdJU6qWMHPtq.jpg
+325,"Final Destination 3",2006,993,19,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
+326,"Revenge of the Nerds",1984,992,19,https://letterboxd.com/film/revenge-of-the-nerds/,https://image.tmdb.org/t/p/w500/v8aETLufi4WIinhQ994oWkehtaC.jpg
+327,"Amazing Grace",2006,992,19,https://letterboxd.com/film/amazing-grace-2006/,https://image.tmdb.org/t/p/w500/zr48JEuwxcYM03NcdJU6qWMHPtq.jpg
+328,"Evolution",2001,990,19,https://letterboxd.com/film/evolution/,https://image.tmdb.org/t/p/w500/dwIrP544LxJtXToLpzkEa08pIMm.jpg
 329,"Minutemen",2008,987,19,https://letterboxd.com/film/minutemen/,https://image.tmdb.org/t/p/w500/2y00QZiT3XUGwIxQxY5WLvvd1Y6.jpg
 330,"Star Trek: Into Darkness",2013,987,19,https://letterboxd.com/film/star-trek-into-darkness/,https://image.tmdb.org/t/p/w500/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg
 331,"Kung Fu Panda 3",2016,986,19,https://letterboxd.com/film/kung-fu-panda-3/,https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg
