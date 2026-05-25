@@ -51,15 +51,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 50,"Star Wars: Episode IV - A New Hope",1977,1282,19,https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/,https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
 51,"Scott Pilgrim vs. The World",2010,1280,19,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
 52,"Silver Linings Playbook",2012,1278,19,https://letterboxd.com/film/silver-linings-playbook/,https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg
-53,"Inception",2010,1277,19,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
-54,"The Substance",2024,1276,19,https://letterboxd.com/film/the-substance/,https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg
-55,"12 Years a Slave",2013,1274,19,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
-56,"Get Out",2017,1273,19,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
-57,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1269,19,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
-58,"Monty Python and the Holy Grail",1975,1269,19,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
-59,"No Country For Old Men",2007,1269,19,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
-60,"Anora",2024,1267,19,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
-61,"Back to the Future",1985,1267,19,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
+53,"Back to the Future",1985,1278,20,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
+54,"Inception",2010,1277,19,https://letterboxd.com/film/inception/,https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg
+55,"The Substance",2024,1276,19,https://letterboxd.com/film/the-substance/,https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg
+56,"12 Years a Slave",2013,1274,19,https://letterboxd.com/film/12-years-a-slave/,https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg
+57,"Get Out",2017,1273,19,https://letterboxd.com/film/get-out-2017/,https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg
+58,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1269,19,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
+59,"Monty Python and the Holy Grail",1975,1269,19,https://letterboxd.com/film/monty-python-and-the-holy-grail/,https://image.tmdb.org/t/p/w500/h3rksLHevpCbHfSoaUXm85nt2CH.jpg
+60,"No Country For Old Men",2007,1269,19,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
+61,"Anora",2024,1267,19,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
 62,"Mad Max: Fury Road",2015,1263,19,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
 63,"One Battle After Another",2025,1261,20,https://letterboxd.com/film/one-battle-after-another/,https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg
 64,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1260,19,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
@@ -139,12 +139,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 138,"Kung Fu Panda",2008,1163,19,https://letterboxd.com/film/kung-fu-panda/,https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg
 139,"My Neighbor Totoro",1988,1163,20,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
 140,"Toy Story 2",1999,1160,19,https://letterboxd.com/film/toy-story-2/,https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg
-141,"Inside Out",2015,1158,19,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
-142,"Spotlight",2015,1158,20,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
-143,"Batman Begins",2005,1157,20,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
-144,"The Death of Stalin",2017,1156,19,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
-145,"The Revenant",2015,1150,19,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
-146,"Iron Man",2008,1150,19,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
+141,"Spotlight",2015,1158,20,https://letterboxd.com/film/spotlight/,https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
+142,"Batman Begins",2005,1157,20,https://letterboxd.com/film/batman-begins/,https://image.tmdb.org/t/p/w500/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
+143,"The Death of Stalin",2017,1156,19,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
+144,"The Revenant",2015,1150,19,https://letterboxd.com/film/the-revenant-2015/,https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg
+145,"Iron Man",2008,1150,19,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
+146,"Inside Out",2015,1147,20,https://letterboxd.com/film/inside-out-2015/,https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
 147,"Indiana Jones and the Last Crusade",1989,1146,19,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
 148,"Robot Dreams",2023,1146,19,https://letterboxd.com/film/robot-dreams/,https://image.tmdb.org/t/p/w500/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
 149,"The Lion King",1994,1146,19,https://letterboxd.com/film/the-lion-king/,https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg
