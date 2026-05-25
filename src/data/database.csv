@@ -12,7 +12,7 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 11,"The Silence of the Lambs",1991,1365,19,https://letterboxd.com/film/the-silence-of-the-lambs/,https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
 12,"The Big Short",2015,1365,19,https://letterboxd.com/film/the-big-short/,https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
 13,"The Shawshank Redemption",1994,1364,18,https://letterboxd.com/film/the-shawshank-redemption/,https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg
-14,"Inglourious Basterds",2009,1356,18,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
+14,"Inglourious Basterds",2009,1360,19,https://letterboxd.com/film/inglourious-basterds/,https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
 15,"The Lord of the Rings: The Two Towers",2002,1356,18,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
 16,"Schindler's List",1993,1347,18,https://letterboxd.com/film/schindlers-list/,https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
 17,"The Lord of the Rings: The Fellowship of the Ring",2001,1345,19,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
@@ -311,12 +311,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 310,"Spider-Man: Far From Home",2019,1004,19,https://letterboxd.com/film/spider-man-far-from-home/,https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg
 311,"Iron Man 3",2013,1004,19,https://letterboxd.com/film/iron-man-3/,https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg
 312,"Napoleon Dynamite",2004,1004,19,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
-313,"The Lighthouse",2019,1003,1,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
-314,"Shrek Forever After",2010,1002,19,https://letterboxd.com/film/shrek-forever-after/,https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg
-315,"A Haunting in Venice",2023,1001,19,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
-316,"Mean Girls",2004,1001,19,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
-317,"The Fox and the Hound",1981,1001,19,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
-318,"The Hobbit: An Unexpected Journey",2012,1000,19,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
+313,"Shrek Forever After",2010,1002,19,https://letterboxd.com/film/shrek-forever-after/,https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg
+314,"A Haunting in Venice",2023,1001,19,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
+315,"Mean Girls",2004,1001,19,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
+316,"The Fox and the Hound",1981,1001,19,https://letterboxd.com/film/the-fox-and-the-hound/,https://image.tmdb.org/t/p/w500/aC3k6XBaYnulGSkK8263ABjU3Md.jpg
+317,"The Hobbit: An Unexpected Journey",2012,1000,19,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg
+318,"The Lighthouse",2019,999,2,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
 319,"Look Who's Back",2015,998,19,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
 320,"Dumb and Dumber",1994,997,19,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
 321,"Sleeping Beauty",1959,995,19,https://letterboxd.com/film/sleeping-beauty/,https://image.tmdb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg
