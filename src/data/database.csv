@@ -216,14 +216,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 215,"Meet the Robinsons",2007,1081,19,https://letterboxd.com/film/meet-the-robinsons/,https://image.tmdb.org/t/p/w500/naya0zF4kT401Sx15AtwB9vpcJr.jpg
 216,"Deadpool 2",2018,1081,19,https://letterboxd.com/film/deadpool-2/,https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg
 217,"Avatar",2009,1080,19,https://letterboxd.com/film/avatar/,https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
-218,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1079,19,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
-219,"Avatar: The Way of Water",2022,1078,20,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
-220,"Little Shop of Horrors",1986,1078,19,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
-221,"Sixteen Candles",1984,1077,20,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
-222,"Bohemian Rhapsody",2018,1076,19,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
-223,"Zootopia 2",2025,1076,19,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
-224,"Captain America: Civil War",2016,1075,19,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
-225,"Men in Black",1997,1075,19,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
+218,"All the President’s Men",1976,1080,5,https://letterboxd.com/film/all-the-presidents-men/,https://image.tmdb.org/t/p/w500/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg
+219,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1079,19,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
+220,"Avatar: The Way of Water",2022,1078,20,https://letterboxd.com/film/avatar-the-way-of-water/,https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+221,"Little Shop of Horrors",1986,1078,19,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
+222,"Sixteen Candles",1984,1077,20,https://letterboxd.com/film/sixteen-candles/,https://image.tmdb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg
+223,"Bohemian Rhapsody",2018,1076,19,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
+224,"Zootopia 2",2025,1076,19,https://letterboxd.com/film/zootopia-2/,https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
+225,"Captain America: Civil War",2016,1075,19,https://letterboxd.com/film/captain-america-civil-war/,https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
 226,"The Searchers",1956,1075,19,https://letterboxd.com/film/the-searchers/,https://image.tmdb.org/t/p/w500/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg
 227,"Limitless",2011,1074,19,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
 228,"Ghostbusters",1984,1073,20,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
@@ -242,11 +242,11 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 241,"Elemental",2023,1063,20,https://letterboxd.com/film/elemental-2023/,https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
 242,"The Right Stuff",1983,1063,19,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
 243,"E.T. the Extra-Terrestrial",1982,1063,19,https://letterboxd.com/film/et-the-extra-terrestrial/,https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
-244,"All the President’s Men",1976,1063,4,https://letterboxd.com/film/all-the-presidents-men/,https://image.tmdb.org/t/p/w500/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg
-245,"X-Men: Days of Future Past",2014,1062,19,https://letterboxd.com/film/x-men-days-of-future-past/,https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg
-246,"Pirates of the Caribbean: At World's End",2007,1062,19,https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/,https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg
-247,"Harry Potter and the Order of the Phoenix",2007,1061,20,https://letterboxd.com/film/harry-potter-and-the-order-of-the-phoenix/,https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg
-248,"Spider-Man 2",2004,1060,19,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
+244,"X-Men: Days of Future Past",2014,1062,19,https://letterboxd.com/film/x-men-days-of-future-past/,https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg
+245,"Pirates of the Caribbean: At World's End",2007,1062,19,https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/,https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg
+246,"Harry Potter and the Order of the Phoenix",2007,1061,20,https://letterboxd.com/film/harry-potter-and-the-order-of-the-phoenix/,https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg
+247,"Spider-Man 2",2004,1060,19,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
+248,"Men in Black",1997,1058,20,https://letterboxd.com/film/men-in-black/,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
 249,"8 Mile",2002,1058,19,https://letterboxd.com/film/8-mile/,https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg
 250,"Inside Out 2",2024,1057,19,https://letterboxd.com/film/inside-out-2-2024/,https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
 251,"Shaun of the Dead",2004,1057,19,https://letterboxd.com/film/shaun-of-the-dead/,https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg
