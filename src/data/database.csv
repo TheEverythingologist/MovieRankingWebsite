@@ -271,8 +271,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 270,"X-Men: First Class",2011,1036,20,https://letterboxd.com/film/x-men-first-class/,https://image.tmdb.org/t/p/w500/hNEokmUke0dazoBhttFN0o3L7Xv.jpg
 271,"Onward",2020,1035,19,https://letterboxd.com/film/onward-2020/,https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg
 272,"Real Steel",2011,1034,19,https://letterboxd.com/film/real-steel/,https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg
-273,"The Great Gatsby",2013,1033,19,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
-274,"Atlantis: The Lost Empire",2001,1032,19,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
+273,"Atlantis: The Lost Empire",2001,1032,19,https://letterboxd.com/film/atlantis-the-lost-empire/,https://image.tmdb.org/t/p/w500/oK8yR6xSQreWf1ouP1VpXKwoop5.jpg
+274,"Monsters University",2013,1032,20,https://letterboxd.com/film/monsters-university/,https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg
 275,"Doctor Strange",2016,1030,20,https://letterboxd.com/film/doctor-strange/,https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg
 276,"How to Train Your Dragon",2025,1030,19,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg
 277,"Hoodwinked!",2005,1029,20,https://letterboxd.com/film/hoodwinked/,https://image.tmdb.org/t/p/w500/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg
@@ -289,12 +289,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 288,"Tarzan",1999,1019,19,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
 289,"Snow White and the Seven Dwarfs",1937,1018,20,https://letterboxd.com/film/snow-white-and-the-seven-dwarfs/,https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg
 290,"Tremors",1990,1017,20,https://letterboxd.com/film/tremors/,https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg
-291,"The Jungle Book",1967,1016,23,https://letterboxd.com/film/the-jungle-book/,https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg
-292,"The Adventures of Tintin",2011,1016,19,https://letterboxd.com/film/the-adventures-of-tintin/,https://image.tmdb.org/t/p/w500/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg
-293,"A Haunting in Venice",2023,1016,20,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
-294,"Iron Lung",2026,1015,20,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
-295,"Spirit: Stallion of the Cimarron",2002,1015,20,https://letterboxd.com/film/spirit-stallion-of-the-cimarron/,https://image.tmdb.org/t/p/w500/cUgYrz4twiJ3QgVGpRfey984NIB.jpg
-296,"Monsters University",2013,1015,19,https://letterboxd.com/film/monsters-university/,https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg
+291,"The Great Gatsby",2013,1016,20,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
+292,"The Jungle Book",1967,1016,23,https://letterboxd.com/film/the-jungle-book/,https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg
+293,"The Adventures of Tintin",2011,1016,19,https://letterboxd.com/film/the-adventures-of-tintin/,https://image.tmdb.org/t/p/w500/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg
+294,"A Haunting in Venice",2023,1016,20,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
+295,"Iron Lung",2026,1015,20,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg
+296,"Spirit: Stallion of the Cimarron",2002,1015,20,https://letterboxd.com/film/spirit-stallion-of-the-cimarron/,https://image.tmdb.org/t/p/w500/cUgYrz4twiJ3QgVGpRfey984NIB.jpg
 297,"Cloudy with a Chance of Meatballs",2009,1015,19,https://letterboxd.com/film/cloudy-with-a-chance-of-meatballs/,https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg
 298,"The Blind Side",2009,1014,19,https://letterboxd.com/film/the-blind-side/,https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg
 299,"Free Guy",2021,1013,19,https://letterboxd.com/film/free-guy/,https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg
