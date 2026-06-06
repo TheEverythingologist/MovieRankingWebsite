@@ -568,14 +568,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 567,"Spy Kids 3-D: Game Over",2003,756,21,https://letterboxd.com/film/spy-kids-3-d-game-over/,https://image.tmdb.org/t/p/w500/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg
 568,"Brother Bear",2003,755,20,https://letterboxd.com/film/brother-bear/,https://image.tmdb.org/t/p/w500/otptPbEY0vBostmo95xwiiumMJm.jpg
 569,"The Boss Baby",2017,752,20,https://letterboxd.com/film/the-boss-baby/,https://image.tmdb.org/t/p/w500/unPB1iyEeTBcKiLg8W083rlViFH.jpg
-570,"The Dog Who Saved Christmas",2009,751,20,https://letterboxd.com/film/the-dog-who-saved-christmas/,https://image.tmdb.org/t/p/w500/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg
-571,"Grown Ups",2010,747,20,https://letterboxd.com/film/grown-ups/,https://image.tmdb.org/t/p/w500/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg
-572,"The Twilight Saga: Breaking Dawn - Part 2",2012,743,20,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-2/,https://image.tmdb.org/t/p/w500/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg
-573,"Spy Kids 2: Island of Lost Dreams",2002,739,21,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
-574,"Emilia Pérez",2024,738,20,https://letterboxd.com/film/emilia-perez/,https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg
-575,"Divergent",2014,737,20,https://letterboxd.com/film/divergent/,https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg
-576,"Tremors 4: The Legend Begins",2004,737,20,https://letterboxd.com/film/tremors-4-the-legend-begins/,https://image.tmdb.org/t/p/w500/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg
-577,"Dr. Dolittle 2",2001,737,20,https://letterboxd.com/film/dr-dolittle-2/,https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg
+570,"Dr. Dolittle 2",2001,752,21,https://letterboxd.com/film/dr-dolittle-2/,https://image.tmdb.org/t/p/w500/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg
+571,"The Dog Who Saved Christmas",2009,751,20,https://letterboxd.com/film/the-dog-who-saved-christmas/,https://image.tmdb.org/t/p/w500/mZpckvQrk3NFSfgaltuzRnw6hVy.jpg
+572,"Grown Ups",2010,747,20,https://letterboxd.com/film/grown-ups/,https://image.tmdb.org/t/p/w500/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg
+573,"The Twilight Saga: Breaking Dawn - Part 2",2012,743,20,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-2/,https://image.tmdb.org/t/p/w500/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg
+574,"Spy Kids 2: Island of Lost Dreams",2002,739,21,https://letterboxd.com/film/spy-kids-2-island-of-lost-dreams/,https://image.tmdb.org/t/p/w500/z8pfWCk6SlxxDLXXQdUHdxF5dwJ.jpg
+575,"Emilia Pérez",2024,738,20,https://letterboxd.com/film/emilia-perez/,https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg
+576,"Divergent",2014,737,20,https://letterboxd.com/film/divergent/,https://image.tmdb.org/t/p/w500/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg
+577,"Tremors 4: The Legend Begins",2004,737,20,https://letterboxd.com/film/tremors-4-the-legend-begins/,https://image.tmdb.org/t/p/w500/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg
 578,"Batman & Robin",1997,736,20,https://letterboxd.com/film/batman-robin/,https://image.tmdb.org/t/p/w500/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg
 579,"Camp Rock 2: The Final Jam",2010,732,21,https://letterboxd.com/film/camp-rock-2-the-final-jam/,https://image.tmdb.org/t/p/w500/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg
 580,"Tooth Fairy",2010,730,20,https://letterboxd.com/film/tooth-fairy-2010/,https://image.tmdb.org/t/p/w500/cRZvw3bPomtucIUtMHZ3qPIYtYs.jpg
@@ -583,20 +583,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 582,"Paul Blart: Mall Cop",2009,724,20,https://letterboxd.com/film/paul-blart-mall-cop/,https://image.tmdb.org/t/p/w500/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg
 583,"Percy Jackson and the Olympians: The Lightning Thief",2010,724,20,https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/,https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg
 584,"Beverly Hills Chihuahua",2008,720,21,https://letterboxd.com/film/beverly-hills-chihuahua/,https://image.tmdb.org/t/p/w500/2aRvqtLoE06hTjG93lASvO7r1as.jpg
-585,"Casper Meets Wendy",1998,719,20,https://letterboxd.com/film/casper-meets-wendy/,https://image.tmdb.org/t/p/w500/zYJWQvee9CN6nc9En2KUWewHGHr.jpg
-586,"Cats & Dogs: The Revenge of Kitty Galore",2010,717,21,https://letterboxd.com/film/cats-dogs-the-revenge-of-kitty-galore/,https://image.tmdb.org/t/p/w500/syV2naEnz7wbakOOk7XanPX8MjL.jpg
-587,"Zenon: Z3",2004,716,20,https://letterboxd.com/film/zenon-z3/,https://image.tmdb.org/t/p/w500/mnX94DJ9GVXEOmbdN97Yh5hGifT.jpg
-588,"Radio Rebel",2012,716,20,https://letterboxd.com/film/radio-rebel/,https://image.tmdb.org/t/p/w500/wycDdx2BrdNKlyTZoZT8uLeu6dq.jpg
-589,"Clueless",1995,716,20,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
-590,"Transformers: Age of Extinction",2014,713,20,https://letterboxd.com/film/transformers-age-of-extinction/,https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg
-591,"How to Build a Better Boy",2014,712,20,https://letterboxd.com/film/how-to-build-a-better-boy/,https://image.tmdb.org/t/p/w500/ivo09vYN76w3epqAv9jS9BEXi5N.jpg
-592,"Avalon High",2010,711,20,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
-593,"Minions",2015,710,20,https://letterboxd.com/film/minions/,https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg
-594,"Hotel for Dogs",2009,708,20,https://letterboxd.com/film/hotel-for-dogs/,https://image.tmdb.org/t/p/w500/xD2AssTeySNCamlGueai4yAZZfX.jpg
-595,"Cloud 9",2014,706,20,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
-596,"Trolls World Tour",2020,706,20,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
-597,"Princess Protection Program",2009,706,20,https://letterboxd.com/film/princess-protection-program/,https://image.tmdb.org/t/p/w500/tPKD9hmuYxclAQnfup47qLx8a5T.jpg
-598,"Twitches Too",2007,705,21,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
+585,"Cats & Dogs: The Revenge of Kitty Galore",2010,717,21,https://letterboxd.com/film/cats-dogs-the-revenge-of-kitty-galore/,https://image.tmdb.org/t/p/w500/syV2naEnz7wbakOOk7XanPX8MjL.jpg
+586,"Zenon: Z3",2004,716,20,https://letterboxd.com/film/zenon-z3/,https://image.tmdb.org/t/p/w500/mnX94DJ9GVXEOmbdN97Yh5hGifT.jpg
+587,"Radio Rebel",2012,716,20,https://letterboxd.com/film/radio-rebel/,https://image.tmdb.org/t/p/w500/wycDdx2BrdNKlyTZoZT8uLeu6dq.jpg
+588,"Clueless",1995,716,20,https://letterboxd.com/film/clueless/,https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
+589,"Transformers: Age of Extinction",2014,713,20,https://letterboxd.com/film/transformers-age-of-extinction/,https://image.tmdb.org/t/p/w500/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg
+590,"How to Build a Better Boy",2014,712,20,https://letterboxd.com/film/how-to-build-a-better-boy/,https://image.tmdb.org/t/p/w500/ivo09vYN76w3epqAv9jS9BEXi5N.jpg
+591,"Avalon High",2010,711,20,https://letterboxd.com/film/avalon-high/,https://image.tmdb.org/t/p/w500/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg
+592,"Minions",2015,710,20,https://letterboxd.com/film/minions/,https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg
+593,"Hotel for Dogs",2009,708,20,https://letterboxd.com/film/hotel-for-dogs/,https://image.tmdb.org/t/p/w500/xD2AssTeySNCamlGueai4yAZZfX.jpg
+594,"Cloud 9",2014,706,20,https://letterboxd.com/film/cloud-9-2014/,https://image.tmdb.org/t/p/w500/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg
+595,"Trolls World Tour",2020,706,20,https://letterboxd.com/film/trolls-world-tour/,https://image.tmdb.org/t/p/w500/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg
+596,"Princess Protection Program",2009,706,20,https://letterboxd.com/film/princess-protection-program/,https://image.tmdb.org/t/p/w500/tPKD9hmuYxclAQnfup47qLx8a5T.jpg
+597,"Twitches Too",2007,705,21,https://letterboxd.com/film/twitches-too/,https://image.tmdb.org/t/p/w500/70aurzbqFMuJnwhIVW2aXeyzBAp.jpg
+598,"Casper Meets Wendy",1998,704,21,https://letterboxd.com/film/casper-meets-wendy/,https://image.tmdb.org/t/p/w500/zYJWQvee9CN6nc9En2KUWewHGHr.jpg
 599,"Geek Charming",2011,701,21,https://letterboxd.com/film/geek-charming/,https://image.tmdb.org/t/p/w500/xweQBQSYQyHKiUxN1nCDQbLvJE0.jpg
 600,"Zapped",2014,700,20,https://letterboxd.com/film/zapped-2014/,https://image.tmdb.org/t/p/w500/u33QFfbvChD5LNcuZD0LsSVnoa1.jpg
 601,"The Twilight Saga: Breaking Dawn Part 1",2011,699,20,https://letterboxd.com/film/the-twilight-saga-breaking-dawn-part-1/,https://image.tmdb.org/t/p/w500/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg
