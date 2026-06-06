@@ -30,8 +30,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 29,"Oppenheimer",2023,1326,20,https://letterboxd.com/film/oppenheimer-2023/,https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
 30,"The Godfather",1972,1325,19,https://letterboxd.com/film/the-godfather/,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
 31,"Spirited Away",2001,1322,20,https://letterboxd.com/film/spirited-away/,https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
-32,"A Quiet Place",2018,1316,20,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
-33,"Saving Private Ryan",1998,1312,19,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
+32,"Saving Private Ryan",1998,1322,20,https://letterboxd.com/film/saving-private-ryan/,https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
+33,"A Quiet Place",2018,1316,20,https://letterboxd.com/film/a-quiet-place-2018/,https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg
 34,"The Godfather Part II",1974,1312,19,https://letterboxd.com/film/the-godfather-part-ii/,https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
 35,"Terminator 2: Judgment Day",1991,1311,20,https://letterboxd.com/film/terminator-2-judgment-day/,https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg
 36,"Goodfellas",1990,1311,20,https://letterboxd.com/film/goodfellas/,https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg
@@ -129,15 +129,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 128,"Little Women",2019,1185,19,https://letterboxd.com/film/little-women-2019/,https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
 129,"Fantastic Mr. Fox",2009,1183,20,https://letterboxd.com/film/fantastic-mr-fox/,https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg
 130,"Coco",2017,1182,19,https://letterboxd.com/film/coco-2017/,https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg
-131,"Encanto",2021,1179,19,https://letterboxd.com/film/encanto/,https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
-132,"Argo",2012,1178,19,https://letterboxd.com/film/argo/,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
-133,"Steve Jobs",2015,1178,19,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
-134,"The Wind Rises",2013,1176,19,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
-135,"Return of the Jedi",1983,1175,20,https://letterboxd.com/film/return-of-the-jedi/,https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg
-136,"The Holdovers",2023,1173,20,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
-137,"All the President’s Men",1976,1173,20,https://letterboxd.com/film/all-the-presidents-men/,https://image.tmdb.org/t/p/w500/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg
-138,"The Death of Stalin",2017,1171,20,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
-139,"Kill Bill Vol. 2",2004,1170,20,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+131,"Argo",2012,1178,19,https://letterboxd.com/film/argo/,https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
+132,"Steve Jobs",2015,1178,19,https://letterboxd.com/film/steve-jobs/,https://image.tmdb.org/t/p/w500/ljiRO29Y9khEERRqMluptUYunJ9.jpg
+133,"The Wind Rises",2013,1176,19,https://letterboxd.com/film/the-wind-rises/,https://image.tmdb.org/t/p/w500/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg
+134,"Return of the Jedi",1983,1175,20,https://letterboxd.com/film/return-of-the-jedi/,https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg
+135,"The Holdovers",2023,1173,20,https://letterboxd.com/film/the-holdovers/,https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
+136,"All the President’s Men",1976,1173,20,https://letterboxd.com/film/all-the-presidents-men/,https://image.tmdb.org/t/p/w500/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg
+137,"The Death of Stalin",2017,1171,20,https://letterboxd.com/film/the-death-of-stalin/,https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg
+138,"Kill Bill Vol. 2",2004,1170,20,https://letterboxd.com/film/kill-bill-vol-2/,https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+139,"Encanto",2021,1169,20,https://letterboxd.com/film/encanto/,https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg
 140,"My Neighbor Totoro",1988,1163,20,https://letterboxd.com/film/my-neighbor-totoro/,https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg
 141,"Iron Man",2008,1163,20,https://letterboxd.com/film/iron-man-2008/,https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg
 142,"Indiana Jones and the Last Crusade",1989,1163,20,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg
