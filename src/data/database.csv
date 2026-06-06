@@ -301,15 +301,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 300,"Free Guy",2021,1013,19,https://letterboxd.com/film/free-guy/,https://image.tmdb.org/t/p/w500/dxraF0qPr1OEgJk17ltQTO84kQF.jpg
 301,"The Mummy",1999,1013,19,https://letterboxd.com/film/the-mummy-1999/,https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg
 302,"The Lego Ninjago Movie",2017,1013,19,https://letterboxd.com/film/the-lego-ninjago-movie/,https://image.tmdb.org/t/p/w500/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg
-303,"A Bug's Life",1998,1012,20,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
-304,"Look Who's Back",2015,1011,20,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
-305,"The Outsiders",1983,1010,19,https://letterboxd.com/film/the-outsiders/,https://image.tmdb.org/t/p/w500/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg
-306,"Chicken Run",2000,1009,19,https://letterboxd.com/film/chicken-run/,https://image.tmdb.org/t/p/w500/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg
-307,"Saw IV",2007,1007,20,https://letterboxd.com/film/saw-iv/,https://image.tmdb.org/t/p/w500/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg
-308,"The Little Mermaid",1989,1006,20,https://letterboxd.com/film/the-little-mermaid/,https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg
-309,"Big Hero 6",2014,1006,19,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
-310,"Iron Man 3",2013,1004,19,https://letterboxd.com/film/iron-man-3/,https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg
-311,"Napoleon Dynamite",2004,1004,19,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
+303,"Napoleon Dynamite",2004,1013,20,https://letterboxd.com/film/napoleon-dynamite/,https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg
+304,"A Bug's Life",1998,1012,20,https://letterboxd.com/film/a-bugs-life/,https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg
+305,"Look Who's Back",2015,1011,20,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
+306,"The Outsiders",1983,1010,19,https://letterboxd.com/film/the-outsiders/,https://image.tmdb.org/t/p/w500/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg
+307,"Chicken Run",2000,1009,19,https://letterboxd.com/film/chicken-run/,https://image.tmdb.org/t/p/w500/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg
+308,"Saw IV",2007,1007,20,https://letterboxd.com/film/saw-iv/,https://image.tmdb.org/t/p/w500/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg
+309,"The Little Mermaid",1989,1006,20,https://letterboxd.com/film/the-little-mermaid/,https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg
+310,"Big Hero 6",2014,1006,19,https://letterboxd.com/film/big-hero-6/,https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg
+311,"Iron Man 3",2013,1004,19,https://letterboxd.com/film/iron-man-3/,https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg
 312,"Dirty Dancing",1987,1003,20,https://letterboxd.com/film/dirty-dancing/,https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg
 313,"Over the Hedge",2006,1003,20,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
 314,"Mean Girls",2004,1001,19,https://letterboxd.com/film/mean-girls/,https://image.tmdb.org/t/p/w500/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg
@@ -487,14 +487,14 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 486,"Tremors II: Aftershocks",1996,845,20,https://letterboxd.com/film/tremors-ii-aftershocks/,https://image.tmdb.org/t/p/w500/hvBYCgG62Fk8cYIsUtrfP5iw3K8.jpg
 487,"Ice Age",2002,845,20,https://letterboxd.com/film/ice-age/,https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg
 488,"The Lorax",2012,841,19,https://letterboxd.com/film/the-lorax-2012/,https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg
-489,"Oz the Great and Powerful",2013,841,19,https://letterboxd.com/film/oz-the-great-and-powerful/,https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg
-490,"Primitive War",2025,840,20,https://letterboxd.com/film/primitive-war/,https://image.tmdb.org/t/p/w500/fZnY97zAyATRH50Q1I92fQy1hUg.jpg
-491,"The Amazing Spider-Man 2",2014,838,20,https://letterboxd.com/film/the-amazing-spider-man-2/,https://image.tmdb.org/t/p/w500/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg
-492,"Jungle Cruise",2021,838,19,https://letterboxd.com/film/jungle-cruise/,https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg
-493,"Race to Witch Mountain",2009,838,19,https://letterboxd.com/film/race-to-witch-mountain/,https://image.tmdb.org/t/p/w500/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg
-494,"Battleship",2012,835,20,https://letterboxd.com/film/battleship/,https://image.tmdb.org/t/p/w500/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg
-495,"Star Wars: The Rise of Skywalker",2019,835,20,https://letterboxd.com/film/star-wars-the-rise-of-skywalker/,https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg
-496,"Legally Blondes",2009,833,19,https://letterboxd.com/film/legally-blondes/,https://image.tmdb.org/t/p/w500/wZnEw0avASZwBWcJo5F1pdJnmO2.jpg
+489,"Primitive War",2025,840,20,https://letterboxd.com/film/primitive-war/,https://image.tmdb.org/t/p/w500/fZnY97zAyATRH50Q1I92fQy1hUg.jpg
+490,"The Amazing Spider-Man 2",2014,838,20,https://letterboxd.com/film/the-amazing-spider-man-2/,https://image.tmdb.org/t/p/w500/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg
+491,"Jungle Cruise",2021,838,19,https://letterboxd.com/film/jungle-cruise/,https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg
+492,"Race to Witch Mountain",2009,838,19,https://letterboxd.com/film/race-to-witch-mountain/,https://image.tmdb.org/t/p/w500/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg
+493,"Battleship",2012,835,20,https://letterboxd.com/film/battleship/,https://image.tmdb.org/t/p/w500/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg
+494,"Star Wars: The Rise of Skywalker",2019,835,20,https://letterboxd.com/film/star-wars-the-rise-of-skywalker/,https://image.tmdb.org/t/p/w500/db32LaOibwEliAmSL2jjDF6oDdj.jpg
+495,"Legally Blondes",2009,833,19,https://letterboxd.com/film/legally-blondes/,https://image.tmdb.org/t/p/w500/wZnEw0avASZwBWcJo5F1pdJnmO2.jpg
+496,"Oz the Great and Powerful",2013,832,20,https://letterboxd.com/film/oz-the-great-and-powerful/,https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg
 497,"Sing 2",2021,831,20,https://letterboxd.com/film/sing-2/,https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg
 498,"Horton Hears a Who!",2008,830,20,https://letterboxd.com/film/horton-hears-a-who-2008/,https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg
 499,"Planet 51",2009,830,20,https://letterboxd.com/film/planet-51/,https://image.tmdb.org/t/p/w500/x7Itcg3ZdExKwdKguy73WPEqosW.jpg
