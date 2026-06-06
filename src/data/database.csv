@@ -57,9 +57,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 56,"Battle Royale",2000,1280,20,https://letterboxd.com/film/battle-royale/,https://image.tmdb.org/t/p/w500/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg
 57,"Back to the Future",1985,1278,20,https://letterboxd.com/film/back-to-the-future/,https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
 58,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,1276,20,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,https://image.tmdb.org/t/p/w500/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg
-59,"Mad Max: Fury Road",2015,1269,20,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
-60,"Scott Pilgrim vs. The World",2010,1267,20,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
-61,"Anora",2024,1267,19,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
+59,"Anora",2024,1270,20,https://letterboxd.com/film/anora/,https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
+60,"Mad Max: Fury Road",2015,1269,20,https://letterboxd.com/film/mad-max-fury-road/,https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg
+61,"Scott Pilgrim vs. The World",2010,1267,20,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg
 62,"Birdman or (The Unexpected Virtue of Ignorance)",2014,1266,20,https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/,https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
 63,"Kill Bill Vol. 1",2003,1265,20,https://letterboxd.com/film/kill-bill-vol-1/,https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
 64,"Fight Club",1999,1265,20,https://letterboxd.com/film/fight-club/,https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg
@@ -476,9 +476,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 475,"Open Season 2",2008,859,20,https://letterboxd.com/film/open-season-2/,https://image.tmdb.org/t/p/w500/lM4bahouPblYcfngZtnNSkaWxCU.jpg
 476,"The Lorax",2012,859,20,https://letterboxd.com/film/the-lorax-2012/,https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg
 477,"Legally Blonde",2001,858,20,https://letterboxd.com/film/legally-blonde/,https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg
-478,"Lilo & Stitch 2: Stitch Has a Glitch",2005,857,19,https://letterboxd.com/film/lilo-stitch-2-stitch-has-a-glitch/,https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg
-479,"High School Musical 2",2007,856,20,https://letterboxd.com/film/high-school-musical-2/,https://image.tmdb.org/t/p/w500/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg
-480,"Cats & Dogs",2001,855,20,https://letterboxd.com/film/cats-dogs/,https://image.tmdb.org/t/p/w500/wUWoat7L4vvQburQ8pVEJhRG9L5.jpg
+478,"High School Musical 2",2007,856,20,https://letterboxd.com/film/high-school-musical-2/,https://image.tmdb.org/t/p/w500/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg
+479,"Cats & Dogs",2001,855,20,https://letterboxd.com/film/cats-dogs/,https://image.tmdb.org/t/p/w500/wUWoat7L4vvQburQ8pVEJhRG9L5.jpg
+480,"Lilo & Stitch 2: Stitch Has a Glitch",2005,854,20,https://letterboxd.com/film/lilo-stitch-2-stitch-has-a-glitch/,https://image.tmdb.org/t/p/w500/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg
 481,"Final Destination 5",2011,853,20,https://letterboxd.com/film/final-destination-5/,https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg
 482,"101 Dalmatians",1996,852,20,https://letterboxd.com/film/101-dalmatians/,https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg
 483,"minions rise of gru",2022,849,20,https://letterboxd.com/film/minions-the-rise-of-gru/,https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg
