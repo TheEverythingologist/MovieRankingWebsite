@@ -91,22 +91,22 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 90,"The Imitation Game",2014,1228,20,https://letterboxd.com/film/the-imitation-game/,https://image.tmdb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
 91,"Raiders of the Lost Ark",1981,1226,19,https://letterboxd.com/film/raiders-of-the-lost-ark/,https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg
 92,"How to Train Your Dragon",2010,1221,19,https://letterboxd.com/film/how-to-train-your-dragon/,https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg
-93,"To Kill A Mockingbird",1962,1218,20,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
-94,"Letters From Iwo Jima",2006,1218,20,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
-95,"Dunkirk",2017,1217,20,https://letterboxd.com/film/dunkirk-2017/,https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
-96,"Room",2015,1217,19,https://letterboxd.com/film/room-2015/,https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg
-97,"The Wild Robot",2024,1216,20,https://letterboxd.com/film/the-wild-robot/,https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg
-98,"South Park: Bigger Longer and Uncut",1999,1216,20,https://letterboxd.com/film/south-park-bigger-longer-uncut/,https://image.tmdb.org/t/p/w500/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg
-99,"Shrek 2",2004,1215,19,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
-100,"Jaws",1975,1215,20,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
-101,"The Lego Movie",2014,1214,19,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
-102,"Whisper of the Heart",1995,1212,20,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
-103,"Saw II",2005,1211,19,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
-104,"Frankenstein",2025,1211,20,https://letterboxd.com/film/frankenstein-2025/,https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg
-105,"Jojo Rabbit",2019,1210,20,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
-106,"Mulan",1998,1209,20,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
-107,"Superbad",2007,1207,19,https://letterboxd.com/film/superbad/,https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg
-108,"Hidden Figures",2016,1207,19,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
+93,"Hidden Figures",2016,1219,20,https://letterboxd.com/film/hidden-figures/,https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg
+94,"To Kill A Mockingbird",1962,1218,20,https://letterboxd.com/film/to-kill-a-mockingbird/,https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg
+95,"Letters From Iwo Jima",2006,1218,20,https://letterboxd.com/film/letters-from-iwo-jima/,https://image.tmdb.org/t/p/w500/kZokxQtzMPURvijWYFuvh1fAvnv.jpg
+96,"Dunkirk",2017,1217,20,https://letterboxd.com/film/dunkirk-2017/,https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
+97,"Room",2015,1217,19,https://letterboxd.com/film/room-2015/,https://image.tmdb.org/t/p/w500/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg
+98,"The Wild Robot",2024,1216,20,https://letterboxd.com/film/the-wild-robot/,https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg
+99,"South Park: Bigger Longer and Uncut",1999,1216,20,https://letterboxd.com/film/south-park-bigger-longer-uncut/,https://image.tmdb.org/t/p/w500/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg
+100,"Shrek 2",2004,1215,19,https://letterboxd.com/film/shrek-2/,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
+101,"Jaws",1975,1215,20,https://letterboxd.com/film/jaws/,https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg
+102,"The Lego Movie",2014,1214,19,https://letterboxd.com/film/the-lego-movie/,https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
+103,"Whisper of the Heart",1995,1212,20,https://letterboxd.com/film/whisper-of-the-heart/,https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg
+104,"Saw II",2005,1211,19,https://letterboxd.com/film/saw-ii/,https://image.tmdb.org/t/p/w500/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg
+105,"Frankenstein",2025,1211,20,https://letterboxd.com/film/frankenstein-2025/,https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg
+106,"Jojo Rabbit",2019,1210,20,https://letterboxd.com/film/jojo-rabbit/,https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg
+107,"Mulan",1998,1209,20,https://letterboxd.com/film/mulan/,https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg
+108,"Superbad",2007,1207,19,https://letterboxd.com/film/superbad/,https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg
 109,"Jurassic Park",1993,1205,19,https://letterboxd.com/film/jurassic-park/,https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg
 110,"Million Dollar Baby",2004,1205,20,https://letterboxd.com/film/million-dollar-baby/,https://image.tmdb.org/t/p/w500/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
 111,"Dead Poets' Society",1989,1203,20,https://letterboxd.com/film/dead-poets-society/,https://image.tmdb.org/t/p/w500/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg
@@ -171,12 +171,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 170,"Brooklyn",2015,1122,20,https://letterboxd.com/film/brooklyn/,https://image.tmdb.org/t/p/w500/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg
 171,"John Wick",2014,1119,20,https://letterboxd.com/film/john-wick/,https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
 172,"The Lighthouse",2019,1117,19,https://letterboxd.com/film/the-lighthouse-2019/,https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
-173,"The Hunger Games",2012,1117,19,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
-174,"Kung Fu Panda 2",2011,1117,19,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
-175,"Rocky",1976,1117,19,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
-176,"Knives Out",2019,1115,19,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
-177,"WarGames",1983,1109,19,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
-178,"Deadpool",2016,1108,20,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
+173,"Kung Fu Panda 2",2011,1117,19,https://letterboxd.com/film/kung-fu-panda-2/,https://image.tmdb.org/t/p/w500/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg
+174,"Rocky",1976,1117,19,https://letterboxd.com/film/rocky/,https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg
+175,"Knives Out",2019,1115,19,https://letterboxd.com/film/knives-out-2019/,https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg
+176,"WarGames",1983,1109,19,https://letterboxd.com/film/wargames/,https://image.tmdb.org/t/p/w500/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg
+177,"Deadpool",2016,1108,20,https://letterboxd.com/film/deadpool/,https://image.tmdb.org/t/p/w500/3E53WEZJqP6aM84D8CckXx4pIHw.jpg
+178,"The Hunger Games",2012,1105,20,https://letterboxd.com/film/the-hunger-games/,https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg
 179,"Isle of Dogs",2018,1105,19,https://letterboxd.com/film/isle-of-dogs-2018/,https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg
 180,"Sonic the Hedgehog 3",2024,1102,20,https://letterboxd.com/film/sonic-the-hedgehog-3/,https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg
 181,"Kingsman: The Secret Service",2014,1102,20,https://letterboxd.com/film/kingsman-the-secret-service/,https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg
