@@ -71,8 +71,8 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 70,"The Dark Knight Rises",2012,1255,20,https://letterboxd.com/film/the-dark-knight-rises/,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
 71,"Marty Supreme",2025,1254,20,https://letterboxd.com/film/marty-supreme/,https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
 72,"Forrest Gump",1994,1252,20,https://letterboxd.com/film/forrest-gump/,https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
-73,"No Country For Old Men",2007,1251,20,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
-74,"The Great Dictator",1940,1248,19,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
+73,"The Great Dictator",1940,1252,20,https://letterboxd.com/film/the-great-dictator/,https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg
+74,"No Country For Old Men",2007,1251,20,https://letterboxd.com/film/no-country-for-old-men/,https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg
 75,"The Grand Budapest Hotel",2014,1248,20,https://letterboxd.com/film/the-grand-budapest-hotel/,https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
 76,"Perfect Blue",1997,1247,20,https://letterboxd.com/film/perfect-blue/,https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg
 77,"A Real Pain",2024,1247,20,https://letterboxd.com/film/a-real-pain/,https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg
@@ -408,12 +408,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 407,"Incredibles 2",2018,927,20,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
 408,"Hotel Transylvania",2012,926,19,https://letterboxd.com/film/hotel-transylvania/,https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg
 409,"War of the Worlds",2005,926,19,https://letterboxd.com/film/war-of-the-worlds/,https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg
-410,"Thor",2011,925,19,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
-411,"Spider-Man 3",2007,925,19,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
-412,"Indiana Jones and the Kingdom of the Crystal Skull",2008,923,19,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
-413,"300",2006,923,19,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
-414,"National Treasure: Book of Secrets",2007,923,20,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
-415,"Now You See Me",2013,922,20,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
+410,"Spider-Man 3",2007,925,19,https://letterboxd.com/film/spider-man-3/,https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg
+411,"Indiana Jones and the Kingdom of the Crystal Skull",2008,923,19,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
+412,"300",2006,923,19,https://letterboxd.com/film/300/,https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
+413,"National Treasure: Book of Secrets",2007,923,20,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
+414,"Now You See Me",2013,922,20,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
+415,"Thor",2011,921,20,https://letterboxd.com/film/thor/,https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg
 416,"The Santa Clause 2",2002,921,20,https://letterboxd.com/film/the-santa-clause-2/,https://image.tmdb.org/t/p/w500/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg
 417,"Ghostbusters: Frozen Empire",2024,921,20,https://letterboxd.com/film/ghostbusters-frozen-empire/,https://image.tmdb.org/t/p/w500/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg
 418,"The Greatest Showman",2017,919,20,https://letterboxd.com/film/the-greatest-showman/,https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg
