@@ -40,9 +40,9 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 39,"WALL-E",2008,1306,20,https://letterboxd.com/film/walle/,https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg
 40,"Saw",2004,1302,20,https://letterboxd.com/film/saw/,https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg
 41,"2001: A Space Odyssey",1968,1301,20,https://letterboxd.com/film/2001-a-space-odyssey/,https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
-42,"Sinners",2025,1300,20,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
-43,"Midsommar",2019,1299,20,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
-44,"Full Metal Jacket",1987,1298,19,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+42,"Full Metal Jacket",1987,1301,20,https://letterboxd.com/film/full-metal-jacket/,https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+43,"Sinners",2025,1300,20,https://letterboxd.com/film/sinners-2025/,https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg
+44,"Midsommar",2019,1299,20,https://letterboxd.com/film/midsommar/,https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg
 45,"The Menu",2022,1298,20,https://letterboxd.com/film/the-menu-2022/,https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
 46,"Poor Things",2023,1297,20,https://letterboxd.com/film/poor-things-2023/,https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
 47,"The Substance",2024,1294,20,https://letterboxd.com/film/the-substance/,https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg
@@ -441,12 +441,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 440,"Doctor Strange in the Multiverse of Madness",2022,902,20,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/,https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
 441,"Madagascar",2005,902,20,https://letterboxd.com/film/madagascar/,https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg
 442,"Transformers",2007,902,19,https://letterboxd.com/film/transformers/,https://image.tmdb.org/t/p/w500/4N4sipl8T72tNE4earcctQa2Kw2.jpg
-443,"Despicable Me 2",2013,901,19,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
-444,"Spiral: From the Book of Saw",2021,901,20,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
-445,"High School Musical",2006,900,20,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
-446,"An Extremely Goofy Movie",2000,900,20,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
-447,"Looney Tunes: Back in Action",2003,900,20,https://letterboxd.com/film/looney-tunes-back-in-action/,https://image.tmdb.org/t/p/w500/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg
-448,"Ice Age: Dawn of the Dinosaurs",2009,899,20,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
+443,"Spiral: From the Book of Saw",2021,901,20,https://letterboxd.com/film/spiral-from-the-book-of-saw/,https://image.tmdb.org/t/p/w500/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg
+444,"High School Musical",2006,900,20,https://letterboxd.com/film/high-school-musical/,https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg
+445,"An Extremely Goofy Movie",2000,900,20,https://letterboxd.com/film/an-extremely-goofy-movie/,https://image.tmdb.org/t/p/w500/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg
+446,"Looney Tunes: Back in Action",2003,900,20,https://letterboxd.com/film/looney-tunes-back-in-action/,https://image.tmdb.org/t/p/w500/q0kntpdsHA0QdYjpQdNBqrVTdQq.jpg
+447,"Ice Age: Dawn of the Dinosaurs",2009,899,20,https://letterboxd.com/film/ice-age-dawn-of-the-dinosaurs/,https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg
+448,"Despicable Me 2",2013,898,20,https://letterboxd.com/film/despicable-me-2/,https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg
 449,"Madagascar 3: Europe's Most Wanted",2012,898,20,https://letterboxd.com/film/madagascar-3-europes-most-wanted/,https://image.tmdb.org/t/p/w500/ekraj4ksvIKeuvQVEevEJkuybZd.jpg
 450,"Solo: A Star Wars Story",2018,898,20,https://letterboxd.com/film/solo-a-star-wars-story/,https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
 451,"Smart House",1999,897,20,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
