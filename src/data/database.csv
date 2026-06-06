@@ -225,15 +225,15 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 224,"Limitless",2011,1074,19,https://letterboxd.com/film/limitless/,https://image.tmdb.org/t/p/w500/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg
 225,"The Right Stuff",1983,1074,20,https://letterboxd.com/film/the-right-stuff/,https://image.tmdb.org/t/p/w500/kFR1p46HXJVVMpmOil8bNWnAQ50.jpg
 226,"Ghostbusters",1984,1073,20,https://letterboxd.com/film/ghostbusters/,https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
-227,"Spider-Man 2",2004,1072,20,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
-228,"Meet the Robinsons",2007,1071,20,https://letterboxd.com/film/meet-the-robinsons/,https://image.tmdb.org/t/p/w500/naya0zF4kT401Sx15AtwB9vpcJr.jpg
-229,"Little Shop of Horrors",1986,1071,20,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
-230,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1071,20,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
-231,"The Muppet Christmas Carol",1992,1071,19,https://letterboxd.com/film/the-muppet-christmas-carol/,https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg
-232,"Indiana Jones and the Temple of Doom",1984,1070,20,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
-233,"Pacific Rim",2013,1069,20,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
-234,"Bohemian Rhapsody",2018,1068,20,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
-235,"Robots",2005,1068,19,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
+227,"Robots",2005,1073,20,https://letterboxd.com/film/robots/,https://image.tmdb.org/t/p/w500/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg
+228,"Spider-Man 2",2004,1072,20,https://letterboxd.com/film/spider-man-2/,https://image.tmdb.org/t/p/w500/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg
+229,"Meet the Robinsons",2007,1071,20,https://letterboxd.com/film/meet-the-robinsons/,https://image.tmdb.org/t/p/w500/naya0zF4kT401Sx15AtwB9vpcJr.jpg
+230,"Little Shop of Horrors",1986,1071,20,https://letterboxd.com/film/little-shop-of-horrors/,https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg
+231,"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",2006,1071,20,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg
+232,"The Muppet Christmas Carol",1992,1071,19,https://letterboxd.com/film/the-muppet-christmas-carol/,https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg
+233,"Indiana Jones and the Temple of Doom",1984,1070,20,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/,https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg
+234,"Pacific Rim",2013,1069,20,https://letterboxd.com/film/pacific-rim/,https://image.tmdb.org/t/p/w500/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg
+235,"Bohemian Rhapsody",2018,1068,20,https://letterboxd.com/film/bohemian-rhapsody/,https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
 236,"Zootopia",2016,1068,20,https://letterboxd.com/film/zootopia/,https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
 237,"Star Wars: Episode VII - The Force Awakens",2015,1067,20,https://letterboxd.com/film/star-wars-episode-vii-the-force-awakens/,https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
 238,"8 Mile",2002,1067,20,https://letterboxd.com/film/8-mile/,https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg
@@ -540,12 +540,12 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 539,"Cars 2",2011,788,19,https://letterboxd.com/film/cars-2/,https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg
 540,"Meet Dave",2008,787,20,https://letterboxd.com/film/meet-dave/,https://image.tmdb.org/t/p/w500/3Qfav5aVRcZmq854olMjJ795JJ2.jpg
 541,"Monte Carlo",2011,785,20,https://letterboxd.com/film/monte-carlo/,https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg
-542,"Lady and the Tramp II: Scamp's Adventure",2001,784,19,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
-543,"Wendy Wu: Homecoming Warrior",2006,784,19,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
-544,"Girl vs. Monster",2012,784,20,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
-545,"Jurassic World: Fallen Kingdom",2018,783,20,https://letterboxd.com/film/jurassic-world-fallen-kingdom/,https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg
-546,"The Ultimate Christmas Present",2000,783,20,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
-547,"G-Force",2009,782,20,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
+542,"Wendy Wu: Homecoming Warrior",2006,784,19,https://letterboxd.com/film/wendy-wu-homecoming-warrior/,https://image.tmdb.org/t/p/w500/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg
+543,"Girl vs. Monster",2012,784,20,https://letterboxd.com/film/girl-vs-monster/,https://image.tmdb.org/t/p/w500/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg
+544,"Jurassic World: Fallen Kingdom",2018,783,20,https://letterboxd.com/film/jurassic-world-fallen-kingdom/,https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg
+545,"The Ultimate Christmas Present",2000,783,20,https://letterboxd.com/film/the-ultimate-christmas-present/,https://image.tmdb.org/t/p/w500/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg
+546,"G-Force",2009,782,20,https://letterboxd.com/film/g-force/,https://image.tmdb.org/t/p/w500/9Tly3ZXTTsQKM26fis8v9LR4GxG.jpg
+547,"Lady and the Tramp II: Scamp's Adventure",2001,779,20,https://letterboxd.com/film/lady-and-the-tramp-ii-scamps-adventure/,https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg
 548,"The Suite Life Movie",2011,779,20,https://letterboxd.com/film/the-suite-life-movie/,https://image.tmdb.org/t/p/w500/31aSRwBIpn355kNQyYBdDdZoEVZ.jpg
 549,"Suicide Squad",2016,777,20,https://letterboxd.com/film/suicide-squad-2016/,https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg
 550,"Trolls Band Together",2023,774,20,https://letterboxd.com/film/trolls-band-together/,https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg
