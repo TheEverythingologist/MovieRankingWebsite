@@ -302,20 +302,20 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 301,"The Jungle Book",1967,1016,23,https://letterboxd.com/film/the-jungle-book/,https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg
 302,"A Haunting in Venice",2023,1016,20,https://letterboxd.com/film/a-haunting-in-venice/,https://image.tmdb.org/t/p/w500/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg
 303,"Kingsman: The Golden Circle",2017,1016,21,https://letterboxd.com/film/kingsman-the-golden-circle/,https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg
-304,"Spirit: Stallion of the Cimarron",2002,1015,20,https://letterboxd.com/film/spirit-stallion-of-the-cimarron/,https://image.tmdb.org/t/p/w500/cUgYrz4twiJ3QgVGpRfey984NIB.jpg
-305,"The Spongebob Squarepants Movie",2004,1015,21,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
-306,"Final Destination 3",2006,1015,21,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
-307,"National Treasure",2004,1014,21,https://letterboxd.com/film/national-treasure/,https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg
-308,"Tarzan",1999,1013,20,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
-309,"Dumb and Dumber",1994,1012,20,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
-310,"Lady and the Tramp",1955,1012,21,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg
-311,"Look Who's Back",2015,1011,20,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
-312,"The Adventures of Tintin",2011,1010,20,https://letterboxd.com/film/the-adventures-of-tintin/,https://image.tmdb.org/t/p/w500/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg
-313,"The Blind Side",2009,1009,20,https://letterboxd.com/film/the-blind-side/,https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg
-314,"The Muppets",2011,1008,21,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
-315,"Arthur Christmas",2011,1007,21,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
-316,"The Little Mermaid",1989,1006,20,https://letterboxd.com/film/the-little-mermaid/,https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg
-317,"Penguins of Madagascar",2014,1003,6,https://letterboxd.com/film/penguins-of-madagascar-2014/,https://image.tmdb.org/t/p/w500/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg
+304,"Penguins of Madagascar",2014,1016,7,https://letterboxd.com/film/penguins-of-madagascar-2014/,https://image.tmdb.org/t/p/w500/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg
+305,"Spirit: Stallion of the Cimarron",2002,1015,20,https://letterboxd.com/film/spirit-stallion-of-the-cimarron/,https://image.tmdb.org/t/p/w500/cUgYrz4twiJ3QgVGpRfey984NIB.jpg
+306,"The Spongebob Squarepants Movie",2004,1015,21,https://letterboxd.com/film/the-spongebob-squarepants-movie/,https://image.tmdb.org/t/p/w500/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg
+307,"Final Destination 3",2006,1015,21,https://letterboxd.com/film/final-destination-3/,https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg
+308,"National Treasure",2004,1014,21,https://letterboxd.com/film/national-treasure/,https://image.tmdb.org/t/p/w500/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg
+309,"Tarzan",1999,1013,20,https://letterboxd.com/film/tarzan/,https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg
+310,"Dumb and Dumber",1994,1012,20,https://letterboxd.com/film/dumb-and-dumber/,https://image.tmdb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg
+311,"Lady and the Tramp",1955,1012,21,https://letterboxd.com/film/lady-and-the-tramp/,https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg
+312,"Look Who's Back",2015,1011,20,https://letterboxd.com/film/look-whos-back-2015/,https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg
+313,"The Adventures of Tintin",2011,1010,20,https://letterboxd.com/film/the-adventures-of-tintin/,https://image.tmdb.org/t/p/w500/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg
+314,"The Blind Side",2009,1009,20,https://letterboxd.com/film/the-blind-side/,https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg
+315,"The Muppets",2011,1008,21,https://letterboxd.com/film/the-muppets/,https://image.tmdb.org/t/p/w500/mOB0Hdm23NslPNDkZC9eueatW3b.jpg
+316,"Arthur Christmas",2011,1007,21,https://letterboxd.com/film/arthur-christmas/,https://image.tmdb.org/t/p/w500/yF7SNheAGWavNnjbAronedwjC1N.jpg
+317,"The Little Mermaid",1989,1006,20,https://letterboxd.com/film/the-little-mermaid/,https://image.tmdb.org/t/p/w500/plcZXvI310FkbwIptvd6rqk63LP.jpg
 318,"Dirty Dancing",1987,1003,20,https://letterboxd.com/film/dirty-dancing/,https://image.tmdb.org/t/p/w500/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg
 319,"Over the Hedge",2006,1003,20,https://letterboxd.com/film/over-the-hedge/,https://image.tmdb.org/t/p/w500/jtZnymorbnHY7mOiBXR14ZDJseM.jpg
 320,"The Great Gatsby",2013,1002,21,https://letterboxd.com/film/the-great-gatsby-2013/,https://image.tmdb.org/t/p/w500/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg
@@ -408,17 +408,17 @@ Rank,MovieName,ReleaseYear,EloRating,TimesCompeted,LetterboxdLink,PosterUrl
 407,"The Aristocats",1970,932,21,https://letterboxd.com/film/the-aristocats/,https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg
 408,"Iron Man 2",2010,930,20,https://letterboxd.com/film/iron-man-2/,https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg
 409,"Christopher Robin",2018,930,20,https://letterboxd.com/film/christopher-robin/,https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg
-410,"Indiana Jones and the Kingdom of the Crystal Skull",2008,930,20,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
-411,"Maleficent",2014,929,20,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
-412,"Space Jam",1996,928,20,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
-413,"Incredibles 2",2018,927,20,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
-414,"Annie",1982,926,21,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
-415,"National Treasure: Book of Secrets",2007,923,20,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
-416,"Dr. Dolittle",1998,923,21,https://letterboxd.com/film/dr-dolittle/,https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg
-417,"Now You See Me",2013,922,20,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
-418,"The Hunger Games: Mockingjay Part 2",2015,920,21,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
-419,"Transcendence",2014,919,21,https://letterboxd.com/film/transcendence/,https://image.tmdb.org/t/p/w500/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg
-420,"The Sword in the Stone",1963,918,21,https://letterboxd.com/film/the-sword-in-the-stone/,https://image.tmdb.org/t/p/w500/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg
+410,"Maleficent",2014,929,20,https://letterboxd.com/film/maleficent/,https://image.tmdb.org/t/p/w500/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg
+411,"Space Jam",1996,928,20,https://letterboxd.com/film/space-jam/,https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg
+412,"Incredibles 2",2018,927,20,https://letterboxd.com/film/incredibles-2/,https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg
+413,"Annie",1982,926,21,https://letterboxd.com/film/annie/,https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg
+414,"National Treasure: Book of Secrets",2007,923,20,https://letterboxd.com/film/national-treasure-book-of-secrets/,https://image.tmdb.org/t/p/w500/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg
+415,"Dr. Dolittle",1998,923,21,https://letterboxd.com/film/dr-dolittle/,https://image.tmdb.org/t/p/w500/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg
+416,"Now You See Me",2013,922,20,https://letterboxd.com/film/now-you-see-me/,https://image.tmdb.org/t/p/w500/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg
+417,"The Hunger Games: Mockingjay Part 2",2015,920,21,https://letterboxd.com/film/the-hunger-games-mockingjay-part-2/,https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg
+418,"Transcendence",2014,919,21,https://letterboxd.com/film/transcendence/,https://image.tmdb.org/t/p/w500/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg
+419,"The Sword in the Stone",1963,918,21,https://letterboxd.com/film/the-sword-in-the-stone/,https://image.tmdb.org/t/p/w500/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg
+420,"Indiana Jones and the Kingdom of the Crystal Skull",2008,917,21,https://letterboxd.com/film/indiana-jones-and-the-kingdom-of-the-crystal-skull/,https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg
 421,"Kick-Ass 2",2013,917,21,https://letterboxd.com/film/kick-ass-2/,https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg
 422,"Smart House",1999,916,21,https://letterboxd.com/film/smart-house/,https://image.tmdb.org/t/p/w500/t9QsaGkvHCt5A2IEv8jN1TkPPfo.jpg
 423,"A Nightmare on Elm Street 4: The Dream Master",1988,915,21,https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/,https://image.tmdb.org/t/p/w500/boStYG7jKdoIZTduiOOsUVknD13.jpg
